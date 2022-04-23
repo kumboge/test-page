@@ -1,10 +1,6 @@
 ---
-navItem: true
-layout: home
 title: 最新的GNEWS新聞
 ---
-
-> 更新時間 {{site.time | date_to_string: "ordinal", "CN"}}
 
 ### [一家钢铁厂变成马里乌波尔最后的堡垒和据点](/gnews/2396866.md)
  ` 墨尔本雅典娜农场`

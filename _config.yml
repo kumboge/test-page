@@ -1,5 +1,11 @@
+title: test page
+email: 
+description: >- # this means to ignore newlines until "baseurl:"
+  test
 theme: jekyll-theme-leap-day
-baseurl: /test-page
-# the subpath of your site, e.g. /blog
-url: https://kumboge.github.io
+
 # the base hostname & protocol for your site, e.g. http://example.com
+url: https://kumboge.github.io
+
+# the subpath of your site, e.g. /blog
+baseurl: /test-page

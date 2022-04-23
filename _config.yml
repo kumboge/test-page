@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
-baseurl: "/test-page" # the subpath of your site, e.g. /blog
-url: "https://kumboge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /test-page
+# the subpath of your site, e.g. /blog
+url: https://kumboge.github.io
+# the base hostname & protocol for your site, e.g. http://example.com

@@ -2,7 +2,7 @@
 title: 郭先生的GETTR
 ---
 
-[@miles 4/22/2022 10:02 PM UTC  - :tv:直播](/test-page/miles/gettr/p16oiw57d45.md)
+[@miles 4/22/2022 10:02 PM UTC  - :tv:直播](/test-page/miles/gettr/p16oiw57d45.html)
 
 4/22/2022 Miles Guo’s GETTR: The caregiver exposing the true story of a Shanghai senior who had to eat poop and died from it has been classified by the Communist Party as a “narrative attack” manipulated by foreigners causing devas...
 
@@ -10,7 +10,7 @@ title: 郭先生的GETTR
 
 ---
 
-[@miles 4/22/2022 10:03 PM UTC  - :tv:直播](/test-page/miles/gettr/p16ntkg306e.md)
+[@miles 4/22/2022 10:03 PM UTC  - :tv:直播](/test-page/miles/gettr/p16ntkg306e.html)
 
 “STOP TOUCHING HER! 别碰她！” 飞飞秀救援快报 2022-04-22
 
@@ -20,7 +20,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/22/2022 10:05 PM UTC  - :tv:直播](/test-page/miles/gettr/p16o8t4beea.md)
+[@miles 4/22/2022 10:05 PM UTC  - :tv:直播](/test-page/miles/gettr/p16o8t4beea.html)
 
 4/22/2022 Ukraine Rescue: The New Federal State of China just received a gratitude email from the Embassy of Ukraine in the Republic of Singapore, Brunei and New Zealand; the representative expresses Ukrainian people’s gratitude to...
 
@@ -28,7 +28,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/22/2022 10:10 PM UTC  - :tv:直播](/test-page/miles/gettr/p16ntkk814e.md)
+[@miles 4/22/2022 10:10 PM UTC  - :tv:直播](/test-page/miles/gettr/p16ntkk814e.html)
 
 4/22/2022 Miles Guo’s GETTR: Both the Hong Kong dollar and Hong Kong's economy are doomed. Nothing good will happen in Hong Kong unless the CCP is taken down. PAG will certainly go bankrupt in the future. Anyone who follows the CCP...
 
@@ -36,7 +36,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/22/2022 10:17 PM UTC  - :tv:直播](/test-page/miles/gettr/p16o5kyca70.md)
+[@miles 4/22/2022 10:17 PM UTC  - :tv:直播](/test-page/miles/gettr/p16o5kyca70.html)
 
 4/22/2022 Miles Guo’s GETTR: The war in the Taiwan Strait can happen at any moment! The CCP is serious about invading or blockading Taiwan! Once Taiwan fights back, Shanghai and Hong Kong will be targeted, and Fujian province will ...
 
@@ -44,7 +44,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/22/2022 10:41 PM UTC  - :tv:直播](/test-page/miles/gettr/p16omak0932.md)
+[@miles 4/22/2022 10:41 PM UTC  - :tv:直播](/test-page/miles/gettr/p16omak0932.html)
 
 【Ukraine Rescue】 04/20/2022 Thubten Wangchen, the parliamentary director of the Tibetan government-in-exile, is interviewed by our fellow fighter Nicole at the border town Medyka. Both sides share the exact same opinion that CCP wa...
 
@@ -52,7 +52,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/22/2022 10:57 PM UTC  - :tv:直播](/test-page/miles/gettr/p16ofig538b.md)
+[@miles 4/22/2022 10:57 PM UTC  - :tv:直播](/test-page/miles/gettr/p16ofig538b.html)
 
 【Ukraine Rescue】 04/20/2022 Thubten Wangchen, the parliamentary director of the Tibetan government-in-exile, is interviewed by our fellow fighter Nicole at the border town Medyka. Both sides share the exact same opinion that CCP wa...
 
@@ -60,7 +60,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/22/2022 11:10 PM UTC  - :tv:直播](/test-page/miles/gettr/p16ohzg9b45.md)
+[@miles 4/22/2022 11:10 PM UTC  - :tv:直播](/test-page/miles/gettr/p16ohzg9b45.html)
 
 2022.04.22  NFSC news  Canadian Media Covers NFSC’s Ukrainian Rescue Operation
 
@@ -68,7 +68,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/22/2022 11:13 PM UTC  - :tv:直播](/test-page/miles/gettr/p16o4lc30fe.md)
+[@miles 4/22/2022 11:13 PM UTC  - :tv:直播](/test-page/miles/gettr/p16o4lc30fe.html)
 
 【Ukraine Rescue】 04/22/2022 The man shown on camera not only prevented other volunteers from filming our billboard, but insulted our volunteers with obscene language. He also attempts to be violent with NFSC volunteer little Sarah ...
 
@@ -76,7 +76,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/22/2022 11:27 PM UTC  - :tv:直播](/test-page/miles/gettr/p16oi595109.md)
+[@miles 4/22/2022 11:27 PM UTC  - :tv:直播](/test-page/miles/gettr/p16oi595109.html)
 
 【Ukraine Rescue】 04/21/2022 International volunteer from the UK says she will have people in her circle download Gettr and GNews and spread the truth. She also hopes the voice of NFSC can be heard by many people.
 
@@ -88,7 +88,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/22/2022 11:40 PM UTC  - :tv:直播](/test-page/miles/gettr/p16odb1a00a.md)
+[@miles 4/22/2022 11:40 PM UTC  - :tv:直播](/test-page/miles/gettr/p16odb1a00a.html)
 
 【Ukraine Rescue】 04/21/2022 A volunteer from France applauds the idea of eliminating the CCP. He says: We should help the Chinese people to fight against the dictatorship of the CCP, maybe having coffee with you is a way to show ou...
 
@@ -96,7 +96,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/22/2022 11:44 PM UTC  - :tv:直播](/test-page/miles/gettr/p16okgs80b4.md)
+[@miles 4/22/2022 11:44 PM UTC  - :tv:直播](/test-page/miles/gettr/p16okgs80b4.html)
 
 2022.04.22《The Fringe》 Episode 175
 
@@ -106,7 +106,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/22/2022 11:48 PM UTC  - :tv:直播](/test-page/miles/gettr/p16oo8y930d.md)
+[@miles 4/22/2022 11:48 PM UTC  - :tv:直播](/test-page/miles/gettr/p16oo8y930d.html)
 
 【Ukraine Rescue】 04/22/2022 The LED billboard that NFSC has just set up at the Medyka Rescue Center is deliberately vandalized by someone who cut the cable. Moreover, someone is attacking our volunteers with filthy language and pre...
 
@@ -114,7 +114,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/23/2022 12:22 AM UTC  - :tv:直播](/test-page/miles/gettr/p16o4oz3007.md)
+[@miles 4/23/2022 12:22 AM UTC  - :tv:直播](/test-page/miles/gettr/p16o4oz3007.html)
 
 4/22/2022 Ukraine Rescue: The big tent of the New Federal State of China has the largest LED TV screen in the region to show the footage of our rescue operations. A 6-meter-high billboard was established to display the information ...
 
@@ -122,7 +122,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/23/2022 12:30 AM UTC  - :tv:直播](/test-page/miles/gettr/p16o5zx4ec4.md)
+[@miles 4/23/2022 12:30 AM UTC  - :tv:直播](/test-page/miles/gettr/p16o5zx4ec4.html)
 
 2022.04.22 晚  新中国联邦 | 新闻   中共计划所谓的“未来30年”；中共杀人体制的危害
 
@@ -130,7 +130,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/23/2022 1:00 AM UTC  - :tv:直播](/test-page/miles/gettr/p16or6wa99e.md)
+[@miles 4/23/2022 1:00 AM UTC  - :tv:直播](/test-page/miles/gettr/p16or6wa99e.html)
 
 2022.04.22 晚  新中国联邦 | 新闻访谈   4月26日Nancy Pelosi 访台，台湾面临中共毁岛命运
 
@@ -138,7 +138,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/23/2022 2:05 AM UTC  - :tv:直播](/test-page/miles/gettr/p16orwh97d3.md)
+[@miles 4/23/2022 2:05 AM UTC  - :tv:直播](/test-page/miles/gettr/p16orwh97d3.html)
 
 2022.04.22  新中国联邦 | 喜财经   馬斯克開嗆札克伯格：Meta完全被他控制
 
@@ -146,7 +146,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/23/2022 3:03 AM UTC  - :tv:直播](/test-page/miles/gettr/p16ol1w3631.md)
+[@miles 4/23/2022 3:03 AM UTC  - :tv:直播](/test-page/miles/gettr/p16ol1w3631.html)
 
 2022-4-22《鸡血王喜币大作战》 第一百七十三集 嘉宾：青藤、文空、风雨之中
 
@@ -154,7 +154,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/23/2022 5:00 AM UTC  - :tv:直播](/test-page/miles/gettr/p16qapjb1d4.md)
+[@miles 4/23/2022 5:00 AM UTC  - :tv:直播](/test-page/miles/gettr/p16qapjb1d4.html)
 
 新中国联邦法治基金乌克兰人道救援行动--最新战况播报
 
@@ -162,7 +162,7 @@ For English：gettr.com/streaming/p16o9nd9be9
 
 ---
 
-[@miles 4/23/2022 8:09 AM UTC  - :tv:直播](/test-page/miles/gettr/p16ptj8edb1.md)
+[@miles 4/23/2022 8:09 AM UTC  - :tv:直播](/test-page/miles/gettr/p16ptj8edb1.html)
 
 新中国联邦法治基金乌克兰人道救援行动--波兰救援基地前线报导
 

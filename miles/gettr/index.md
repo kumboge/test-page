@@ -2,171 +2,171 @@
 title: 郭先生的GETTR
 ---
 
-[@miles 4/22/2022 10:02 PM UTC  - :tv:直播](/test-page/miles/gettr/p16oiw57d45)
+[@miles 4/23/2022 8:45 PM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16snoo0084)
 
-4/22/2022 Miles Guo’s GETTR: The caregiver exposing the true story of a Shanghai senior who had to eat poop and died from it has been classified by the Communist Party as a “narrative attack” manipulated by foreigners causing devas...
+2022.04.23  新中国联邦 | 喜健康   如斯医生专访
 
-<img src="https://media.gettr.com/group38/getter/2022/04/22/22/82175298-9a9d-4564-d687-f34b44142cb0/out.jpg" width="506" height="284">
-
----
-
-[@miles 4/22/2022 10:03 PM UTC  - :tv:直播](/test-page/miles/gettr/p16ntkg306e)
-
-“STOP TOUCHING HER! 别碰她！” 飞飞秀救援快报 2022-04-22
-
-For English：gettr.com/streaming/p16o9nd9be9
-
-<img src="https://media.gettr.com/group41/origin/2022/04/22/22/4f57735b-f5e6-8a68-83ad-db82df07f0b4/6383d6c383a688bc0ce747d8282e44b3.jpeg" width="506" height="284">
+<img src="https://media.gettr.com/group45/origin/2022/04/18/20/93a747d6-61b9-c02d-36b0-79f6aa417f55/6383d6c383a688bc0ce747d8282e44b3.jpeg" width="506" height="284">
 
 ---
 
-[@miles 4/22/2022 10:05 PM UTC  - :tv:直播](/test-page/miles/gettr/p16o8t4beea)
+[@miles 4/23/2022 10:03 PM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16svsvf604)
 
-4/22/2022 Ukraine Rescue: The New Federal State of China just received a gratitude email from the Embassy of Ukraine in the Republic of Singapore, Brunei and New Zealand; the representative expresses Ukrainian people’s gratitude to...
+“麦田里的俄爹...” 飞飞秀救援快报 2022-04-23
 
-<img src="https://media.gettr.com/group14/getter/2022/04/22/22/5ba9e615-99dd-68b3-30be-4dac133597c8/out.jpg" width="506" height="284">
+For English：gettr.com/streaming/p16sxf58827
 
----
-
-[@miles 4/22/2022 10:10 PM UTC  - :tv:直播](/test-page/miles/gettr/p16ntkk814e)
-
-4/22/2022 Miles Guo’s GETTR: Both the Hong Kong dollar and Hong Kong's economy are doomed. Nothing good will happen in Hong Kong unless the CCP is taken down. PAG will certainly go bankrupt in the future. Anyone who follows the CCP...
-
-<img src="https://media.gettr.com/group36/getter/2022/04/22/22/00716d9c-0437-862f-fa40-cc1ad8a1a2e3/out.jpg" width="506" height="284">
+<img src="https://media.gettr.com/group8/origin/2022/04/23/22/f408fafc-23a1-4cfe-de8b-daa8f1b2e665/6383d6c383a688bc0ce747d8282e44b3.jpeg" width="506" height="284">
 
 ---
 
-[@miles 4/22/2022 10:17 PM UTC  - :tv:直播](/test-page/miles/gettr/p16o5kyca70)
+[@miles 4/23/2022 10:05 PM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16soq43ba9)
 
-4/22/2022 Miles Guo’s GETTR: The war in the Taiwan Strait can happen at any moment! The CCP is serious about invading or blockading Taiwan! Once Taiwan fights back, Shanghai and Hong Kong will be targeted, and Fujian province will ...
+4/23/2022 Miles Guo: I can tell you it is 100% sure that Beijing will be quarantined! Not 99% but 100% sure! The CCP has been aware that if they let Chinese people live well, Chinese people will be making difficult for them.
 
-<img src="https://media.gettr.com/group20/getter/2022/04/22/22/76ce65e5-8c0c-bf6d-dda6-c3084e016fc6/out.jpg" width="506" height="284">
 
----
 
-[@miles 4/22/2022 10:41 PM UTC  - :tv:直播](/test-page/miles/gettr/p16omak0932)
+4/2...
 
-【Ukraine Rescue】 04/20/2022 Thubten Wangchen, the parliamentary director of the Tibetan government-in-exile, is interviewed by our fellow fighter Nicole at the border town Medyka. Both sides share the exact same opinion that CCP wa...
-
-<img src="https://media.gettr.com/group9/getter/2022/04/22/22/77bc97aa-1d8c-d7a1-9035-9e61508fa82b/out.jpg" width="506" height="284">
+<img src="https://media.gettr.com/group24/getter/2022/04/23/22/980700f3-e919-8574-07b4-5ebd8532c27a/out.jpg" width="506" height="284">
 
 ---
 
-[@miles 4/22/2022 10:57 PM UTC  - :tv:直播](/test-page/miles/gettr/p16ofig538b)
+[@miles 4/23/2022 10:12 PM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16sv9a1a11)
 
-【Ukraine Rescue】 04/20/2022 Thubten Wangchen, the parliamentary director of the Tibetan government-in-exile, is interviewed by our fellow fighter Nicole at the border town Medyka. Both sides share the exact same opinion that CCP wa...
+4/23/2022 Miles Guo: Never happened ever since 1949! Within 2 weeks over 60,000 armed police were deployed and stationed in Beijing! Communist China is in the early phase of outbreak of COVID vaccine adverse effects and disasters; ...
 
-<img src="https://media.gettr.com/group34/getter/2022/04/22/22/d47979df-30f5-bf74-7f9b-ecd23072b98d/out.jpg" width="506" height="284">
-
----
-
-[@miles 4/22/2022 11:10 PM UTC  - :tv:直播](/test-page/miles/gettr/p16ohzg9b45)
-
-2022.04.22  NFSC news  Canadian Media Covers NFSC’s Ukrainian Rescue Operation
-
-<img src="https://media.gettr.com/group3/origin/2022/04/22/22/cac28c05-7dde-5795-4ec1-37596e58a683/9548d67018b19975dcafea4c4484666a.png" width="506" height="284">
+<img src="https://media.gettr.com/group9/getter/2022/04/23/22/7b8cd301-d4ca-7c79-d322-a7137ee9c92b/out.jpg" width="506" height="284">
 
 ---
 
-[@miles 4/22/2022 11:13 PM UTC  - :tv:直播](/test-page/miles/gettr/p16o4lc30fe)
+[@miles 4/23/2022 10:20 PM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16su6q6799)
 
-【Ukraine Rescue】 04/22/2022 The man shown on camera not only prevented other volunteers from filming our billboard, but insulted our volunteers with obscene language. He also attempts to be violent with NFSC volunteer little Sarah ...
+4/23/2022 Miles Guo: Nancy Pelosi may not be able to visit Taiwan on April 26th. The CCP hired many agents in the US in an attempt to delay Pelosi’s Taiwan visit till July or August. Xi Jinping is anticipating chaos in the US after...
 
-<img src="https://media.gettr.com/group8/getter/2022/04/22/23/8aaae5a9-060d-b995-7e72-050cf7f5df0f/out.jpg" width="506" height="284">
-
----
-
-[@miles 4/22/2022 11:27 PM UTC  - :tv:直播](/test-page/miles/gettr/p16oi595109)
-
-【Ukraine Rescue】 04/21/2022 International volunteer from the UK says she will have people in her circle download Gettr and GNews and spread the truth. She also hopes the voice of NFSC can be heard by many people.
-
-
-
-【乌克兰救援】 04/21/2...
-
-<img src="https://media.gettr.com/group46/getter/2022/04/22/23/e2041ba7-9aa1-3c73-a06a-6a86519d96df/out.jpg" width="506" height="284">
+<img src="https://media.gettr.com/group18/getter/2022/04/23/22/17aedeb4-89e8-f42a-108c-dbe726998dd5/out.jpg" width="506" height="284">
 
 ---
 
-[@miles 4/22/2022 11:40 PM UTC  - :tv:直播](/test-page/miles/gettr/p16odb1a00a)
+[@miles 4/23/2022 10:24 PM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16szt73e6b)
 
-【Ukraine Rescue】 04/21/2022 A volunteer from France applauds the idea of eliminating the CCP. He says: We should help the Chinese people to fight against the dictatorship of the CCP, maybe having coffee with you is a way to show ou...
+4/23/2022 Miles Guo: All the banks in Communist China are under the CCP’s control. These banks will restrict cash withdrawals and transfers and will regulate accounts with large amounts. The banks and bankers in Communist China wil...
 
-<img src="https://media.gettr.com/group19/getter/2022/04/22/23/1b92a24c-38d1-1389-de3a-f24d5c33cb46/out.jpg" width="506" height="284">
-
----
-
-[@miles 4/22/2022 11:44 PM UTC  - :tv:直播](/test-page/miles/gettr/p16okgs80b4)
-
-2022.04.22《The Fringe》 Episode 175
-
-中文同传：https://gettr.com/streaming/p16op0823dc
-
-<img src="https://media.gettr.com/group44/origin/2022/04/22/23/39e12762-42c9-548a-6f24-a4202306b4c0/6383d6c383a688bc0ce747d8282e44b3.jpeg" width="506" height="284">
+<img src="https://media.gettr.com/group10/getter/2022/04/23/22/5e0c217a-564f-9559-17c8-223cbddc03e0/out.jpg" width="506" height="284">
 
 ---
 
-[@miles 4/22/2022 11:48 PM UTC  - :tv:直播](/test-page/miles/gettr/p16oo8y930d)
+[@miles 4/23/2022 10:28 PM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16t7t365f8)
 
-【Ukraine Rescue】 04/22/2022 The LED billboard that NFSC has just set up at the Medyka Rescue Center is deliberately vandalized by someone who cut the cable. Moreover, someone is attacking our volunteers with filthy language and pre...
+4/23/2022 Miles Guo: Those fellow fighters who did not follow my advice regret it, but it is too late. The data collected by a fellow fighter in Shanghai confirms my estimate of the death toll in Shanghai. Fellow fighters, you must...
 
-<img src="https://media.gettr.com/group22/getter/2022/04/22/23/ff372759-392c-0fc0-f633-1800a9f004cb/out.jpg" width="506" height="284">
-
----
-
-[@miles 4/23/2022 12:22 AM UTC  - :tv:直播](/test-page/miles/gettr/p16o4oz3007)
-
-4/22/2022 Ukraine Rescue: The big tent of the New Federal State of China has the largest LED TV screen in the region to show the footage of our rescue operations. A 6-meter-high billboard was established to display the information ...
-
-<img src="https://media.gettr.com/group42/getter/2022/04/23/00/d44ed067-2d37-ec95-82bb-9cf47bee25c2/out.jpg" width="506" height="284">
+<img src="https://media.gettr.com/group39/getter/2022/04/23/22/5e22e167-49f0-0d50-3986-fb80b4f1359d/out.jpg" width="506" height="284">
 
 ---
 
-[@miles 4/23/2022 12:30 AM UTC  - :tv:直播](/test-page/miles/gettr/p16o5zx4ec4)
+[@miles 4/23/2022 10:32 PM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16sjpsd1a3)
 
-2022.04.22 晚  新中国联邦 | 新闻   中共计划所谓的“未来30年”；中共杀人体制的危害
+4/23/2022 Miles Guo: According to our fellow fighters from mainland China, the daily positive cases in Beijing are at least tens of thousands, and the CCP has well prepared for imposing a massive lockdown and control in Beijing; Mi...
 
-<img src="https://media.gettr.com/group17/origin/2022/04/23/00/9bce90ba-8e31-5dc8-be90-32684764ecf4/6383d6c383a688bc0ce747d8282e44b3.jpeg" width="506" height="284">
-
----
-
-[@miles 4/23/2022 1:00 AM UTC  - :tv:直播](/test-page/miles/gettr/p16or6wa99e)
-
-2022.04.22 晚  新中国联邦 | 新闻访谈   4月26日Nancy Pelosi 访台，台湾面临中共毁岛命运
-
-<img src="https://media.gettr.com/group50/origin/2022/04/23/00/5889189c-79f6-a9d5-e631-8ec8213191ef/9548d67018b19975dcafea4c4484666a.png" width="506" height="284">
+<img src="https://media.gettr.com/group47/getter/2022/04/23/22/143f6d57-73ad-2ffd-153e-c90abf965b6b/out.jpg" width="506" height="284">
 
 ---
 
-[@miles 4/23/2022 2:05 AM UTC  - :tv:直播](/test-page/miles/gettr/p16orwh97d3)
+[@miles 4/23/2022 10:50 PM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16t24m2f4d)
 
-2022.04.22  新中国联邦 | 喜财经   馬斯克開嗆札克伯格：Meta完全被他控制
+【Ukraine Rescue】 04/22/2022 The suspected spy of the Chinese Communist Party cut the billboard wire of our New Federal State of China in the United Nations Migration Agency tent.
 
-<img src="https://media.gettr.com/group20/origin/2022/04/23/02/5edd2aaa-8379-17c7-1261-f349754f94d7/9548d67018b19975dcafea4c4484666a.png" width="506" height="284">
 
----
 
-[@miles 4/23/2022 3:03 AM UTC  - :tv:直播](/test-page/miles/gettr/p16ol1w3631)
+【乌克兰救援】 04/22/2022 疑似共产党的间谍在联合国移民署帐篷里面剪断了我们新中国联邦广...
 
-2022-4-22《鸡血王喜币大作战》 第一百七十三集 嘉宾：青藤、文空、风雨之中
-
-<img src="https://media.gettr.com/group10/origin/2022/04/23/03/44756be8-3069-d5fa-a3b2-3e40ed1c813d/6383d6c383a688bc0ce747d8282e44b3.jpeg" width="506" height="284">
+<img src="https://media.gettr.com/group11/getter/2022/04/23/22/de22b283-a6e2-0417-8e03-5bcdf39cba00/out.jpg" width="506" height="284">
 
 ---
 
-[@miles 4/23/2022 5:00 AM UTC  - :tv:直播](/test-page/miles/gettr/p16qapjb1d4)
+[@miles 4/23/2022 10:56 PM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16t326f517)
 
-新中国联邦法治基金乌克兰人道救援行动--最新战况播报
+【Ukraine Rescue】 04/22/2022  An Irish volunteer interviewed by Nicole says: When money talks, truth dies. The mainstream media strictly censors people's speech out of financial interests, so the voice of the New Federal State of Ch...
 
-<img src="https://media.gettr.com/group26/origin/2022/04/23/04/9f2c0094-5192-9487-741d-bffd0664c9af/6383d6c383a688bc0ce747d8282e44b3.jpeg" width="506" height="284">
+<img src="https://media.gettr.com/group21/getter/2022/04/23/22/9cde61cc-8c26-ac99-747d-1c39d9665f83/out.jpg" width="506" height="284">
 
 ---
 
-[@miles 4/23/2022 8:09 AM UTC  - :tv:直播](/test-page/miles/gettr/p16ptj8edb1)
+[@miles 4/23/2022 11:00 PM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16slvdda04)
 
-新中国联邦法治基金乌克兰人道救援行动--波兰救援基地前线报导
+2022.04.23  PM NFSC news  NFSC may Establish Embassies in Ukraine and Poland
 
-<img src="https://media.gettr.com/group4/origin/2022/04/23/07/fd8f7628-75ec-95b4-04e9-6adeacb9dda6/6383d6c383a688bc0ce747d8282e44b3.jpeg" width="506" height="284">
+<img src="https://media.gettr.com/group46/origin/2022/04/23/22/18167c12-f591-4db7-b475-251068d2ff7a/9548d67018b19975dcafea4c4484666a.png" width="506" height="284">
+
+---
+
+[@miles 4/23/2022 11:36 PM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16srl5d8ac)
+
+2022.04.23 NOTICIAS DEL NUEVO ESTADO FEDERAL DE CHINA
+
+<img src="https://media.gettr.com/group9/origin/2022/04/23/23/d0d017b2-1964-27a6-de7a-a12c2eaaf0ea/6383d6c383a688bc0ce747d8282e44b3.jpeg" width="506" height="284">
+
+---
+
+[@miles 4/23/2022 11:56 PM UTC ]({site.baseurl}/miles/gettr/p16tagc0d25)
+
+4月23号：恰恰是在一年前的同一天，2021年4月23号．七哥的预警中国的航空母舰用的是俄罗斯的飞机和俄罗斯的飞行员．这说明了什么？
+
+---
+
+[@miles 4/24/2022 12:33 AM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16t0x9e84c)
+
+2022.04.23 晚  新中国联邦 | 新闻   有可疑人士蓄意破坏新中国联邦法制基金救援基地；西藏流亡政府议会主任在梅迪卡边境接受战友采访
+
+<img src="https://media.gettr.com/group36/origin/2022/04/24/00/0faa071d-63d1-9681-45cf-5ff609e19fac/6383d6c383a688bc0ce747d8282e44b3.jpeg" width="506" height="284">
+
+---
+
+[@miles 4/24/2022 12:39 AM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16t5mda291)
+
+4/23/2022: On April 23, 2021,  Miles revealed that the pilots on the CCP’s aircraft carrier Liaoning were all from Russia. Exactly one year later, a CCP military plane crashed in Henan Province, and local villagers found a Russian ...
+
+<img src="https://media.gettr.com/group30/getter/2022/04/24/00/096d6ef7-09dd-f431-6431-d3d3810e18e7/out.jpg" width="506" height="284">
+
+---
+
+[@miles 4/24/2022 1:07 AM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16tm6g48c6)
+
+2022.04.23 晚  新中国联邦 | 新闻访谈   战斗机河南坠毁，惊现外国飞行员；封城前兆：多地开始大规模核酸检测
+
+<img src="https://media.gettr.com/group6/origin/2022/04/24/01/c261b27d-4772-c8f0-f716-415254185c6f/9548d67018b19975dcafea4c4484666a.png" width="506" height="284">
+
+---
+
+[@miles 4/24/2022 2:01 AM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16tgkaba4a)
+
+2022.04.23  新中国联邦 | 喜财经    喜币发行量背后的新金融模式；货币、财富与价值的爱恨情仇 ；G系列喜生态解读
+
+<img src="https://media.gettr.com/group35/origin/2022/04/24/01/afbe3720-e7d1-be12-f5fc-6ff05f4c9995/9548d67018b19975dcafea4c4484666a.png" width="506" height="284">
+
+---
+
+[@miles 4/24/2022 2:38 AM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16tf185e29)
+
+4/23/2022 Miles Guo: Mr. Guo suggested that fellow fighters should assess their particular situations to decide whether or not going back to their hometowns in rural areas, if possible, staying where they are might be a better choi...
+
+<img src="https://media.gettr.com/group5/getter/2022/04/24/02/f3cb16c5-5249-246d-5c73-11d45db4fe14/out.jpg" width="506" height="284">
+
+---
+
+[@miles 4/24/2022 3:08 AM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16tmgb41ad)
+
+2022-4-23《鸡血王喜币大作战》 第一百七十四集 嘉宾：卡丽熙、Eric
+
+<img src="https://media.gettr.com/group22/origin/2022/04/24/03/7ba45a6f-3054-0370-9364-ddf6ae58043d/6383d6c383a688bc0ce747d8282e44b3.jpeg" width="506" height="284">
+
+---
+
+[@miles 4/24/2022 4:58 AM UTC  - :tv:直播]({site.baseurl}/miles/gettr/p16v1xbee79)
+
+04.24.2022 新中国联邦法治基金乌克兰人道救援行动-俄乌战争最新战况播报
+
+<img src="https://media.gettr.com/group42/origin/2022/04/24/04/349412a6-fd10-da3e-c4cd-2c561247e4ad/6383d6c383a688bc0ce747d8282e44b3.jpeg" width="506" height="284">
 
 ---
 

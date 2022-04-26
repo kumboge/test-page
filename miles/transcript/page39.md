@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 39/42 [**<**](miles/transcript/page38) [1](miles/transcript) ... [34](miles/transcript/page34) [35](miles/transcript/page35) [36](miles/transcript/page36) [37](miles/transcript/page37) [38](miles/transcript/page38) **39** [40](miles/transcript/page40) [41](miles/transcript/page41) [42](miles/transcript/page42) [**>**](miles/transcript/page40)
+## 頁面 39/42 [**<**]({{site.baseurl}}/miles/transcript/page38) [1]({{site.baseurl}}/miles/transcript/index) ... [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) **39** [40]({{site.baseurl}}/miles/transcript/page40) [41]({{site.baseurl}}/miles/transcript/page41) [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page40)
 
 [11月8日文贵twitter再次被封7天后的报平安视频](/content/transcript/2018/04/20180418-7262790199483543364)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [翻译：总统特朗普，郭文贵和一连串的奇事](/content/transcript/2018/04/20180418-4937079468780903769)
 
 
-## 頁面 39/42 [**<**](miles/transcript/page38) [1](miles/transcript) ... [34](miles/transcript/page34) [35](miles/transcript/page35) [36](miles/transcript/page36) [37](miles/transcript/page37) [38](miles/transcript/page38) **39** [40](miles/transcript/page40) [41](miles/transcript/page41) [42](miles/transcript/page42) [**>**](miles/transcript/page40)
+## 頁面 39/42 [**<**]({{site.baseurl}}/miles/transcript/page38) [1]({{site.baseurl}}/miles/transcript/index) ... [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) **39** [40]({{site.baseurl}}/miles/transcript/page40) [41]({{site.baseurl}}/miles/transcript/page41) [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page40)

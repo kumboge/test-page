@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 25/42 [**<**](miles/transcript/page24) [1](miles/transcript) ... [20](miles/transcript/page20) [21](miles/transcript/page21) [22](miles/transcript/page22) [23](miles/transcript/page23) [24](miles/transcript/page24) **25** [26](miles/transcript/page26) [27](miles/transcript/page27) [28](miles/transcript/page28) [29](miles/transcript/page29) [30](miles/transcript/page30) ... [42](miles/transcript/page42) [**>**](miles/transcript/page26)
+## 頁面 25/42 [**<**]({{site.baseurl}}/miles/transcript/page24) [1]({{site.baseurl}}/miles/transcript/index) ... [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) **25** [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page26)
 
 [文字版：2019年8月11日文貴船上直播高度關注香港](/content/transcript/2019/08/20190813-1303455060330520952)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：2019年7月8日：文贵车上谈王健之死](/content/transcript/2019/07/20190710-5360676795961744736)
 
 
-## 頁面 25/42 [**<**](miles/transcript/page24) [1](miles/transcript) ... [20](miles/transcript/page20) [21](miles/transcript/page21) [22](miles/transcript/page22) [23](miles/transcript/page23) [24](miles/transcript/page24) **25** [26](miles/transcript/page26) [27](miles/transcript/page27) [28](miles/transcript/page28) [29](miles/transcript/page29) [30](miles/transcript/page30) ... [42](miles/transcript/page42) [**>**](miles/transcript/page26)
+## 頁面 25/42 [**<**]({{site.baseurl}}/miles/transcript/page24) [1]({{site.baseurl}}/miles/transcript/index) ... [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) **25** [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page26)

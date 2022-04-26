@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 29/42 [**<**](miles/transcript/page28) [1](miles/transcript) ... [24](miles/transcript/page24) [25](miles/transcript/page25) [26](miles/transcript/page26) [27](miles/transcript/page27) [28](miles/transcript/page28) **29** [30](miles/transcript/page30) [31](miles/transcript/page31) [32](miles/transcript/page32) [33](miles/transcript/page33) [34](miles/transcript/page34) ... [42](miles/transcript/page42) [**>**](miles/transcript/page30)
+## 頁面 29/42 [**<**]({{site.baseurl}}/miles/transcript/page28) [1]({{site.baseurl}}/miles/transcript/index) ... [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) **29** [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page30)
 
 [文字版：2019年2月26日談法治基金和金正恩與川普團隊的不同](/content/transcript/2019/02/20190227-2121363787945897238)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版2019年1月19日，文贵报平安视频，中共以假治国、以黑治国到了终结的时候，政事小哥事件在国内影响巨大，这是一个让美国人都恐惧的标志性事件](/content/transcript/2019/01/20190122-141136365873986277)
 
 
-## 頁面 29/42 [**<**](miles/transcript/page28) [1](miles/transcript) ... [24](miles/transcript/page24) [25](miles/transcript/page25) [26](miles/transcript/page26) [27](miles/transcript/page27) [28](miles/transcript/page28) **29** [30](miles/transcript/page30) [31](miles/transcript/page31) [32](miles/transcript/page32) [33](miles/transcript/page33) [34](miles/transcript/page34) ... [42](miles/transcript/page42) [**>**](miles/transcript/page30)
+## 頁面 29/42 [**<**]({{site.baseurl}}/miles/transcript/page28) [1]({{site.baseurl}}/miles/transcript/index) ... [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) **29** [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page30)

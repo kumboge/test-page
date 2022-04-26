@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 28/42 [**<**](miles/transcript/page27) [1](miles/transcript) ... [23](miles/transcript/page23) [24](miles/transcript/page24) [25](miles/transcript/page25) [26](miles/transcript/page26) [27](miles/transcript/page27) **28** [29](miles/transcript/page29) [30](miles/transcript/page30) [31](miles/transcript/page31) [32](miles/transcript/page32) [33](miles/transcript/page33) ... [42](miles/transcript/page42) [**>**](miles/transcript/page29)
+## 頁面 28/42 [**<**]({{site.baseurl}}/miles/transcript/page27) [1]({{site.baseurl}}/miles/transcript/index) ... [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) **28** [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page29)
 
 [文字版：2019年4月29日：臺灣，香港，將是滅共的重要之地](/content/transcript/2019/04/20190430-3839114876829416800)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：2019年2月27日：一切都是天注定吗？习亡（于）岐山，民心向郭······](/content/transcript/2019/02/20190228-4589670167001687334)
 
 
-## 頁面 28/42 [**<**](miles/transcript/page27) [1](miles/transcript) ... [23](miles/transcript/page23) [24](miles/transcript/page24) [25](miles/transcript/page25) [26](miles/transcript/page26) [27](miles/transcript/page27) **28** [29](miles/transcript/page29) [30](miles/transcript/page30) [31](miles/transcript/page31) [32](miles/transcript/page32) [33](miles/transcript/page33) ... [42](miles/transcript/page42) [**>**](miles/transcript/page29)
+## 頁面 28/42 [**<**]({{site.baseurl}}/miles/transcript/page27) [1]({{site.baseurl}}/miles/transcript/index) ... [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) **28** [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page29)

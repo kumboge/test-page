@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 35/42 [**<**](miles/transcript/page34) [1](miles/transcript) ... [30](miles/transcript/page30) [31](miles/transcript/page31) [32](miles/transcript/page32) [33](miles/transcript/page33) [34](miles/transcript/page34) **35** [36](miles/transcript/page36) [37](miles/transcript/page37) [38](miles/transcript/page38) [39](miles/transcript/page39) [40](miles/transcript/page40) ... [42](miles/transcript/page42) [**>**](miles/transcript/page36)
+## 頁面 35/42 [**<**]({{site.baseurl}}/miles/transcript/page34) [1]({{site.baseurl}}/miles/transcript/index) ... [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) **35** [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page36)
 
 [郭文贵先生与陈志煜对话录音（中英字幕）](/content/transcript/2018/04/20180425-6089618542439587251)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版： 3月28日香港黑警察与金正恩访华！](/content/transcript/2018/04/20180418-7167850208053713596)
 
 
-## 頁面 35/42 [**<**](miles/transcript/page34) [1](miles/transcript) ... [30](miles/transcript/page30) [31](miles/transcript/page31) [32](miles/transcript/page32) [33](miles/transcript/page33) [34](miles/transcript/page34) **35** [36](miles/transcript/page36) [37](miles/transcript/page37) [38](miles/transcript/page38) [39](miles/transcript/page39) [40](miles/transcript/page40) ... [42](miles/transcript/page42) [**>**](miles/transcript/page36)
+## 頁面 35/42 [**<**]({{site.baseurl}}/miles/transcript/page34) [1]({{site.baseurl}}/miles/transcript/index) ... [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) **35** [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page36)

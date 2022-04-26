@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 24/42 [**<**](miles/transcript/page23) [1](miles/transcript) ... [19](miles/transcript/page19) [20](miles/transcript/page20) [21](miles/transcript/page21) [22](miles/transcript/page22) [23](miles/transcript/page23) **24** [25](miles/transcript/page25) [26](miles/transcript/page26) [27](miles/transcript/page27) [28](miles/transcript/page28) [29](miles/transcript/page29) ... [42](miles/transcript/page42) [**>**](miles/transcript/page25)
+## 頁面 24/42 [**<**]({{site.baseurl}}/miles/transcript/page23) [1]({{site.baseurl}}/miles/transcript/index) ... [19]({{site.baseurl}}/miles/transcript/page19) [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) **24** [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page25)
 
 [文字版：2019年9月13日与战友们分享第一个没有母亲的中秋节的感受](/content/transcript/2019/09/20190915-1829806510018363153)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：2019年8月12日報平安 香港人現在遭遇比當年日本鬼子還壞](/content/transcript/2019/08/20190813-2165620896818936239)
 
 
-## 頁面 24/42 [**<**](miles/transcript/page23) [1](miles/transcript) ... [19](miles/transcript/page19) [20](miles/transcript/page20) [21](miles/transcript/page21) [22](miles/transcript/page22) [23](miles/transcript/page23) **24** [25](miles/transcript/page25) [26](miles/transcript/page26) [27](miles/transcript/page27) [28](miles/transcript/page28) [29](miles/transcript/page29) ... [42](miles/transcript/page42) [**>**](miles/transcript/page25)
+## 頁面 24/42 [**<**]({{site.baseurl}}/miles/transcript/page23) [1]({{site.baseurl}}/miles/transcript/index) ... [19]({{site.baseurl}}/miles/transcript/page19) [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) **24** [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page25)

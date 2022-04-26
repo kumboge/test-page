@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 41/42 [**<**](miles/transcript/page40) [1](miles/transcript) ... [36](miles/transcript/page36) [37](miles/transcript/page37) [38](miles/transcript/page38) [39](miles/transcript/page39) [40](miles/transcript/page40) **41** [42](miles/transcript/page42) [**>**](miles/transcript/page42)
+## 頁面 41/42 [**<**]({{site.baseurl}}/miles/transcript/page40) [1]({{site.baseurl}}/miles/transcript/index) ... [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) **41** [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page42)
 
 [NHK 世界新闻：中国亿万富翁批评中国政府的领导阶层](/content/transcript/2018/04/20180418-8782315684152609597)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [郭文贵先生9月10号报平安直播文字版](/content/transcript/2018/04/20180418-8363627678146390497)
 
 
-## 頁面 41/42 [**<**](miles/transcript/page40) [1](miles/transcript) ... [36](miles/transcript/page36) [37](miles/transcript/page37) [38](miles/transcript/page38) [39](miles/transcript/page39) [40](miles/transcript/page40) **41** [42](miles/transcript/page42) [**>**](miles/transcript/page42)
+## 頁面 41/42 [**<**]({{site.baseurl}}/miles/transcript/page40) [1]({{site.baseurl}}/miles/transcript/index) ... [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) **41** [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page42)

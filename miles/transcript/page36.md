@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 36/42 [**<**](miles/transcript/page35) [1](miles/transcript) ... [31](miles/transcript/page31) [32](miles/transcript/page32) [33](miles/transcript/page33) [34](miles/transcript/page34) [35](miles/transcript/page35) **36** [37](miles/transcript/page37) [38](miles/transcript/page38) [39](miles/transcript/page39) [40](miles/transcript/page40) [41](miles/transcript/page41) [42](miles/transcript/page42) ... [**>**](miles/transcript/page37)
+## 頁面 36/42 [**<**]({{site.baseurl}}/miles/transcript/page35) [1]({{site.baseurl}}/miles/transcript/index) ... [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) **36** [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) [41]({{site.baseurl}}/miles/transcript/page41) [42]({{site.baseurl}}/miles/transcript/page42) ... [**>**]({{site.baseurl}}/miles/transcript/page37)
 
 [文字版：3月24号郭先生平安视频向大家汇报．昨天的会议交流＂中南妖与中南怪＂情况！一切都是刚刚开始](/content/transcript/2018/04/20180418-6369908428549122870)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [翻译：Bill Gertz 中国大型企业集团面临美国制裁](/content/transcript/2018/04/20180418-763599540793711583)
 
 
-## 頁面 36/42 [**<**](miles/transcript/page35) [1](miles/transcript) ... [31](miles/transcript/page31) [32](miles/transcript/page32) [33](miles/transcript/page33) [34](miles/transcript/page34) [35](miles/transcript/page35) **36** [37](miles/transcript/page37) [38](miles/transcript/page38) [39](miles/transcript/page39) [40](miles/transcript/page40) [41](miles/transcript/page41) [42](miles/transcript/page42) ... [**>**](miles/transcript/page37)
+## 頁面 36/42 [**<**]({{site.baseurl}}/miles/transcript/page35) [1]({{site.baseurl}}/miles/transcript/index) ... [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) **36** [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) [41]({{site.baseurl}}/miles/transcript/page41) [42]({{site.baseurl}}/miles/transcript/page42) ... [**>**]({{site.baseurl}}/miles/transcript/page37)

@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 26/42 [**<**](miles/transcript/page25) [1](miles/transcript) ... [21](miles/transcript/page21) [22](miles/transcript/page22) [23](miles/transcript/page23) [24](miles/transcript/page24) [25](miles/transcript/page25) **26** [27](miles/transcript/page27) [28](miles/transcript/page28) [29](miles/transcript/page29) [30](miles/transcript/page30) [31](miles/transcript/page31) ... [42](miles/transcript/page42) [**>**](miles/transcript/page27)
+## 頁面 26/42 [**<**]({{site.baseurl}}/miles/transcript/page25) [1]({{site.baseurl}}/miles/transcript/index) ... [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) **26** [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page27)
 
 [文字版：2019年7月8日文贵在船上讲述在长岛买豪宅借战友和我是不是双料间谍](/content/transcript/2019/07/20190710-4802216487220776718)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：2019年6月7日 香港的事真搞大了](/content/transcript/2019/06/20190608-7273432154872200395)
 
 
-## 頁面 26/42 [**<**](miles/transcript/page25) [1](miles/transcript) ... [21](miles/transcript/page21) [22](miles/transcript/page22) [23](miles/transcript/page23) [24](miles/transcript/page24) [25](miles/transcript/page25) **26** [27](miles/transcript/page27) [28](miles/transcript/page28) [29](miles/transcript/page29) [30](miles/transcript/page30) [31](miles/transcript/page31) ... [42](miles/transcript/page42) [**>**](miles/transcript/page27)
+## 頁面 26/42 [**<**]({{site.baseurl}}/miles/transcript/page25) [1]({{site.baseurl}}/miles/transcript/index) ... [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) **26** [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page27)

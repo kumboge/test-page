@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 8/42 [**<**](miles/transcript/page7) [1](miles/transcript) ... [3](miles/transcript/page3) [4](miles/transcript/page4) [5](miles/transcript/page5) [6](miles/transcript/page6) [7](miles/transcript/page7) **8** [9](miles/transcript/page9) [10](miles/transcript/page10) [11](miles/transcript/page11) [12](miles/transcript/page12) [13](miles/transcript/page13) ... [42](miles/transcript/page42) [**>**](miles/transcript/page9)
+## 頁面 8/42 [**<**]({{site.baseurl}}/miles/transcript/page7) [1]({{site.baseurl}}/miles/transcript/index) ... [3]({{site.baseurl}}/miles/transcript/page3) [4]({{site.baseurl}}/miles/transcript/page4) [5]({{site.baseurl}}/miles/transcript/page5) [6]({{site.baseurl}}/miles/transcript/page6) [7]({{site.baseurl}}/miles/transcript/page7) **8** [9]({{site.baseurl}}/miles/transcript/page9) [10]({{site.baseurl}}/miles/transcript/page10) [11]({{site.baseurl}}/miles/transcript/page11) [12]({{site.baseurl}}/miles/transcript/page12) [13]({{site.baseurl}}/miles/transcript/page13) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page9)
 
 [2021年9月4日郭文贵先生试骑摩托车盖特全文字版](/content/transcript/2021/09/20210904-1566780)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [2021年8月19日郭文贵先生吃烧鸡配辣椒盖特全文字版](/content/transcript/2021/08/20210819-1569809)
 
 
-## 頁面 8/42 [**<**](miles/transcript/page7) [1](miles/transcript) ... [3](miles/transcript/page3) [4](miles/transcript/page4) [5](miles/transcript/page5) [6](miles/transcript/page6) [7](miles/transcript/page7) **8** [9](miles/transcript/page9) [10](miles/transcript/page10) [11](miles/transcript/page11) [12](miles/transcript/page12) [13](miles/transcript/page13) ... [42](miles/transcript/page42) [**>**](miles/transcript/page9)
+## 頁面 8/42 [**<**]({{site.baseurl}}/miles/transcript/page7) [1]({{site.baseurl}}/miles/transcript/index) ... [3]({{site.baseurl}}/miles/transcript/page3) [4]({{site.baseurl}}/miles/transcript/page4) [5]({{site.baseurl}}/miles/transcript/page5) [6]({{site.baseurl}}/miles/transcript/page6) [7]({{site.baseurl}}/miles/transcript/page7) **8** [9]({{site.baseurl}}/miles/transcript/page9) [10]({{site.baseurl}}/miles/transcript/page10) [11]({{site.baseurl}}/miles/transcript/page11) [12]({{site.baseurl}}/miles/transcript/page12) [13]({{site.baseurl}}/miles/transcript/page13) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page9)

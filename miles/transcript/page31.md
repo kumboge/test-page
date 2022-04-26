@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 31/42 [**<**](miles/transcript/page30) [1](miles/transcript) ... [26](miles/transcript/page26) [27](miles/transcript/page27) [28](miles/transcript/page28) [29](miles/transcript/page29) [30](miles/transcript/page30) **31** [32](miles/transcript/page32) [33](miles/transcript/page33) [34](miles/transcript/page34) [35](miles/transcript/page35) [36](miles/transcript/page36) ... [42](miles/transcript/page42) [**>**](miles/transcript/page32)
+## 頁面 31/42 [**<**]({{site.baseurl}}/miles/transcript/page30) [1]({{site.baseurl}}/miles/transcript/index) ... [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) **31** [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page32)
 
 [文字版: 2018年11月27日文贵在华盛顿报平安直播视频！](/content/transcript/2018/11/20181129-7314078079125955077)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：Oct 25th 2018 10月25日：刚刚在以色列科技创新论坛上的王岐山．马云．言讲为什么状态这么不好！以色列人如何看他们的窜访！](/content/transcript/2018/10/20181025-6578176193643751329)
 
 
-## 頁面 31/42 [**<**](miles/transcript/page30) [1](miles/transcript) ... [26](miles/transcript/page26) [27](miles/transcript/page27) [28](miles/transcript/page28) [29](miles/transcript/page29) [30](miles/transcript/page30) **31** [32](miles/transcript/page32) [33](miles/transcript/page33) [34](miles/transcript/page34) [35](miles/transcript/page35) [36](miles/transcript/page36) ... [42](miles/transcript/page42) [**>**](miles/transcript/page32)
+## 頁面 31/42 [**<**]({{site.baseurl}}/miles/transcript/page30) [1]({{site.baseurl}}/miles/transcript/index) ... [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) **31** [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page32)

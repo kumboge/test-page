@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 22/42 [**<**](miles/transcript/page21) [1](miles/transcript) ... [17](miles/transcript/page17) [18](miles/transcript/page18) [19](miles/transcript/page19) [20](miles/transcript/page20) [21](miles/transcript/page21) **22** [23](miles/transcript/page23) [24](miles/transcript/page24) [25](miles/transcript/page25) [26](miles/transcript/page26) [27](miles/transcript/page27) ... [42](miles/transcript/page42) [**>**](miles/transcript/page23)
+## 頁面 22/42 [**<**]({{site.baseurl}}/miles/transcript/page21) [1]({{site.baseurl}}/miles/transcript/index) ... [17]({{site.baseurl}}/miles/transcript/page17) [18]({{site.baseurl}}/miles/transcript/page18) [19]({{site.baseurl}}/miles/transcript/page19) [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) **22** [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page23)
 
 [文字版： 2019年11月14日郭文贵先生华盛顿直播：香港一定赢！](/content/transcript/2019/11/20191115-1929062712375432404)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：2019年10月21日第二次紧急直播 陈彦霖是枉死，共产党准备了多处灭尸毁证机构](/content/transcript/2019/10/20191022-2968214834265730245)
 
 
-## 頁面 22/42 [**<**](miles/transcript/page21) [1](miles/transcript) ... [17](miles/transcript/page17) [18](miles/transcript/page18) [19](miles/transcript/page19) [20](miles/transcript/page20) [21](miles/transcript/page21) **22** [23](miles/transcript/page23) [24](miles/transcript/page24) [25](miles/transcript/page25) [26](miles/transcript/page26) [27](miles/transcript/page27) ... [42](miles/transcript/page42) [**>**](miles/transcript/page23)
+## 頁面 22/42 [**<**]({{site.baseurl}}/miles/transcript/page21) [1]({{site.baseurl}}/miles/transcript/index) ... [17]({{site.baseurl}}/miles/transcript/page17) [18]({{site.baseurl}}/miles/transcript/page18) [19]({{site.baseurl}}/miles/transcript/page19) [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) **22** [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page23)

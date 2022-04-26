@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 23/42 [**<**](miles/transcript/page22) [1](miles/transcript) ... [18](miles/transcript/page18) [19](miles/transcript/page19) [20](miles/transcript/page20) [21](miles/transcript/page21) [22](miles/transcript/page22) **23** [24](miles/transcript/page24) [25](miles/transcript/page25) [26](miles/transcript/page26) [27](miles/transcript/page27) [28](miles/transcript/page28) ... [42](miles/transcript/page42) [**>**](miles/transcript/page24)
+## 頁面 23/42 [**<**]({{site.baseurl}}/miles/transcript/page22) [1]({{site.baseurl}}/miles/transcript/index) ... [18]({{site.baseurl}}/miles/transcript/page18) [19]({{site.baseurl}}/miles/transcript/page19) [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) **23** [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page24)
 
 [文字版：2019年10月21日郭先生第一次报平安](/content/transcript/2019/10/20191022-1216375453972564281)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：2019年9月14日郭先生报平安视频](/content/transcript/2019/09/20190915-5986309951181433663)
 
 
-## 頁面 23/42 [**<**](miles/transcript/page22) [1](miles/transcript) ... [18](miles/transcript/page18) [19](miles/transcript/page19) [20](miles/transcript/page20) [21](miles/transcript/page21) [22](miles/transcript/page22) **23** [24](miles/transcript/page24) [25](miles/transcript/page25) [26](miles/transcript/page26) [27](miles/transcript/page27) [28](miles/transcript/page28) ... [42](miles/transcript/page42) [**>**](miles/transcript/page24)
+## 頁面 23/42 [**<**]({{site.baseurl}}/miles/transcript/page22) [1]({{site.baseurl}}/miles/transcript/index) ... [18]({{site.baseurl}}/miles/transcript/page18) [19]({{site.baseurl}}/miles/transcript/page19) [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) **23** [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page24)

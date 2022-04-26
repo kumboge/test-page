@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 17/42 [**<**](miles/transcript/page16) [1](miles/transcript) ... [12](miles/transcript/page12) [13](miles/transcript/page13) [14](miles/transcript/page14) [15](miles/transcript/page15) [16](miles/transcript/page16) **17** [18](miles/transcript/page18) [19](miles/transcript/page19) [20](miles/transcript/page20) [21](miles/transcript/page21) [22](miles/transcript/page22) ... [42](miles/transcript/page42) [**>**](miles/transcript/page18)
+## 頁面 17/42 [**<**]({{site.baseurl}}/miles/transcript/page16) [1]({{site.baseurl}}/miles/transcript/index) ... [12]({{site.baseurl}}/miles/transcript/page12) [13]({{site.baseurl}}/miles/transcript/page13) [14]({{site.baseurl}}/miles/transcript/page14) [15]({{site.baseurl}}/miles/transcript/page15) [16]({{site.baseurl}}/miles/transcript/page16) **17** [18]({{site.baseurl}}/miles/transcript/page18) [19]({{site.baseurl}}/miles/transcript/page19) [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page18)
 
 [文字版:2020年04月18日郭先生GTV 直播](/content/transcript/2020/04/20200421-4424351447189958963)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：2020年3月14日郭先生谈爆料革命面临着重要选择，郭七条一定会改!](/content/transcript/2020/03/20200317-7978079183041505608)
 
 
-## 頁面 17/42 [**<**](miles/transcript/page16) [1](miles/transcript) ... [12](miles/transcript/page12) [13](miles/transcript/page13) [14](miles/transcript/page14) [15](miles/transcript/page15) [16](miles/transcript/page16) **17** [18](miles/transcript/page18) [19](miles/transcript/page19) [20](miles/transcript/page20) [21](miles/transcript/page21) [22](miles/transcript/page22) ... [42](miles/transcript/page42) [**>**](miles/transcript/page18)
+## 頁面 17/42 [**<**]({{site.baseurl}}/miles/transcript/page16) [1]({{site.baseurl}}/miles/transcript/index) ... [12]({{site.baseurl}}/miles/transcript/page12) [13]({{site.baseurl}}/miles/transcript/page13) [14]({{site.baseurl}}/miles/transcript/page14) [15]({{site.baseurl}}/miles/transcript/page15) [16]({{site.baseurl}}/miles/transcript/page16) **17** [18]({{site.baseurl}}/miles/transcript/page18) [19]({{site.baseurl}}/miles/transcript/page19) [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page18)

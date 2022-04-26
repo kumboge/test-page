@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 32/42 [**<**](miles/transcript/page31) [1](miles/transcript) ... [27](miles/transcript/page27) [28](miles/transcript/page28) [29](miles/transcript/page29) [30](miles/transcript/page30) [31](miles/transcript/page31) **32** [33](miles/transcript/page33) [34](miles/transcript/page34) [35](miles/transcript/page35) [36](miles/transcript/page36) [37](miles/transcript/page37) ... [42](miles/transcript/page42) [**>**](miles/transcript/page33)
+## 頁面 32/42 [**<**]({{site.baseurl}}/miles/transcript/page31) [1]({{site.baseurl}}/miles/transcript/index) ... [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) **32** [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page33)
 
 [文字版：24号王歧山与马云窜访忽悠以色列🇮🇱的现场直播！马云为什么愁眉紧锁！王岐山为自己家族准备的第三条路！](/content/transcript/2018/10/20181025-1627101594427437852)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：2018年9月2 日文贵是否 应以停止王健被杀新闻发布会 来换取 员工和哥哥的自由！](/content/transcript/2018/09/20180904-16996182542595224)
 
 
-## 頁面 32/42 [**<**](miles/transcript/page31) [1](miles/transcript) ... [27](miles/transcript/page27) [28](miles/transcript/page28) [29](miles/transcript/page29) [30](miles/transcript/page30) [31](miles/transcript/page31) **32** [33](miles/transcript/page33) [34](miles/transcript/page34) [35](miles/transcript/page35) [36](miles/transcript/page36) [37](miles/transcript/page37) ... [42](miles/transcript/page42) [**>**](miles/transcript/page33)
+## 頁面 32/42 [**<**]({{site.baseurl}}/miles/transcript/page31) [1]({{site.baseurl}}/miles/transcript/index) ... [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) **32** [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page33)

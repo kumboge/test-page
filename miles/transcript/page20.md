@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 20/42 [**<**](miles/transcript/page19) [1](miles/transcript) ... [15](miles/transcript/page15) [16](miles/transcript/page16) [17](miles/transcript/page17) [18](miles/transcript/page18) [19](miles/transcript/page19) **20** [21](miles/transcript/page21) [22](miles/transcript/page22) [23](miles/transcript/page23) [24](miles/transcript/page24) [25](miles/transcript/page25) ... [42](miles/transcript/page42) [**>**](miles/transcript/page21)
+## 頁面 20/42 [**<**]({{site.baseurl}}/miles/transcript/page19) [1]({{site.baseurl}}/miles/transcript/index) ... [15]({{site.baseurl}}/miles/transcript/page15) [16]({{site.baseurl}}/miles/transcript/page16) [17]({{site.baseurl}}/miles/transcript/page17) [18]({{site.baseurl}}/miles/transcript/page18) [19]({{site.baseurl}}/miles/transcript/page19) **20** [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page21)
 
 [文字版：2020年1月7日文贵直播谈-中共把中美贸易战当成内斗工具，华人要跳出中共的孤岛现象，台湾请选蔡英文](/content/transcript/2020/01/20200109-4663679773917256212)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：2019年12月13日文贵报平安，王健的第四种死法](/content/transcript/2019/12/20191214-6641233035759881210)
 
 
-## 頁面 20/42 [**<**](miles/transcript/page19) [1](miles/transcript) ... [15](miles/transcript/page15) [16](miles/transcript/page16) [17](miles/transcript/page17) [18](miles/transcript/page18) [19](miles/transcript/page19) **20** [21](miles/transcript/page21) [22](miles/transcript/page22) [23](miles/transcript/page23) [24](miles/transcript/page24) [25](miles/transcript/page25) ... [42](miles/transcript/page42) [**>**](miles/transcript/page21)
+## 頁面 20/42 [**<**]({{site.baseurl}}/miles/transcript/page19) [1]({{site.baseurl}}/miles/transcript/index) ... [15]({{site.baseurl}}/miles/transcript/page15) [16]({{site.baseurl}}/miles/transcript/page16) [17]({{site.baseurl}}/miles/transcript/page17) [18]({{site.baseurl}}/miles/transcript/page18) [19]({{site.baseurl}}/miles/transcript/page19) **20** [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page21)

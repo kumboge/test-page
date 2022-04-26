@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 27/42 [**<**](miles/transcript/page26) [1](miles/transcript) ... [22](miles/transcript/page22) [23](miles/transcript/page23) [24](miles/transcript/page24) [25](miles/transcript/page25) [26](miles/transcript/page26) **27** [28](miles/transcript/page28) [29](miles/transcript/page29) [30](miles/transcript/page30) [31](miles/transcript/page31) [32](miles/transcript/page32) ... [42](miles/transcript/page42) [**>**](miles/transcript/page28)
+## 頁面 27/42 [**<**]({{site.baseurl}}/miles/transcript/page26) [1]({{site.baseurl}}/miles/transcript/index) ... [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) **27** [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page28)
 
 [文字版：2019年6月5日 庞皮奥的讲话与香港 6.9 大游行](/content/transcript/2019/06/20190606-5836717562215401221)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：2019年4月30日郭台銘選舉引起台灣人民恐懼，中國銀行將是下一個海航](/content/transcript/2019/05/20190501-8065411428742956557)
 
 
-## 頁面 27/42 [**<**](miles/transcript/page26) [1](miles/transcript) ... [22](miles/transcript/page22) [23](miles/transcript/page23) [24](miles/transcript/page24) [25](miles/transcript/page25) [26](miles/transcript/page26) **27** [28](miles/transcript/page28) [29](miles/transcript/page29) [30](miles/transcript/page30) [31](miles/transcript/page31) [32](miles/transcript/page32) ... [42](miles/transcript/page42) [**>**](miles/transcript/page28)
+## 頁面 27/42 [**<**]({{site.baseurl}}/miles/transcript/page26) [1]({{site.baseurl}}/miles/transcript/index) ... [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) **27** [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page28)

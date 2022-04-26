@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 42/42 [**<**](miles/transcript/page41) [1](miles/transcript) ... [37](miles/transcript/page37) [38](miles/transcript/page38) [39](miles/transcript/page39) [40](miles/transcript/page40) [41](miles/transcript/page41) **42**
+## 頁面 42/42 [**<**]({{site.baseurl}}/miles/transcript/page41) [1]({{site.baseurl}}/miles/transcript/index) ... [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) [41]({{site.baseurl}}/miles/transcript/page41) **42**
 
 [郭文贵9月4日报平安: 关于鲍老痛心我与老领导见面的音频及几个问题的澄清&#124;文字版(完整版)](/content/transcript/2018/04/20180418-3089407742427439276)
 
@@ -16,4 +16,4 @@ title: 郭文貴先生的視頻文字
 [&#124;郭文贵9月7号报平安是盗国集团的凶恶促使我决定美国政治庇护直播文字版](/content/transcript/2018/04/20180418-3180317526840992396)
 
 
-## 頁面 42/42 [**<**](miles/transcript/page41) [1](miles/transcript) ... [37](miles/transcript/page37) [38](miles/transcript/page38) [39](miles/transcript/page39) [40](miles/transcript/page40) [41](miles/transcript/page41) **42**
+## 頁面 42/42 [**<**]({{site.baseurl}}/miles/transcript/page41) [1]({{site.baseurl}}/miles/transcript/index) ... [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) [41]({{site.baseurl}}/miles/transcript/page41) **42**

@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 11/42 [**<**](miles/transcript/page10) [1](miles/transcript) ... [6](miles/transcript/page6) [7](miles/transcript/page7) [8](miles/transcript/page8) [9](miles/transcript/page9) [10](miles/transcript/page10) **11** [12](miles/transcript/page12) [13](miles/transcript/page13) [14](miles/transcript/page14) [15](miles/transcript/page15) [16](miles/transcript/page16) ... [42](miles/transcript/page42) [**>**](miles/transcript/page12)
+## 頁面 11/42 [**<**]({{site.baseurl}}/miles/transcript/page10) [1]({{site.baseurl}}/miles/transcript/index) ... [6]({{site.baseurl}}/miles/transcript/page6) [7]({{site.baseurl}}/miles/transcript/page7) [8]({{site.baseurl}}/miles/transcript/page8) [9]({{site.baseurl}}/miles/transcript/page9) [10]({{site.baseurl}}/miles/transcript/page10) **11** [12]({{site.baseurl}}/miles/transcript/page12) [13]({{site.baseurl}}/miles/transcript/page13) [14]({{site.baseurl}}/miles/transcript/page14) [15]({{site.baseurl}}/miles/transcript/page15) [16]({{site.baseurl}}/miles/transcript/page16) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page12)
 
 [全文字版2021年5月13日郭文贵先生G-TV直播](/content/transcript/2021/05/20210513-1240690)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版2020年12月23日郭先生GTV盖特视频](/content/transcript/2020/12/20201223-681584)
 
 
-## 頁面 11/42 [**<**](miles/transcript/page10) [1](miles/transcript) ... [6](miles/transcript/page6) [7](miles/transcript/page7) [8](miles/transcript/page8) [9](miles/transcript/page9) [10](miles/transcript/page10) **11** [12](miles/transcript/page12) [13](miles/transcript/page13) [14](miles/transcript/page14) [15](miles/transcript/page15) [16](miles/transcript/page16) ... [42](miles/transcript/page42) [**>**](miles/transcript/page12)
+## 頁面 11/42 [**<**]({{site.baseurl}}/miles/transcript/page10) [1]({{site.baseurl}}/miles/transcript/index) ... [6]({{site.baseurl}}/miles/transcript/page6) [7]({{site.baseurl}}/miles/transcript/page7) [8]({{site.baseurl}}/miles/transcript/page8) [9]({{site.baseurl}}/miles/transcript/page9) [10]({{site.baseurl}}/miles/transcript/page10) **11** [12]({{site.baseurl}}/miles/transcript/page12) [13]({{site.baseurl}}/miles/transcript/page13) [14]({{site.baseurl}}/miles/transcript/page14) [15]({{site.baseurl}}/miles/transcript/page15) [16]({{site.baseurl}}/miles/transcript/page16) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page12)

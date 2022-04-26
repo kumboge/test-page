@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 33/42 [**<**](miles/transcript/page32) [1](miles/transcript) ... [28](miles/transcript/page28) [29](miles/transcript/page29) [30](miles/transcript/page30) [31](miles/transcript/page31) [32](miles/transcript/page32) **33** [34](miles/transcript/page34) [35](miles/transcript/page35) [36](miles/transcript/page36) [37](miles/transcript/page37) [38](miles/transcript/page38) ... [42](miles/transcript/page42) [**>**](miles/transcript/page34)
+## 頁面 33/42 [**<**]({{site.baseurl}}/miles/transcript/page32) [1]({{site.baseurl}}/miles/transcript/index) ... [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) **33** [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page34)
 
 [文字版：8月30日2018年关于王健被杀新闻发布会的地点及一些安排！顺便聊聊川蔡电话的背后的故事！](/content/transcript/2018/09/20180902-4129689166696666776)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：July 9th 2018．王健拍照死．孟的张明鹏院长被抓．709案件国际高度关注！代表着什么？](/content/transcript/2018/07/20180710-2033069974209071479)
 
 
-## 頁面 33/42 [**<**](miles/transcript/page32) [1](miles/transcript) ... [28](miles/transcript/page28) [29](miles/transcript/page29) [30](miles/transcript/page30) [31](miles/transcript/page31) [32](miles/transcript/page32) **33** [34](miles/transcript/page34) [35](miles/transcript/page35) [36](miles/transcript/page36) [37](miles/transcript/page37) [38](miles/transcript/page38) ... [42](miles/transcript/page42) [**>**](miles/transcript/page34)
+## 頁面 33/42 [**<**]({{site.baseurl}}/miles/transcript/page32) [1]({{site.baseurl}}/miles/transcript/index) ... [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) **33** [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page34)

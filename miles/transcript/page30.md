@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 30/42 [**<**](miles/transcript/page29) [1](miles/transcript) ... [25](miles/transcript/page25) [26](miles/transcript/page26) [27](miles/transcript/page27) [28](miles/transcript/page28) [29](miles/transcript/page29) **30** [31](miles/transcript/page31) [32](miles/transcript/page32) [33](miles/transcript/page33) [34](miles/transcript/page34) [35](miles/transcript/page35) ... [42](miles/transcript/page42) [**>**](miles/transcript/page31)
+## 頁面 30/42 [**<**]({{site.baseurl}}/miles/transcript/page29) [1]({{site.baseurl}}/miles/transcript/index) ... [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) **30** [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page31)
 
 [文字版：2019年1月18日郭文贵先生直播（上，下）](/content/transcript/2019/01/20190122-8638350325848352117)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：2018年11月29日郭文贵先生直播，渤海金控，郭战装和法制基金](/content/transcript/2018/12/20181201-3387021380873494190)
 
 
-## 頁面 30/42 [**<**](miles/transcript/page29) [1](miles/transcript) ... [25](miles/transcript/page25) [26](miles/transcript/page26) [27](miles/transcript/page27) [28](miles/transcript/page28) [29](miles/transcript/page29) **30** [31](miles/transcript/page31) [32](miles/transcript/page32) [33](miles/transcript/page33) [34](miles/transcript/page34) [35](miles/transcript/page35) ... [42](miles/transcript/page42) [**>**](miles/transcript/page31)
+## 頁面 30/42 [**<**]({{site.baseurl}}/miles/transcript/page29) [1]({{site.baseurl}}/miles/transcript/index) ... [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) **30** [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page31)

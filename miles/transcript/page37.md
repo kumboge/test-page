@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 37/42 [**<**](miles/transcript/page36) [1](miles/transcript) ... [32](miles/transcript/page32) [33](miles/transcript/page33) [34](miles/transcript/page34) [35](miles/transcript/page35) [36](miles/transcript/page36) **37** [38](miles/transcript/page38) [39](miles/transcript/page39) [40](miles/transcript/page40) [41](miles/transcript/page41) [42](miles/transcript/page42) [**>**](miles/transcript/page38)
+## 頁面 37/42 [**<**]({{site.baseurl}}/miles/transcript/page36) [1]({{site.baseurl}}/miles/transcript/index) ... [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) **37** [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) [41]({{site.baseurl}}/miles/transcript/page41) [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page38)
 
 [文字版：2018年2月10日郭先生再 郭媒体六段演讲](/content/transcript/2018/04/20180418-7159181407052206452)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [华盛顿自由灯塔：美国司法部: 没有计划遣返被中国政府迫害的异议人士郭文贵](/content/transcript/2018/04/20180418-6750041180802210914)
 
 
-## 頁面 37/42 [**<**](miles/transcript/page36) [1](miles/transcript) ... [32](miles/transcript/page32) [33](miles/transcript/page33) [34](miles/transcript/page34) [35](miles/transcript/page35) [36](miles/transcript/page36) **37** [38](miles/transcript/page38) [39](miles/transcript/page39) [40](miles/transcript/page40) [41](miles/transcript/page41) [42](miles/transcript/page42) [**>**](miles/transcript/page38)
+## 頁面 37/42 [**<**]({{site.baseurl}}/miles/transcript/page36) [1]({{site.baseurl}}/miles/transcript/index) ... [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) **37** [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) [41]({{site.baseurl}}/miles/transcript/page41) [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page38)

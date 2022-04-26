@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 38/42 [**<**](miles/transcript/page37) [1](miles/transcript) ... [33](miles/transcript/page33) [34](miles/transcript/page34) [35](miles/transcript/page35) [36](miles/transcript/page36) [37](miles/transcript/page37) **38** [39](miles/transcript/page39) [40](miles/transcript/page40) [41](miles/transcript/page41) [42](miles/transcript/page42) [**>**](miles/transcript/page39)
+## 頁面 38/42 [**<**]({{site.baseurl}}/miles/transcript/page37) [1]({{site.baseurl}}/miles/transcript/index) ... [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) **38** [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) [41]({{site.baseurl}}/miles/transcript/page41) [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page39)
 
 [2017年12月1号郭宝胜：就我父母被家乡公安施压的三点声明、推筹会最该被邀参加世界政党大会《今日热评》](/content/transcript/2018/04/20180418-1392173713763860435)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [（文字稿）曹长青：滕彪八个不择手段诋毁郭文贵，要做名副其实的“乱伦彪”？](/content/transcript/2018/04/20180418-1176717369305738792)
 
 
-## 頁面 38/42 [**<**](miles/transcript/page37) [1](miles/transcript) ... [33](miles/transcript/page33) [34](miles/transcript/page34) [35](miles/transcript/page35) [36](miles/transcript/page36) [37](miles/transcript/page37) **38** [39](miles/transcript/page39) [40](miles/transcript/page40) [41](miles/transcript/page41) [42](miles/transcript/page42) [**>**](miles/transcript/page39)
+## 頁面 38/42 [**<**]({{site.baseurl}}/miles/transcript/page37) [1]({{site.baseurl}}/miles/transcript/index) ... [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) **38** [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) [41]({{site.baseurl}}/miles/transcript/page41) [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page39)

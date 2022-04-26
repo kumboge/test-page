@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 40/42 [**<**](miles/transcript/page39) [1](miles/transcript) ... [35](miles/transcript/page35) [36](miles/transcript/page36) [37](miles/transcript/page37) [38](miles/transcript/page38) [39](miles/transcript/page39) **40** [41](miles/transcript/page41) [42](miles/transcript/page42) [**>**](miles/transcript/page41)
+## 頁面 40/42 [**<**]({{site.baseurl}}/miles/transcript/page39) [1]({{site.baseurl}}/miles/transcript/index) ... [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) **40** [41]({{site.baseurl}}/miles/transcript/page41) [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page41)
 
 [华尔街日报：中国追捕逃亡富商郭文贵，开启曼哈顿版惊悚间谍片](/content/transcript/2018/04/20180418-8134538330051894256)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [2017年10月5日郭文贵先生美国首次记者招待会第二次发“不”会](/content/transcript/2018/04/20180418-1567783947311551796)
 
 
-## 頁面 40/42 [**<**](miles/transcript/page39) [1](miles/transcript) ... [35](miles/transcript/page35) [36](miles/transcript/page36) [37](miles/transcript/page37) [38](miles/transcript/page38) [39](miles/transcript/page39) **40** [41](miles/transcript/page41) [42](miles/transcript/page42) [**>**](miles/transcript/page41)
+## 頁面 40/42 [**<**]({{site.baseurl}}/miles/transcript/page39) [1]({{site.baseurl}}/miles/transcript/index) ... [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) **40** [41]({{site.baseurl}}/miles/transcript/page41) [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page41)

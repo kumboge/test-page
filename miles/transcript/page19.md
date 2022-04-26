@@ -1,7 +1,7 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 19/42 [**<**](miles/transcript/page18) [1](miles/transcript) ... [14](miles/transcript/page14) [15](miles/transcript/page15) [16](miles/transcript/page16) [17](miles/transcript/page17) [18](miles/transcript/page18) **19** [20](miles/transcript/page20) [21](miles/transcript/page21) [22](miles/transcript/page22) [23](miles/transcript/page23) [24](miles/transcript/page24) ... [42](miles/transcript/page42) [**>**](miles/transcript/page20)
+## 頁面 19/42 [**<**]({{site.baseurl}}/miles/transcript/page18) [1]({{site.baseurl}}/miles/transcript/index) ... [14]({{site.baseurl}}/miles/transcript/page14) [15]({{site.baseurl}}/miles/transcript/page15) [16]({{site.baseurl}}/miles/transcript/page16) [17]({{site.baseurl}}/miles/transcript/page17) [18]({{site.baseurl}}/miles/transcript/page18) **19** [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page20)
 
 [文字版:20年2月1日文贵在马阿拉歌总统套房第二次直播](/content/transcript/2020/02/20200204-1180621866015014143)
 
@@ -54,4 +54,4 @@ title: 郭文貴先生的視頻文字
 [文字版：2020年1月8日文贵报平安直播-跟战友们分享在小飞机上吃鸡腿](/content/transcript/2020/01/20200112-7411568700881167018)
 
 
-## 頁面 19/42 [**<**](miles/transcript/page18) [1](miles/transcript) ... [14](miles/transcript/page14) [15](miles/transcript/page15) [16](miles/transcript/page16) [17](miles/transcript/page17) [18](miles/transcript/page18) **19** [20](miles/transcript/page20) [21](miles/transcript/page21) [22](miles/transcript/page22) [23](miles/transcript/page23) [24](miles/transcript/page24) ... [42](miles/transcript/page42) [**>**](miles/transcript/page20)
+## 頁面 19/42 [**<**]({{site.baseurl}}/miles/transcript/page18) [1]({{site.baseurl}}/miles/transcript/index) ... [14]({{site.baseurl}}/miles/transcript/page14) [15]({{site.baseurl}}/miles/transcript/page15) [16]({{site.baseurl}}/miles/transcript/page16) [17]({{site.baseurl}}/miles/transcript/page17) [18]({{site.baseurl}}/miles/transcript/page18) **19** [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page20)

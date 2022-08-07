@@ -18,20 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: test page
+title: 爆料革命文摘
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  test
-theme: jekyll-theme-leap-day
-
-# the base hostname & protocol for your site, e.g. http://example.com
-url: https://kumboge.github.io
-
-# the subpath of your site, e.g. /blog
-baseurl: /test-page
-
+  獲取最新的GNews頭條，閲讀郭文貴先生的視頻文字、Gettr帖子以及更多。
+baseurl: "test-page" # the subpath of your site, e.g. /blog
+url: "https://kumboge.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  kumboge
+github_username:  ourhimalayas
 
 # Build settings
 theme: minima

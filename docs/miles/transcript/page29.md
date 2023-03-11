@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 29/42 [**<**]({{site.baseurl}}/miles/transcript/page28) [1]({{site.baseurl}}/miles/transcript/index) ... [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) **29** [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page30)
+## 頁面 29/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page28) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [24]({{site.baseurl}}/docs/miles/transcript/page24) [25]({{site.baseurl}}/docs/miles/transcript/page25) [26]({{site.baseurl}}/docs/miles/transcript/page26) [27]({{site.baseurl}}/docs/miles/transcript/page27) [28]({{site.baseurl}}/docs/miles/transcript/page28) **29** [30]({{site.baseurl}}/docs/miles/transcript/page30) [31]({{site.baseurl}}/docs/miles/transcript/page31) [32]({{site.baseurl}}/docs/miles/transcript/page32) [33]({{site.baseurl}}/docs/miles/transcript/page33) [34]({{site.baseurl}}/docs/miles/transcript/page34) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page30)
 
-[文字版：2019年2月26日談法治基金和金正恩與川普團隊的不同](/content/transcript/2019/02/20190227-2121363787945897238)
+[郭文贵2019年7月29日第一次直播 20190729_1尊敬的战友们好你们健身了吗？你们往身上泼水了吗？为什么在曼哈顿举行的国际经济会议改变了议程？一切都是刚刚开始！]({{site.baseurl}}/docs/miles/transcript/2019/07/20190729-53482905)
 
-[文字版：2月24日，文贵谈，法治基金建立的真正目的](/content/transcript/2019/02/20190227-189178427361048869)
+[郭文贵2019年7月29日第二次直播 20190729_2香港发生了什么情况 中共在以日计的步伐奔向灭亡]({{site.baseurl}}/docs/miles/transcript/2019/07/20190729-53482904)
 
-[文字版：2019年2月23日文貴和班農談宗教革命：爆梵蒂岡與中共的交易](/content/transcript/2019/02/20190226-8859437159396757540)
+[郭文贵2021年10月22日直播 20211022_1马云为什么在西班牙而不敢回香港；吴征成功拿下川普，共产党已经控制了川普；习的行为都是个人恩怨造成的；中共六中全会会发生什么，会有什么结果；G系列是让共产党最害怕的]({{site.baseurl}}/docs/miles/transcript/2021/10/20211022-53482902)
 
-[文字版：2月21日 再談法治基金捐款到底捐給了誰](/content/transcript/2019/02/20190225-476123730242359765)
+[郭文贵2019年7月10日视频 20190710尊敬的战友们好．不要计较任何的名．利．不要评价香港的抗议运动的阶段性的得失……我们只有一个目标．灭共．其他都不重要，一切都是刚刚开始]({{site.baseurl}}/docs/miles/transcript/2019/07/20190710-53482895)
 
-[文字版：2019年2月22日文貴報平安談摩根家族及郭寶勝案情](/content/transcript/2019/02/20190224-3447840307197696435)
+[郭文贵2019年7月26日视频 20190726和战友分享船上时光]({{site.baseurl}}/docs/miles/transcript/2019/07/20190726-53482894)
 
-[文字版：2019年2月19日文贵直播关键的问题就郭宝胜的护照，还有袁健斌申请的绿卡，必须得让美国政府知道真相](/content/transcript/2019/02/20190222-1257758446657176479)
+[郭文贵2019年7月25日视频 20190725live stream: Miles letting everyone know he is safe. Please friends, remember..]({{site.baseurl}}/docs/miles/transcript/2019/07/20190725-53482885)
 
-[文字版：2019年2月17日文贵再谈法治基金的目的和中美之间即将发生的大事](/content/transcript/2019/02/20190220-7271469985429924299)
+[郭文贵2021年10月8日直播 20211008_5试驾RAM3500第二段]({{site.baseurl}}/docs/miles/transcript/2021/10/20211008-53482881)
 
-[文字版：2019年2月16 日文贵和班农先生关于法治基金和法治公会基金的解读（下）](/content/transcript/2019/02/20190219-8738304753006288590)
+[郭文贵2019年7月9日视频 20190709香港逃犯法为什么死亡了？香港还会有抗议吗？会实现双普选吗？]({{site.baseurl}}/docs/miles/transcript/2019/07/20190709-53482880)
 
-[文字版：2019年2月16 日文贵和班农先生关于法治基金和法治公会基金的解读（上）](/content/transcript/2019/02/20190219-2494851897294759550)
+[郭文贵2019年7月24日视频 20190724尊敬的战友们好，你们健身了吗？你们往身上泼水了吗？衷心的祝愿和祝福所有的在国内．在水灾同胞们能尽快的恢复到正常的生活……我们的心和你们在一起，一切都是刚刚开始！]({{site.baseurl}}/docs/miles/transcript/2019/07/20190724-53482875)
 
-[重磅新闻2月18日，社会主义就是个祸害，川普总统在佛罗里达迈阿密佛州国际大学演讲全文](/content/transcript/2019/02/20190219-5950789475618575573)
+[郭文贵2019年7月8日视频 20190708文贵是双面间谍？？]({{site.baseurl}}/docs/miles/transcript/2019/07/20190708-53482874)
 
-[关于C3 和C4基金](/content/transcript/2019/02/20190211-7844473960324146477)
+[郭文贵2021年10月8日直播 20211008_4试驾RAM3500第一段]({{site.baseurl}}/docs/miles/transcript/2021/10/20211008-53482872)
 
-[文字版：2月7日文贵、班农、凯琳 回答战友们对春晚爆料的问题](/content/transcript/2019/02/20190210-8075148906737063035)
+[郭文贵2021年10月8日盖特直播 20211008_3]({{site.baseurl}}/docs/miles/transcript/2021/10/20211008-53482869)
 
-[文字版：2月6日文贵、班农、凯琳 回答战友们对春晚爆料的问题](/content/transcript/2019/02/20190210-7889508875905531484)
+[郭文贵2019年7月23日第一次直播 20190723_1李鹏89年在哪里Why did Li Peng always ask whoever he met "Back in 1989, where were you when it ...]({{site.baseurl}}/docs/miles/transcript/2019/07/20190723-53482868)
 
-[文字版：2019年2月4号 除夕去共赢正道郭文贵爆料春晚](/content/transcript/2019/02/20190209-3549584960178600210)
+[郭文贵2021年10月8日盖特直播 20211008_2]({{site.baseurl}}/docs/miles/transcript/2021/10/20211008-53482866)
 
-[文字版：2019 年2月4号 除夕去共赢正道郭文贵爆料春晚之达赖喇嘛尊者篇](/content/transcript/2019/02/20190208-3310541803704262131)
+[郭文贵2019年7月7日第一次直播 20190707_1爆料革命当中扮演的重要角色……并希望能给更多战友加入郭媒体……一切都是刚刚开始！]({{site.baseurl}}/docs/miles/transcript/2019/07/20190707-53482865)
 
-[翻译：委内瑞拉军方将意识到马杜罗的时代已经结束: 美国国务卿迈克·庞培](/content/transcript/2019/02/20190207-4952752821783304200)
+[郭文贵2021年10月8日盖特 20211008_1尊敬的战友们好……台湾再次成为中美两国之间的政治经济交易的筹码，对台湾没有任何好处，美国等西方国家正在利用中国的内部政治斗争，获取自己的短暂的政治经济的利益，对中国人，对世]({{site.baseurl}}/docs/miles/transcript/2021/10/20211008-53482862)
 
-[For CHINA, Is GUO Wengui More Important Than A State Level Ally?](/content/transcript/2019/02/20190206-4750659155472193962)
+[郭文贵2020年11月30日盖特 20201130_2尊敬的戰友們好，你們健身了嗎？你們傳播CCP病毒，香港危機真相了嗎？一切都已經開始！]({{site.baseurl}}/docs/miles/transcript/2020/11/20201130-53482860)
 
-[文字版：2019年1月29日（上，下）郭文贵向北朝鲜领导人金正恩先生及金与正女士发出的警告视频，对北朝鲜国家安全和两位个人安全有重大爆料](/content/transcript/2019/01/20190131-8326021185101637411)
+[郭文贵2019年7月7日第二次直播 20190707_2王岐山又出手 王健“活该死”；及香港抗议将引发的CCP灭亡第一战的意义]({{site.baseurl}}/docs/miles/transcript/2019/07/20190707-53482857)
 
-[文字版：2019年1月27日 王岐山在达沃斯的讲话已经开启了世界的反习运动](/content/transcript/2019/01/20190131-1680667895953644784)
+[郭文贵2021年10月7日直播 20211007_1七哥回答战友们的问题：AMD将在纽约上市，背后股东是谁？中共95%肯定要打台湾的；曾家的灾难还没开始，江家一定会付出代价；新加坡的何晶非常聪明；杨洁篪已岌岌可危]({{site.baseurl}}/docs/miles/transcript/2021/10/20211007-53482856)
 
-[文字版：2019年1月25日習近平和王岐山會有一戰](/content/transcript/2019/01/20190127-3156421909348071205)
+[郭文贵2020年11月30日直播 20201130_1新中国联邦人一定要团结有集体观念，我们靠情报和实力唤醒世界]({{site.baseurl}}/docs/miles/transcript/2020/11/20201130-53482854)
 
-[文字版：2019年1月24日委內瑞拉的民主反獨裁的運動對中國人民的意義與影響重大](/content/transcript/2019/01/20190127-8646715222462480282)
+[郭文贵2019年7月23日第二次直播 20190723_2尊敬的战友们好！你们健身了吗？你们往身上泼水了吗？一切都是刚刚开始！]({{site.baseurl}}/docs/miles/transcript/2019/07/20190723-53482853)
 
-[文字版：2019年1月23日文貴報平安直播](/content/transcript/2019/01/20190125-5995035220130924499)
+[郭文贵2021年9月28日盖特 20210928_1七哥在开会前．紧急给战友们录个视频，全世界的人民的生活方式和所有的全球的供应链就有巨大的改变。我们该如何应对，共产党内部正在酝酿的腥风血雨．是先抓曾庆红．王岐山，孟建柱，还]({{site.baseurl}}/docs/miles/transcript/2021/09/20210928-53482852)
 
-[文字版：2019年1月21日共產黨號召學習王陽明的心學是對聖人的巨大侮辱](/content/transcript/2019/01/20190123-2188991099465691450)
+[郭文贵2021年9月27日盖特 20210927_1尊敬的战友们好……七哥建议所有的战友们要认真思考，未来一两年的生活和生存的方式，严肃认真的对待社会结构及政治各方面改变带来的冲击，特别是要对疫苗灾难的脑梗，心梗等各种不可预]({{site.baseurl}}/docs/miles/transcript/2021/09/20210927-53482848)
 
-[文字版：2019年1月20日郭文贵先生直播王岐山，孟建柱是如何執行南普陀計劃！](/content/transcript/2019/01/20190123-8364143851191456056)
+[郭文贵2019年7月6日连线彭文正 20190706Miles live with Dennis Peng - Destroying the CCP to protect Taiwan...]({{site.baseurl}}/docs/miles/transcript/2019/07/20190706-53482844)
 
-[文字版2019年1月19日，文贵报平安视频，中共以假治国、以黑治国到了终结的时候，政事小哥事件在国内影响巨大，这是一个让美国人都恐惧的标志性事件](/content/transcript/2019/01/20190122-141136365873986277)
+[郭文贵2021年9月25日盖特 20210925_1尊敬的战友们好，在这里简单地回答一下，很多战友发给我，关于孟晩回囯的看法……还有国内粮食危机的一些问题，一切都已经开始。]({{site.baseurl}}/docs/miles/transcript/2021/09/20210925-53482843)
 
 
-## 頁面 29/42 [**<**]({{site.baseurl}}/miles/transcript/page28) [1]({{site.baseurl}}/miles/transcript/index) ... [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) **29** [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page30)
+## 頁面 29/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page28) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [24]({{site.baseurl}}/docs/miles/transcript/page24) [25]({{site.baseurl}}/docs/miles/transcript/page25) [26]({{site.baseurl}}/docs/miles/transcript/page26) [27]({{site.baseurl}}/docs/miles/transcript/page27) [28]({{site.baseurl}}/docs/miles/transcript/page28) **29** [30]({{site.baseurl}}/docs/miles/transcript/page30) [31]({{site.baseurl}}/docs/miles/transcript/page31) [32]({{site.baseurl}}/docs/miles/transcript/page32) [33]({{site.baseurl}}/docs/miles/transcript/page33) [34]({{site.baseurl}}/docs/miles/transcript/page34) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page30)

@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 37/42 [**<**]({{site.baseurl}}/miles/transcript/page36) [1]({{site.baseurl}}/miles/transcript/index) ... [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) **37** [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) [41]({{site.baseurl}}/miles/transcript/page41) [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page38)
+## 頁面 37/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page36) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [32]({{site.baseurl}}/docs/miles/transcript/page32) [33]({{site.baseurl}}/docs/miles/transcript/page33) [34]({{site.baseurl}}/docs/miles/transcript/page34) [35]({{site.baseurl}}/docs/miles/transcript/page35) [36]({{site.baseurl}}/docs/miles/transcript/page36) **37** [38]({{site.baseurl}}/docs/miles/transcript/page38) [39]({{site.baseurl}}/docs/miles/transcript/page39) [40]({{site.baseurl}}/docs/miles/transcript/page40) [41]({{site.baseurl}}/docs/miles/transcript/page41) [42]({{site.baseurl}}/docs/miles/transcript/page42) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page38)
 
-[文字版：2018年2月10日郭先生再 郭媒体六段演讲](/content/transcript/2018/04/20180418-7159181407052206452)
+[郭文贵2018年9月5日视频第二部分 20180905_2黄河边性无能造成严重后果。林肯中心被取消发布会 2]({{site.baseurl}}/docs/miles/transcript/2018/09/20180905-53482514)
 
-[文字版：文贵2月11号报平安视频](/content/transcript/2018/04/20180418-7379798999426119015)
+[郭文贵2018年8月23日视频 20180823在船上谈王建]({{site.baseurl}}/docs/miles/transcript/2018/08/20180823-53482512)
 
-[文字版：2018年2月8号文贵报平安视频](/content/transcript/2018/04/20180418-4679573221949971590)
+[郭文贵2020年10月2日盖特 20201002文贵在此衷心地祝福川普总统夫妇和天下所有的的人们……都能安全的度过C C P中共的潘多拉之战]({{site.baseurl}}/docs/miles/transcript/2020/10/20201002-53482510)
 
-[文字版：文贵2月9号报平安直播](/content/transcript/2018/04/20180418-5725033153896340679)
+[郭文贵2019年6月2日谈林郑卖港 20190602班农与郭文贵谈林郑卖港、6月4日新中国建国日、欧洲反共革命]({{site.baseurl}}/docs/miles/transcript/2019/06/20190602-53482509)
 
-[文字版：2018年2月6日郭先生郭媒体3个视频演讲](/content/transcript/2018/04/20180418-8441280757870399817)
+[郭文贵2020年5月30日第二次直播 20200530_2请所有的战友高度关注6月2号中午和6月3号晚上和6月4号上午．三次重大直播，请准备好美食美酒！]({{site.baseurl}}/docs/miles/transcript/2020/05/20200530-53482507)
 
-[文字版：2018年2月7日郭先生郭媒体2个视频演讲](/content/transcript/2018/04/20180418-2002995963017552937)
+[郭文贵2020年10月3日做客战斗室 20201003E419 文字整理]({{site.baseurl}}/docs/miles/transcript/2020/10/20201003-53482506)
 
-[文字版：郭文贵先生2018年2月4日郭媒体直播](/content/transcript/2018/04/20180418-7184160832028927540)
+[郭文贵2019年5月5日与班农先生对谈 20190505文贵与班农先生就有关中美贸易协议停止！]({{site.baseurl}}/docs/miles/transcript/2019/05/20190505-53482505)
 
-[文字版：2018年2月5日郭先生郭媒体3段直播](/content/transcript/2018/04/20180418-5529007716852834761)
+[郭文贵2018年8月16日第三次直播 20180816_3台湾香港等地区的人民的安全．人权．尊严．经济．受到了严重威胁时有权寻求独立．人权生存权大于主权！（连续二）]({{site.baseurl}}/docs/miles/transcript/2018/08/20180816-53482502)
 
-[郭文贵先生01/31/18郭媒体讲话](/content/transcript/2018/04/20180418-5498166230846343860)
+[郭文贵2020年9月5日做客战斗室 20200905_2]({{site.baseurl}}/docs/miles/transcript/2020/09/20200905-53482501)
 
-[2018年2月3号 文贵郭媒体报平安视频](/content/transcript/2018/04/20180418-8770803911585151936)
+[郭文贵2019年6月1日视频 20190601文贵报平安直播！无论任何方式的任何人的＂偷＂都是错的．都应感到可耻……我们今天的爆料革命！就是为了我们中国儿童！有一个美好的健康的国家和未来]({{site.baseurl}}/docs/miles/transcript/2019/06/20190601-53482496)
 
-[翻译：中国的思想警察管得越来越宽（小平事件）](/content/transcript/2018/04/20180418-8145984323910916538)
+[郭文贵2020年9月7日做客战斗室 20200907_2]({{site.baseurl}}/docs/miles/transcript/2020/09/20200907-53482492)
 
-[郭先生01/30/18郭媒体的3段讲话](/content/transcript/2018/04/20180418-6787859769038780160)
+[郭文贵2018年8月13日第一次直播 20180813_1大连政法委书记于德泉．检察长吴喆！在几个小时前在京哈高速上．将盘古公司副总经理贾鑫及妻子两个孩子绑架至大连！]({{site.baseurl}}/docs/miles/transcript/2018/08/20180813-53482491)
 
-[2018年1月15号郭文贵先生谈蓝金黄陈小平的夫人，孟建柱，王岐山一手策划假报习家财富](/content/transcript/2018/04/20180418-6010297384739671403)
+[郭文贵2019年5月31日视频 20190531 林郑月娥触动中共最敏感神经 Carrie Lam put CCP on alert! 10000s banned on Twitter! Save all proofs of the ban!]({{site.baseurl}}/docs/miles/transcript/2019/05/20190531-53482488)
 
-[翻译：美籍华人记者声称中国绑架了他的妻子](/content/transcript/2018/04/20180418-3894960312910613407)
+[郭文贵2018年8月13日第二次直播 20180813_2西方国家正在形成正义联盟共同反击中共的纳谇主义扩张！]({{site.baseurl}}/docs/miles/transcript/2018/08/20180813-53482486)
 
-[郭文贵先生加拿大挺郭后援会2018年首次挺郭聚会发言](/content/transcript/2018/04/20180418-5726696199328694940)
+[郭文贵2019年5月4日视频 20190504小夏与文贵谈四一九VOA断播背后的真相]({{site.baseurl}}/docs/miles/transcript/2019/05/20190504-53482485)
 
-[2018年1月4号文贵谈习主席李克强两个领导人的女儿进入北大的背后故事](/content/transcript/2018/04/20180418-619291156807124954)
+[郭文贵2021年9月11日盖特 20210911_1尊敬的战友们好．每时每刻．我们爆料革命．新中国联邦都在拯救很多无辜的生命……和影响这个世界走向阳光！我们是这个世界上最伟大的正义的力量．共产党你完蛋了。]({{site.baseurl}}/docs/miles/transcript/2021/09/20210911-53482484)
 
-[2017年12月23日郭文贵直播：关于盘古被掠夺、蛆聋等8个伪类的诉讼，以及下一步的爆料计划，文贵向北京再次提出条件](/content/transcript/2018/04/20180418-6993418396066281259)
+[郭文贵2020年9月12日做客战斗室 20200912郭文贵专场 中文摘要 EP383&384]({{site.baseurl}}/docs/miles/transcript/2020/09/20200912-53482482)
 
-[郭文贵先生遥祝澳洲挺郭后援会新年快乐！呼吁放下私心，团结一致，克服恐惧，排除干扰，一起走向喜马拉雅](/content/transcript/2018/04/20180418-3865257394170288457)
+[郭文贵2018年8月20日视频 20180820]({{site.baseurl}}/docs/miles/transcript/2018/08/20180820-53482479)
 
-[美国新闻网ThinkProgress报道：中国如何在西方国家进行审查和恐吓活动](/content/transcript/2018/04/20180418-4208012880425825380)
+[郭文贵2021年9月9日盖特 20210909_1尊敬的战友们好，中共即将崩溃的庞氏骗局的经济。和房地产骗局⋯以及共产党在国际上的邪恶的力量！都正在土崩瓦解中……新中国联邦人，我们要找回属于我们每一个人，必须拥有有的勇气，]({{site.baseurl}}/docs/miles/transcript/2021/09/20210909-53482478)
 
-[何频：當年對周永康李東生發出警報，今天收到警報的是誰？（《點點今天事》）为小平老婆呐喊](/content/transcript/2018/04/20180418-2077883396848379491)
+[郭文贵2018年8月9日视频 20180809海航集团纽约大楼被白宫查封只是刚刚开始！]({{site.baseurl}}/docs/miles/transcript/2018/08/20180809-53482477)
 
-[曹长青 郭宝胜对谈—郭文贵保卫战白热化](/content/transcript/2018/04/20180418-7284381815755271685)
+[郭文贵2019年5月3日视频 201905032017年的5月3号和2018年的5月3号都发生了哪些重大事件，文贵与大家分享一些过去没有讲过的事情]({{site.baseurl}}/docs/miles/transcript/2019/05/20190503-53482476)
 
-[2017年12月12日郭文贵先生在Instagram 直播《文贵给即将在大连被冤审的员工及家人的誓言；谈小平妻子失踪，法新社采访，华涌及乱运8分子》](/content/transcript/2018/04/20180418-4672993002919879692)
+[郭文贵2021年9月10日直播 20210910_1恒大与香港黑帮玩的假金融游戏，恒大就是中国的雷曼兄弟，七哥四年前就准确爆出今天恒大的结局；房地产商都有自己的评估机构，进行金融骗贷；习和拜登通电话说了什么；共产党就是中国的]({{site.baseurl}}/docs/miles/transcript/2021/09/20210910-53482475)
 
-[《澳洲之声》12月13日专访袁红冰 主持人：潘晴](/content/transcript/2018/04/20180418-6392488223382498573)
+[郭文贵2021年9月5日直播 20210905_1从苏联切尔诺贝利核事件看今天的中共；最纯最多的青蒿素在美国和加拿大；克里访华将要谈判的内容；陆金所是对西方的经济炸弹，经济病毒，每一股的变化背后都是蓝金黄；马明哲就是中国的]({{site.baseurl}}/docs/miles/transcript/2021/09/20210905-53482472)
 
-[曹长青：唐柏桥诈捐？学历造假？民运大佬们要联名反郭？（文字稿）](/content/transcript/2018/04/20180418-7392390193329846030)
+[郭文贵2020年9月26日直播 20200926_1感谢在前线依法灭贼的战友们；依法灭贼的重大意义，是对战友勇气与智慧的考验]({{site.baseurl}}/docs/miles/transcript/2020/09/20200926-53482471)
 
-[华盛顿自由灯塔：美国司法部: 没有计划遣返被中国政府迫害的异议人士郭文贵](/content/transcript/2018/04/20180418-6750041180802210914)
+[郭文贵2018年8月16日第一次直播 20180816_1文贵即不是披着羊皮的狼更不是穿着狼皮的羊！]({{site.baseurl}}/docs/miles/transcript/2018/08/20180816-53482470)
 
 
-## 頁面 37/42 [**<**]({{site.baseurl}}/miles/transcript/page36) [1]({{site.baseurl}}/miles/transcript/index) ... [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) **37** [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) [41]({{site.baseurl}}/miles/transcript/page41) [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page38)
+## 頁面 37/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page36) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [32]({{site.baseurl}}/docs/miles/transcript/page32) [33]({{site.baseurl}}/docs/miles/transcript/page33) [34]({{site.baseurl}}/docs/miles/transcript/page34) [35]({{site.baseurl}}/docs/miles/transcript/page35) [36]({{site.baseurl}}/docs/miles/transcript/page36) **37** [38]({{site.baseurl}}/docs/miles/transcript/page38) [39]({{site.baseurl}}/docs/miles/transcript/page39) [40]({{site.baseurl}}/docs/miles/transcript/page40) [41]({{site.baseurl}}/docs/miles/transcript/page41) [42]({{site.baseurl}}/docs/miles/transcript/page42) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page38)

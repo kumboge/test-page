@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 41/42 [**<**]({{site.baseurl}}/miles/transcript/page40) [1]({{site.baseurl}}/miles/transcript/index) ... [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) **41** [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page42)
+## 頁面 41/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page40) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [36]({{site.baseurl}}/docs/miles/transcript/page36) [37]({{site.baseurl}}/docs/miles/transcript/page37) [38]({{site.baseurl}}/docs/miles/transcript/page38) [39]({{site.baseurl}}/docs/miles/transcript/page39) [40]({{site.baseurl}}/docs/miles/transcript/page40) **41** [42]({{site.baseurl}}/docs/miles/transcript/page42) [43]({{site.baseurl}}/docs/miles/transcript/page43) [44]({{site.baseurl}}/docs/miles/transcript/page44) [45]({{site.baseurl}}/docs/miles/transcript/page45) [46]({{site.baseurl}}/docs/miles/transcript/page46) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page42)
 
-[NHK 世界新闻：中国亿万富翁批评中国政府的领导阶层](/content/transcript/2018/04/20180418-8782315684152609597)
+[郭文贵2019年4月16日 20190416简单谈谈维基解密解密的信息 搜集李嘉诚10个人信息的进展]({{site.baseurl}}/docs/miles/transcript/2019/04/20190416-53482312)
 
-[Facebook冻结讲述腐败故事的中国亿万富翁的账号](/content/transcript/2018/04/20180418-7400984700740881497)
+[郭文贵2021年9月2日盖特 20210902_2一次一次大直播！点了共产党的死穴……共产党恼羞成怒．正在组织力量黑客我们的GTV……威胁YOUTUBE 移除我们的视频……(为什么共产党不移除路大脑骗的视频昵？）在欧洲等地打压威胁我们的战]({{site.baseurl}}/docs/miles/transcript/2021/09/20210902-53482311)
 
-[2017年10月4日郭文贵先生在哈德森演讲延期事件后直播](/content/transcript/2018/04/20180418-1711855541201690600)
+[郭文贵2019年6月9日直播 20190609_3班农先生．与郭文贵和龚小夏女士．直播香港百万人抗议大游行9小时直播]({{site.baseurl}}/docs/miles/transcript/2019/06/20190609-53482310)
 
-[翻译：Bill Gertz访谈郭文贵先生：中国在美国的情报网络包括了25,000名间谍](/content/transcript/2018/04/20180418-6992843521807662530)
+[郭文贵2020年9月13日直播 20200913_2文贵唱播：以歌灭共；明天有大事；路德，闫博士都是灭共者；下周会有让中共意想不到的开战]({{site.baseurl}}/docs/miles/transcript/2020/09/20200913-53482309)
 
-[美国联邦调查局(FBI)关注中国对其持不同政见者的文件进行黑客攻击](/content/transcript/2018/04/20180418-6931208450020595005)
+[郭文贵2021年9月2日盖特 20210902_1尊敬的家人们好：你们健身了吗？传播C C P病毒．香港危机．郑州人祸．病毒解药的真相了吗？]({{site.baseurl}}/docs/miles/transcript/2021/09/20210902-53482308)
 
-[（四）2017年文贵爆料中国盗国贼首场全球信息发＂不＂会！ 关于王岐山．孟建柱．孙立军的巨额财富．私生子．非法身份等盗国事实！（四）](/content/transcript/2018/04/20180418-5802483270047805854)
+[郭文贵2021年9月1日盖特 20210901_3加拿大的反疫苗运动．非常的重要，这将帮助我们更快的更多的拯救世界上被疫苗伤害的人！]({{site.baseurl}}/docs/miles/transcript/2021/09/20210901-53482307)
 
-[（五）2017年文贵爆料中国盗国贼首场全球信息发＂不＂会！ 关于王岐山．孟建柱．孙立军的巨额财富．私生子．非法身份等盗国事实！（五）](/content/transcript/2018/04/20180418-8084565878058568507)
+[郭文贵2018年4月19日第二次直播 20180419_2谈明镜]({{site.baseurl}}/docs/miles/transcript/2018/04/20180419-53482305)
 
-[（二）2017年文贵爆料中国盗国贼首场全球信息发＂不＂会！ 关于王岐山．孟建柱．孙立军的巨额财富．私生子．非法身份等盗国事实！ （二）](/content/transcript/2018/04/20180418-8227695732169623360)
+[郭文贵2021年8月31日盖特 20210831_2衷心地感谢给我发信息要捐喜币的所有战友们！现在已经不需要了，但这个捐币的币的热潮行动的背后．更加证明了新中国联邦人的团结和伟大．更加证明了正道主义的未来无限美好……万分的感]({{site.baseurl}}/docs/miles/transcript/2021/08/20210831-53482304)
 
-[（三）2017年文贵爆料中国盗国贼首场全球信息发＂不＂会！ 关于王岐山．孟建柱．孙立军的巨额财富．私生子．非法身份等盗国事实！（三）](/content/transcript/2018/04/20180418-132220289355262532)
+[郭文贵2019年4月15日第一次直播 20190415_1下午三点！显摆一下新＂汉挂子＂新衣服．向战友报告一点刚刚的神秘会议！一切都是刚刚开始！]({{site.baseurl}}/docs/miles/transcript/2019/04/20190415-53482301)
 
-[（一）2017年文贵爆料中国盗国贼首场全球信息发＂不＂会！ 关于王岐山．孟建柱．孙立军的巨额财富．私生子．非法身份等盗国事实！（一）](/content/transcript/2018/04/20180418-5664665363890615082)
+[郭文贵2021年8月31日盖特 20210831_1大直播公布了共产党的病毒解药后，引起了巨大的反响。新中国联邦一定会拯救全人类，消灭共产党，感谢所有的GTV老椅子的战友们……这种伟大的与战友们，视战友为亲兄弟姐妹们，这种伟大的]({{site.baseurl}}/docs/miles/transcript/2021/08/20210831-53482300)
 
-[翻译 :中国逃亡大亨郭文贵在美国法庭上击败了对冲基金高达8800万美元的诉讼](/content/transcript/2018/04/20180418-3031315413205773844)
+[郭文贵2021年8月29日盖特 20210829_4第二段视频……谈谈最近国内的演艺界体育节．所发生一系列的事情．和共产党正在疯狂的准备打烂台湾……打残欧州．征服世界的一些疯狂的方案和计划????????????????????????胆小的不要看这个视频]({{site.baseurl}}/docs/miles/transcript/2021/08/20210829-53482298)
 
-[2017年9月19日明镜专访郭文贵第六期（8）：政治庇护律师迫于压力辞职](/content/transcript/2018/04/20180418-1436420880757298143)
+[郭文贵2019年4月15日第二次直播 20190415_2接下来的爆料有些会是让人无法接受的……人性丑恶行为！＂世上有些人的恶已经超过魔鬼????＂与共产党一起的任何人任何事情都比妖怪还要让人憎恶……]({{site.baseurl}}/docs/miles/transcript/2019/04/20190415-53482297)
 
-[2017年9月19日明镜专访郭文贵第六期（1）：郭文贵与刘彦平谈话录音剪掉很多“国家机密”](/content/transcript/2018/04/20180418-3702263840213416314)
+[郭文贵2019年2月17日 20190217文贵再谈法治基金的目的和中美之间即将发生的大事。]({{site.baseurl}}/docs/miles/transcript/2019/02/20190217-53482295)
 
-[2017年9月19日明镜专访郭文贵第六期（7）：马蕊案的目的是遣返郭文贵](/content/transcript/2018/04/20180418-6242782845301179834)
+[郭文贵2018年4月16日在Livestrem 20180416谈墙内方老先生和开放海南夺命岛]({{site.baseurl}}/docs/miles/transcript/2018/04/20180416-53482294)
 
-[20179年9月19日明镜专访郭文贵第六期（3）：孟建柱女儿是美国公民，掌握财产惊天](/content/transcript/2018/04/20180418-4699290349257208973)
+[郭文贵2018年4月7日第一次直播 20180407_1谈吴小晖在华尔道夫酒店保险箱藏着什么以及与胡舒立和海航的逻辑关系]({{site.baseurl}}/docs/miles/transcript/2018/04/20180407-53482292)
 
-[2017年9月19日明镜专访郭文贵第六期（4）：雷洋生前去盘古见的谁？](/content/transcript/2018/04/20180418-5167983296675509473)
+[郭文贵2021年8月29日盖特 20210829_3几次大直播．我们拯救了无数个生命．巨大的影响正在改变疫苗大屠杀的壮况……所有的战友们和我的朋友们都在思考，我们的人生和我们所生存的意义：和自己的信仰和宗教的理解！认知！爆料]({{site.baseurl}}/docs/miles/transcript/2021/08/20210829-53482290)
 
-[2017年9月19日明镜专访郭文贵第六期（2）：赵本山不怕黑社会怕王芳](/content/transcript/2018/04/20180418-4084377282763556)
+[郭文贵2020年9月13日盖特 20200913_1尊敬的战友们好。你们健身了吗？你们传播C C病毒香港危机真相了吗？共产党正在走向死亡的边缘，文贵正在全力以赴的帮助，共产党加]({{site.baseurl}}/docs/miles/transcript/2020/09/20200913-53482289)
 
-[2017年9 月19 日 明镜专访郭文贵第六期（6）：王岐山与孟建柱会进国安委](/content/transcript/2018/04/20180418-1721457250505894859)
+[郭文贵2019年4月13日第一次直播 20190413_1什么叫蓝通？为什么刘鹤将遣返爆料战友等21人作为中美贸易交易的条件！]({{site.baseurl}}/docs/miles/transcript/2019/04/20190413-53482288)
 
-[文贵9月15日直播第二季第二集：孟建柱的最爱的情人，与政法黑暗到什么程度，除了杀人灭口，他们为什么要杀掉雷洋？杨澜为什么子宫切除？吴征为什么要参与杀雷洋？以黑占有当事人的巨额财富！如何欺骗习主席，党中央！](/content/transcript/2018/04/20180418-3737775031867528364)
+[郭文贵2021年8月24日直播 20210824_1中共病毒和疫苗的生化超限战对世界经济的前所未有的打击；疫苗灾难给人类带来什么样危机；经济负增长意味着什么；有毒的口罩和疫苗都含有氧化石墨烯；新中国联邦农场战友全面开始互助互]({{site.baseurl}}/docs/miles/transcript/2021/08/20210824-53482287)
 
-[2017年9月19日 明镜专访郭文贵第六期（5）：害死袁宝璟的是孟建柱](/content/transcript/2018/04/20180418-4181709165210679355)
+[郭文贵2021年8月30日直播 20210830_1中共已经有解药：D-NAB；东奥会中国队员已经用青蒿素防病毒，屠呦呦的药都有效；从美军，郑州，香港看中共的解药；疫苗界的大咖很快会出来爆料；体制内将大换岗，特别是公检法]({{site.baseurl}}/docs/miles/transcript/2021/08/20210830-53482286)
 
-[文贵9月13日直播：姚依林王岐山孟建柱孙力军傅政华的生殖器治国首篇！姚依林与姚明瑞．刘呈杰．刘新扬的乱伦！刘呈杰的法人爹是谁？](/content/transcript/2018/04/20180418-4709479553029497905)
+[郭文贵2020年9月11日盖特 20200911尊敬的战友们好，你们健身了吗？你们传播CCP病毒．香港危机真相了吗？衷心的感谢感激战友们对以歌灭共的支持！我们还要继续持之]({{site.baseurl}}/docs/miles/transcript/2020/09/20200911-53482284)
 
-[8月25号郭文贵先生做客郭宝胜政论：宗教与中国政治及社会关系文字版](/content/transcript/2018/04/20180418-2681102089407913933)
+[郭文贵2018年4月6日视频 20180406谈王岐山抓吴小晖是打邓家威胁美国总统的一箭多雕之计]({{site.baseurl}}/docs/miles/transcript/2018/04/20180406-53482282)
 
-[翻译：一位被中国政府通缉的亿万富翁向美国寻求政治庇护](/content/transcript/2018/04/20180418-3813308793717217976)
+[郭文贵2018年4月14日视频 20180414谈美国及盟国导弹袭击叙利亚是中国的第二次战略机会还是盗国贼盗国的最大机会]({{site.baseurl}}/docs/miles/transcript/2018/04/20180414-53482280)
 
-[郭文贵先生9月9号报平安直播文字版](/content/transcript/2018/04/20180418-2798200416865678412)
+[郭文贵2020年9月10日盖特 20200910_3感谢战友们的全球合力的顶．灭共之歌…干掉共产党，我们要创造更伟大的奇迹……]({{site.baseurl}}/docs/miles/transcript/2020/09/20200910-53482276)
 
-[郭文贵先生9月10号报平安直播文字版](/content/transcript/2018/04/20180418-8363627678146390497)
+[郭文贵2018年4月13日视频 20180413_1谈为什么要爆杨洁篪的料]({{site.baseurl}}/docs/miles/transcript/2018/04/20180413-53482275)
 
 
-## 頁面 41/42 [**<**]({{site.baseurl}}/miles/transcript/page40) [1]({{site.baseurl}}/miles/transcript/index) ... [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) [40]({{site.baseurl}}/miles/transcript/page40) **41** [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page42)
+## 頁面 41/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page40) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [36]({{site.baseurl}}/docs/miles/transcript/page36) [37]({{site.baseurl}}/docs/miles/transcript/page37) [38]({{site.baseurl}}/docs/miles/transcript/page38) [39]({{site.baseurl}}/docs/miles/transcript/page39) [40]({{site.baseurl}}/docs/miles/transcript/page40) **41** [42]({{site.baseurl}}/docs/miles/transcript/page42) [43]({{site.baseurl}}/docs/miles/transcript/page43) [44]({{site.baseurl}}/docs/miles/transcript/page44) [45]({{site.baseurl}}/docs/miles/transcript/page45) [46]({{site.baseurl}}/docs/miles/transcript/page46) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page42)

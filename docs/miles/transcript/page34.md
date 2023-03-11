@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 34/42 [**<**]({{site.baseurl}}/miles/transcript/page33) [1]({{site.baseurl}}/miles/transcript/index) ... [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) **34** [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page35)
+## 頁面 34/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page33) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [29]({{site.baseurl}}/docs/miles/transcript/page29) [30]({{site.baseurl}}/docs/miles/transcript/page30) [31]({{site.baseurl}}/docs/miles/transcript/page31) [32]({{site.baseurl}}/docs/miles/transcript/page32) [33]({{site.baseurl}}/docs/miles/transcript/page33) **34** [35]({{site.baseurl}}/docs/miles/transcript/page35) [36]({{site.baseurl}}/docs/miles/transcript/page36) [37]({{site.baseurl}}/docs/miles/transcript/page37) [38]({{site.baseurl}}/docs/miles/transcript/page38) [39]({{site.baseurl}}/docs/miles/transcript/page39) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page35)
 
-[文字版：July 6th 2018 郭媒体直播](/content/transcript/2018/07/20180707-180274757659338281)
+[郭文贵2020年11月14日连线香草山 20201114_2纽约香草山农场DC挺川大游行]({{site.baseurl}}/docs/miles/transcript/2020/11/20201114-53482654)
 
-[翻译：中国电子间谍威胁 by Bill](/content/transcript/2018/07/20180707-1620127195279414710)
+[郭文贵2021年9月16日盖特 20210916_4七哥在近两年后。来到了这个房子！让我极为的震惊，他们对房子的损坏伤害和这种极度的破坏，实在让我失望透顶！一个多月了，很多清洁工和维修工都不能完成整个房子有维修和清洁。已经面]({{site.baseurl}}/docs/miles/transcript/2021/09/20210916-53482652)
 
-[文字版2018年5月22日谈委内瑞拉马来西亚是我们借鉴走向喜马拉雅的好榜样岳文海的腐败](/content/transcript/2018/07/20180705-8441159493365541935)
+[郭文贵2021年9月16日盖特 20210916_3七哥今天有两场球赛????……一大1⃣️小……]({{site.baseurl}}/docs/miles/transcript/2021/09/20210916-53482649)
 
-[翻译：谍战大戏：虎穴追踪，智擒线民熊 （2）](/content/transcript/2018/07/20180703-1798568715370804702)
+[郭文贵2020年11月29日盖特 20201129_1尊敬的戰友們好，你們健身了嗎？你們傳播CCP病毒……香港危機真相了嗎？一切都已經開始！]({{site.baseurl}}/docs/miles/transcript/2020/11/20201129-53482648)
 
-[翻译：谍战大戏：虎穴追踪，智擒线民 （1）](/content/transcript/2018/07/20180703-4499282399094679308)
+[郭文贵2021年9月16日盖特 20210916_2共产党正在海外穷凶极恶的派遣他那些垃圾兵团……脑残兵团……伺机报复我们的爆料革命。继他们在美国的法律超限战巨大失败后，已经导致很多平爆小组的人被免职。我们的战友们要做好准备]({{site.baseurl}}/docs/miles/transcript/2021/09/20210916-53482647)
 
-[翻译Bill Gertz 中国军方最高统帅习近平的副手会见马蒂斯](/content/transcript/2018/07/20180703-4076992664553898674)
+[郭文贵2020年11月21日盖特 20201121_1文贵与战友们一起吃新鲜出炉的面包]({{site.baseurl}}/docs/miles/transcript/2020/11/20201121-53482646)
 
-[文字版6/27/18郭媒体直播](/content/transcript/2018/06/20180630-1675811568156911003)
+[郭文贵2020年11月14日直播 20201114_1]({{site.baseurl}}/docs/miles/transcript/2020/11/20201114-53482645)
 
-[文字版：6月25日 房峰辉为什么问蒂斯这个一个美国战亡士兵价值值中扺国一个连退休士命的命钱](/content/transcript/2018/06/20180626-3936778233865225859)
+[郭文贵2020年11月11日直播 20201111_2网页版试直播 - 第一部分]({{site.baseurl}}/docs/miles/transcript/2020/11/20201111-53482644)
 
-[文字版：6月17日父亲节谈与政法委老领导的通话！请草根警察不要伤害遭受不公平的草根司机！](/content/transcript/2018/06/20180619-3280425494890246053)
+[郭文贵2020年10月13日直播 20201013文贵关于Gclub和GFashion上线前有关问题的声明直播]({{site.baseurl}}/docs/miles/transcript/2020/10/20201013-53482642)
 
-[文字版：20186月10日玉岐山孟建柱命不久了马航真相一定会公布(一)](/content/transcript/2018/06/20180612-5378414891358976970)
+[郭文贵2021年9月16日盖特 20210916_1尊敬的战友们好，昨天的直播，在国际政治和金融领域和有智慧的战友眼里是完全不同的一个直播的意义的结果。新中国联盟的国际大使……那瓦罗先生的加入！对我爆料革命和新中国联邦意味着]({{site.baseurl}}/docs/miles/transcript/2021/09/20210916-53482641)
 
-[翻译：“中华文春砲”郭文贵与29年无果的民主运动家的不同作者：李小牧 2018年6月2日](/content/transcript/2018/06/20180607-8000393637108456093)
+[郭文贵2020年11月10日盖特 20201110_2很多战友发信息……问文贵，现在辉瑞公司药的防冠疫苗，是不是可靠？可信？可用？文贵在这里给大家一个回复！]({{site.baseurl}}/docs/miles/transcript/2020/11/20201110-53482639)
 
-[文字版：6月2日接受安红女士．丘岳首先生釆访．纪念六四．及袁红冰．郭宝胜．赖建平的盗骗之劣术](/content/transcript/2018/06/20180605-3544664024044691633)
+[郭文贵2021年9月17日直播 20210917_2新中国联邦庆贺马丁·班农先生百岁生日快乐！The New Federal State of China Wishes Mr. Marty Bannon A Happy 100th Birthday!]({{site.baseurl}}/docs/miles/transcript/2021/09/20210917-53482638)
 
-[文字版6月1日．文贵视频为什么成为盗国贼的精神艾滋！](/content/transcript/2018/06/20180602-4228988724633844641)
+[郭文贵2018年9月22日视频 20180922香港．台湾．上海．股市．汇市……可能发生天翻地覆的变化！]({{site.baseurl}}/docs/miles/transcript/2018/09/20180922-53482637)
 
-[文字版531．不要将六．四悲剧变喜剧！马航客机失事新动向！](/content/transcript/2018/05/20180531-5466761042269971935)
+[郭文贵2020年11月11日直播 20201111_3网页版试直播 - 第二部分]({{site.baseurl}}/docs/miles/transcript/2020/11/20201111-53482636)
 
-[文字版：5月27日请战友一起反击所谓的文贵海外维稳民主人士阴谋](/content/transcript/2018/05/20180529-639277482984082138)
+[郭文贵2018年9月16日视频第二部分 20180916_2我向美国朋友解柝郭七来！为什么不反习！及我有绝对信心中国政权一定会更迭！]({{site.baseurl}}/docs/miles/transcript/2018/09/20180916-53482634)
 
-[写给美国政府方面的信：我们眼里真实的郭文贵先生（1）](/content/transcript/2018/05/20180529-6991075700483755264)
+[郭文贵2020年11月11日直播 20201111_1]({{site.baseurl}}/docs/miles/transcript/2020/11/20201111-53482633)
 
-[文字版5月24日栗战书秘书因为董文彪曲龙王岐山被抓](/content/transcript/2018/05/20180525-5314910770568044153)
+[郭文贵2019年5月20日视频 20190520接下来．我们中国及香港的经济．金融．将一塌糊涂．远超出大家的想象]({{site.baseurl}}/docs/miles/transcript/2019/05/20190520-53482631)
 
-[文字版郭文贵先生2018 05 17 Broadcast试播](/content/transcript/2018/05/20180520-991291288208648069)
+[郭文贵2019年6月13日第二次直播 20190613_2尊敬的战友们好，你们健身了吗？从香港反送中抗议运动看到了．人心．信仰．虚假．欺骗．各种人性的表演，共产党的邪恶远远超出人们的想象，对14亿同胞和香港人民的威胁和残害程度……]({{site.baseurl}}/docs/miles/transcript/2019/06/20190613-53482630)
 
-[文字版郭文贵5月10日郭媒体直播:感谢大家的生日祝福!跟大家聊聊天](/content/transcript/2018/05/20180512-8900938020145834574)
+[郭文贵2020年11月10日盖特 20201110_1尊敬的战友们好，你们健身了吗？你们传播CCP病毒！香港危机真相了，一切都已经开始！]({{site.baseurl}}/docs/miles/transcript/2020/11/20201110-53482627)
 
-[文字版：2018/05/05——戊戌年 郭文贵先生报料直播](/content/transcript/2018/05/20180507-6937287796340481468)
+[郭文贵2019年5月19日视频 第三部分 20190519_3Pt5 Miles Kwok live broadcast on Hudson River.]({{site.baseurl}}/docs/miles/transcript/2019/05/20190519-53482626)
 
-[为救陈氏兄弟请大家积极写信给加拿大政府，下面是样本，感谢写这份样本信的战友！](/content/transcript/2018/05/20180506-3935055223509815225)
+[郭文贵2020年11月8日盖特 20201108_4记得文贵去过亚利桑娜州吧，我们今天将等来亚利桑娜州的重大利好信息！]({{site.baseurl}}/docs/miles/transcript/2020/11/20201108-53482625)
 
-[文字版郭先生2018年5月2日 ins直播](/content/transcript/2018/05/20180504-824140605329420568)
+[郭文贵2019年6月12日与细思直播 20190612如何布局最后部分谈8964监狱风]({{site.baseurl}}/docs/miles/transcript/2019/06/20190612-53482624)
 
-[文字版：4月28日金正恩是我们学习的坏榜样！](/content/transcript/2018/04/20180429-1799430545409667372)
+[郭文贵2018年9月5日视频第一部分 20180905_1黄河边性无能造成严重后果。林肯中心被取消发布会【1】]({{site.baseurl}}/docs/miles/transcript/2018/09/20180905-53482623)
 
-[文字版郭文贵先生4月26日：在西香格里拉酒店被抓嫖娼两位歌星是谁？](/content/transcript/2018/04/20180426-3820645061800034569)
+[郭文贵2020年11月8日盖特 20201108_3文贵喝完下午茶……抽雪茄抽醉了，在此……和战友聊聊……到底美国大选谁能赢？？为什么？我们为什么支持川普总统？]({{site.baseurl}}/docs/miles/transcript/2020/11/20201108-53482620)
 
-[翻译2018年4月26号自由灯塔报道中国制造虚假信息加强指控中国异见人士](/content/transcript/2018/04/20180426-4217728045032280574)
+[郭文贵2020年11月9日直播 20201109]({{site.baseurl}}/docs/miles/transcript/2020/11/20201109-53482619)
 
 
-## 頁面 34/42 [**<**]({{site.baseurl}}/miles/transcript/page33) [1]({{site.baseurl}}/miles/transcript/index) ... [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) **34** [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) [38]({{site.baseurl}}/miles/transcript/page38) [39]({{site.baseurl}}/miles/transcript/page39) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page35)
+## 頁面 34/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page33) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [29]({{site.baseurl}}/docs/miles/transcript/page29) [30]({{site.baseurl}}/docs/miles/transcript/page30) [31]({{site.baseurl}}/docs/miles/transcript/page31) [32]({{site.baseurl}}/docs/miles/transcript/page32) [33]({{site.baseurl}}/docs/miles/transcript/page33) **34** [35]({{site.baseurl}}/docs/miles/transcript/page35) [36]({{site.baseurl}}/docs/miles/transcript/page36) [37]({{site.baseurl}}/docs/miles/transcript/page37) [38]({{site.baseurl}}/docs/miles/transcript/page38) [39]({{site.baseurl}}/docs/miles/transcript/page39) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page35)

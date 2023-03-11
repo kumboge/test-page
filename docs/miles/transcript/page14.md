@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 14/42 [**<**]({{site.baseurl}}/miles/transcript/page13) [1]({{site.baseurl}}/miles/transcript/index) ... [9]({{site.baseurl}}/miles/transcript/page9) [10]({{site.baseurl}}/miles/transcript/page10) [11]({{site.baseurl}}/miles/transcript/page11) [12]({{site.baseurl}}/miles/transcript/page12) [13]({{site.baseurl}}/miles/transcript/page13) **14** [15]({{site.baseurl}}/miles/transcript/page15) [16]({{site.baseurl}}/miles/transcript/page16) [17]({{site.baseurl}}/miles/transcript/page17) [18]({{site.baseurl}}/miles/transcript/page18) [19]({{site.baseurl}}/miles/transcript/page19) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page15)
+## 頁面 14/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page13) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [9]({{site.baseurl}}/docs/miles/transcript/page9) [10]({{site.baseurl}}/docs/miles/transcript/page10) [11]({{site.baseurl}}/docs/miles/transcript/page11) [12]({{site.baseurl}}/docs/miles/transcript/page12) [13]({{site.baseurl}}/docs/miles/transcript/page13) **14** [15]({{site.baseurl}}/docs/miles/transcript/page15) [16]({{site.baseurl}}/docs/miles/transcript/page16) [17]({{site.baseurl}}/docs/miles/transcript/page17) [18]({{site.baseurl}}/docs/miles/transcript/page18) [19]({{site.baseurl}}/docs/miles/transcript/page19) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page15)
 
-[文字版：2020年8月22日郭先生GTV直播连线秘密翻译组](/content/transcript/2020/08/20200831-6719006213940604734)
+[郭文贵2017年6月28日完整版 20170628]({{site.baseurl}}/docs/miles/transcript/2017/06/20170628-53483804)
 
-[文字版:2020年8月21日郭先生GTV直播](/content/transcript/2020/08/20200831-2950510164966247295)
+[郭文贵2017年5月23日视频 20170523]({{site.baseurl}}/docs/miles/transcript/2017/05/20170523-53483802)
 
-[文字版:2020年8月16日郭先生GTV直播连线新西兰战友](/content/transcript/2020/08/20200831-5572954983708392558)
+[郭文贵2018年6月10日 20180610玉岐山孟建柱命不久了！马航真相一定会公布！(一)]({{site.baseurl}}/docs/miles/transcript/2018/06/20180610-53483801)
 
-[【文字版】2020年8月15日文贵先生连线Masha战友](/content/transcript/2020/08/20200823-930057980655469134)
+[郭文贵2017年5月22日直播 20170522_1回覆潘石屹]({{site.baseurl}}/docs/miles/transcript/2017/05/20170522-53483799)
 
-[【文字版】2020年8月12日文贵先生直播视频](/content/transcript/2020/08/20200823-4877264115847899571)
+[郭文贵2017年5月21日第三次直播 20170521_3]({{site.baseurl}}/docs/miles/transcript/2017/05/20170521-53483794)
 
-[文字版：2020年8月9日文贵先生连线硅谷战友](/content/transcript/2020/08/20200823-4152243607808954101)
+[郭文贵2017年7月25日 20170725王岐山、贯君的6000亿海航股权去哪了？]({{site.baseurl}}/docs/miles/transcript/2017/07/20170725-53483792)
 
-[【文字版】2020年8月8日郭先生GTV连线日本樱花团](/content/transcript/2020/08/20200814-3147962922303992326)
+[郭文贵2017年6月27日 20170627应推友们的要求和狗狗snow的视频]({{site.baseurl}}/docs/miles/transcript/2017/06/20170627-53483791)
 
-[【文字版】2020年8月7日文贵先生直播视频](/content/transcript/2020/08/20200814-1685166699558420781)
+[郭文贵2017年6月26日视频 20170626]({{site.baseurl}}/docs/miles/transcript/2017/06/20170626-53483789)
 
-[文字版：2020年8月5日郭先生GTV盖特视频](/content/transcript/2020/08/20200814-7866344919726272257)
+[郭文贵2017年8月17日视频 20170817 香港女合伙人被孟建柱下令绑架回深圳．昨晚上自杀未遂而送医！盗国贼们，8.18见！]({{site.baseurl}}/docs/miles/transcript/2017/08/20170817-53483788)
 
-[【文字版】2020年8月4日文贵先生直播视频](/content/transcript/2020/08/20200814-4721687325348689489)
+[郭文贵2018年6月2日 20180602接受安红女士．丘岳首先生釆访．纪念六四．及袁红冰．郭宝胜．赖建平的盗骗之劣术！]({{site.baseurl}}/docs/miles/transcript/2018/06/20180602-53483787)
 
-[文字版:2020年7月30日郭先生GTV连线朴昌海先生及韩国战友团](/content/transcript/2020/08/20200805-753892440282858627)
+[郭文贵2017年6月19日视频 20170619再让子弹飞一会儿！]({{site.baseurl}}/docs/miles/transcript/2017/06/20170619-53483786)
 
-[【文字版】2020年8月2日郭先生直播视频](/content/transcript/2020/08/20200805-2636896334085187647)
+[郭文贵2017年8月19日视频 20170819健身报平安小视频：既兴奋又难过。大战在即！和平革命！]({{site.baseurl}}/docs/miles/transcript/2017/08/20170819-53483784)
 
-[文字版:2020年8月1日郭先生GTV盖特视频](/content/transcript/2020/08/20200803-8172548442733905184)
+[郭文贵2021年12月22日视频 20211222_2关于郭文贵先生接受HBO Vice采访的背后真相]({{site.baseurl}}/docs/miles/transcript/2021/12/20211222-53483782)
 
-[文字版：2020年7月28日郭先生GTV直播](/content/transcript/2020/08/20200803-447737050239599079)
+[郭文贵2017年5月7日 20170507_2向大家报平安的小视频 2]({{site.baseurl}}/docs/miles/transcript/2017/05/20170507-53483781)
 
-[文字版：2020年7月27日郭先生GTV直播](/content/transcript/2020/07/20200730-5703887795037771842)
+[郭文贵2017年6月7日视频 20170607推特报平安]({{site.baseurl}}/docs/miles/transcript/2017/06/20170607-53483780)
 
-[文字版：郭先生2020年7月25日GTV直播](/content/transcript/2020/07/20200729-6515817926208283674)
+[郭文贵2017年5月21日第二次直播 20170521_2]({{site.baseurl}}/docs/miles/transcript/2017/05/20170521-53483778)
 
-[文字版：2020年7月22日郭先生8分钟盖特](/content/transcript/2020/07/20200726-4617342392146265454)
+[郭文贵2017年5月7日 20170507_1向大家报平安的小视频 1]({{site.baseurl}}/docs/miles/transcript/2017/05/20170507-53483777)
 
-[文字版：郭先生2020年7月22日GTV直播](/content/transcript/2020/07/20200726-865086789235456284)
+[郭文贵2017年6月13日 20170613关于章立凡与胡平先生在VoA节目中对文贵的诬陷]({{site.baseurl}}/docs/miles/transcript/2017/06/20170613-53483776)
 
-[文字版：郭先生2020年7月19号参加大卫小哥采访](/content/transcript/2020/07/20200726-1420691719987690334)
+[郭文贵2017年5月30日视频 20170530报行踪视频曝料川普总统酒店]({{site.baseurl}}/docs/miles/transcript/2017/05/20170530-53483775)
 
-[文字版：郭先生2020年7月19日GTV直播](/content/transcript/2020/07/20200726-4115956209071178859)
+[郭文贵2017年5月6日视频 20170506]({{site.baseurl}}/docs/miles/transcript/2017/05/20170506-53483774)
 
-[文字版:郭先生2020年7月17日GTV直播](/content/transcript/2020/07/20200720-623099392723005208)
+[郭文贵2017年5月15日视频 20170515_2報平安 2被骇后再开！]({{site.baseurl}}/docs/miles/transcript/2017/05/20170515-53483772)
 
-[文字版:7月14日郭先生盖文汇总](/content/transcript/2020/07/20200719-4379804612561417938)
+[郭文贵2017年5月4日视频 20170504_2秦伟平专访郭文贵（弹幕版）]({{site.baseurl}}/docs/miles/transcript/2017/05/20170504-53483769)
 
-[文字版:郭先生7月15日GTV直播](/content/transcript/2020/07/20200719-3882705048622934643)
+[郭文贵2017年5月22日直播 20170522_2手机直播回应潘石屹视频]({{site.baseurl}}/docs/miles/transcript/2017/05/20170522-53483764)
 
-[文字版：郭先生7月12日GTV直播](/content/transcript/2020/07/20200715-541227053977601101)
+[郭文贵2017年5月5日视频 20170505]({{site.baseurl}}/docs/miles/transcript/2017/05/20170505-53483763)
 
-[文字版：郭先生2020年7月8号GTV直播](/content/transcript/2020/07/20200715-3384664929547072780)
+[郭文贵2017年5月20日第一次直播 20170520在香港是否存在执法黑屋]({{site.baseurl}}/docs/miles/transcript/2017/05/20170520-53483761)
 
 
-## 頁面 14/42 [**<**]({{site.baseurl}}/miles/transcript/page13) [1]({{site.baseurl}}/miles/transcript/index) ... [9]({{site.baseurl}}/miles/transcript/page9) [10]({{site.baseurl}}/miles/transcript/page10) [11]({{site.baseurl}}/miles/transcript/page11) [12]({{site.baseurl}}/miles/transcript/page12) [13]({{site.baseurl}}/miles/transcript/page13) **14** [15]({{site.baseurl}}/miles/transcript/page15) [16]({{site.baseurl}}/miles/transcript/page16) [17]({{site.baseurl}}/miles/transcript/page17) [18]({{site.baseurl}}/miles/transcript/page18) [19]({{site.baseurl}}/miles/transcript/page19) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page15)
+## 頁面 14/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page13) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [9]({{site.baseurl}}/docs/miles/transcript/page9) [10]({{site.baseurl}}/docs/miles/transcript/page10) [11]({{site.baseurl}}/docs/miles/transcript/page11) [12]({{site.baseurl}}/docs/miles/transcript/page12) [13]({{site.baseurl}}/docs/miles/transcript/page13) **14** [15]({{site.baseurl}}/docs/miles/transcript/page15) [16]({{site.baseurl}}/docs/miles/transcript/page16) [17]({{site.baseurl}}/docs/miles/transcript/page17) [18]({{site.baseurl}}/docs/miles/transcript/page18) [19]({{site.baseurl}}/docs/miles/transcript/page19) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page15)

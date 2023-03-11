@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 18/42 [**<**]({{site.baseurl}}/miles/transcript/page17) [1]({{site.baseurl}}/miles/transcript/index) ... [13]({{site.baseurl}}/miles/transcript/page13) [14]({{site.baseurl}}/miles/transcript/page14) [15]({{site.baseurl}}/miles/transcript/page15) [16]({{site.baseurl}}/miles/transcript/page16) [17]({{site.baseurl}}/miles/transcript/page17) **18** [19]({{site.baseurl}}/miles/transcript/page19) [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page19)
+## 頁面 18/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page17) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [13]({{site.baseurl}}/docs/miles/transcript/page13) [14]({{site.baseurl}}/docs/miles/transcript/page14) [15]({{site.baseurl}}/docs/miles/transcript/page15) [16]({{site.baseurl}}/docs/miles/transcript/page16) [17]({{site.baseurl}}/docs/miles/transcript/page17) **18** [19]({{site.baseurl}}/docs/miles/transcript/page19) [20]({{site.baseurl}}/docs/miles/transcript/page20) [21]({{site.baseurl}}/docs/miles/transcript/page21) [22]({{site.baseurl}}/docs/miles/transcript/page22) [23]({{site.baseurl}}/docs/miles/transcript/page23) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page19)
 
-[文字版：2020年3月13日文贵船上分享美食和预告周六早上直播](/content/transcript/2020/03/20200316-6955651449637446921)
+[郭文贵2017年9月28日视频 20170928国内封网，放出曲龙，游虎给虎看！]({{site.baseurl}}/docs/miles/transcript/2017/09/20170928-53483600)
 
-[文字版:2020年3月12日谈华尔街股市暴跌，世界资产重新分配](/content/transcript/2020/03/20200314-7640814044022850534)
+[郭文贵2017年9月27日视频 20170927不要开会，不要搞募捐，要行动！]({{site.baseurl}}/docs/miles/transcript/2017/09/20170927-53483597)
 
-[文字版：2020年3月11日文贵谈未来3到5年能健康地活着就是最幸福的事了](/content/transcript/2020/03/20200314-8958776205330396975)
+[郭文贵2019年11月30日 20191130曾宏和赵岩是如何为小夏争风吃醋的！乱聊再乱聊，一切都是刚刚开始！]({{site.baseurl}}/docs/miles/transcript/2019/11/20191130-53483593)
 
-[文字版：2020年3月8日文贵谈即将发生CCP的股市及欺民贼的末日，我们每一位战友都将见证历史！](/content/transcript/2020/03/20200311-6040433872108549534)
+[郭文贵2017年9月26日视频 20170926_2酒店警告不准看郭视频 断网还要断电吗？]({{site.baseurl}}/docs/miles/transcript/2017/09/20170926-53483592)
 
-[文字版：2020年3月7日谈冠状病毒始于香港，必将终于香港！世界的爆发还没开始！](/content/transcript/2020/03/20200311-4043567072040877942)
+[郭文贵2019年12月23日 20191223提醒香港同胞一定不要被共產黨的陰謀詭計分散人心]({{site.baseurl}}/docs/miles/transcript/2019/12/20191223-53483591)
 
-[文字版：2020年3月4日全世界反击CCP，一切已经开始](/content/transcript/2020/03/20200306-1461257140477457088)
+[郭文贵2017年9月25日视频 20170925首发爆料后国内炸了锅了！]({{site.baseurl}}/docs/miles/transcript/2017/09/20170925-53483590)
 
-[文字版：2020年3月3日文贵车上直播谈17件大事正在发生中](/content/transcript/2020/03/20200305-4413506880481638032)
+[郭文贵2017年9月22日视频 20170922美国官员把我当成小白兔一样呵护我]({{site.baseurl}}/docs/miles/transcript/2017/09/20170922-53483589)
 
-[文字版：2020年2月29日文贵谈共产党正在开始集体自焚](/content/transcript/2020/03/20200302-6186645591158961547)
+[郭文贵2017年9月21日视频 20170921吴征在美国造谣 今明两天开董事会]({{site.baseurl}}/docs/miles/transcript/2017/09/20170921-53483587)
 
-[文字版:2020年2月27日文贵谈王岐山站着出来握手](/content/transcript/2020/02/20200229-501572706956306869)
+[郭文贵2019年11月29日 20191129龚小夏过往点滴,龚你啥时候看过帐？]({{site.baseurl}}/docs/miles/transcript/2019/11/20191129-53483586)
 
-[文字版:2020年2月21日郭先生参加班农战斗室访谈](/content/transcript/2020/02/20200227-1553172568054337472)
+[郭文贵2017年9月20日视频 20170920政法王最后一个工作会议 人民满意度提高？]({{site.baseurl}}/docs/miles/transcript/2017/09/20170920-53483584)
 
-[文字版：2020年2月22日文贵谈CCP要与世界玉石俱焚](/content/transcript/2020/02/20200224-7577071556955663808)
+[郭文贵2017年9月18日视频 20170918在安全屋准备全球发布会资料 担心中国大乱]({{site.baseurl}}/docs/miles/transcript/2017/09/20170918-53483583)
 
-[文字版：2020年2月21日郭先生警示北京人民医院感染众多！疫情大爆发还没真正开始！](/content/transcript/2020/02/20200223-7052827819661082462)
+[郭文贵2017年9月14日视频 20170914将在48小时内爆政法王的情人之一]({{site.baseurl}}/docs/miles/transcript/2017/09/20170914-53483579)
 
-[文字版:2020年2月20日郭先生在班农战斗室第21期谈武汉疫情](/content/transcript/2020/02/20200223-478006354833064962)
+[郭文贵2019年12月22日 20191222在亚利桑那州凤凰城报平安]({{site.baseurl}}/docs/miles/transcript/2019/12/20191222-53483578)
 
-[文字版:2020年2月21日文贵再次提醒同胞们2月29日是分水岭，呆家里莫出门！](/content/transcript/2020/02/20200221-2173657397153903143)
+[郭文贵2017年9月13日视频 20170913_2一小时后爆盗国贼们的生殖器治国首篇]({{site.baseurl}}/docs/miles/transcript/2017/09/20170913-53483577)
 
-[文字版:2020年2月20日文贵先生和班农先生在作战室和喜马拉雅大使馆共同直播](/content/transcript/2020/02/20200221-5201737352028779423)
+[郭文贵2017年9月12日视频 20170912大家不要上了盗国贼们生殖器大战的当]({{site.baseurl}}/docs/miles/transcript/2017/09/20170912-53483575)
 
-[文字版：2020年2月18日郭文贵先生直播警醒同胞2月29日是武汉疫情的分水岭，别上班，躲深山!](/content/transcript/2020/02/20200220-6957915304895832685)
+[郭文贵2017年9月11日视频 20170911全力以赴准备19大我们的影子会议]({{site.baseurl}}/docs/miles/transcript/2017/09/20170911-53483574)
 
-[文字版:2020年2月15日文贵告诉战友们一定要耐心在家健身健心，会有解药的！CCP灭了车贷房贷不用还了！](/content/transcript/2020/02/20200218-4076658468529416877)
+[郭文贵2017年9月9日视频 20170909_5在船上]({{site.baseurl}}/docs/miles/transcript/2017/09/20170909-53483572)
 
-[文字版：2020年2月14日文贵试直播谈GTV的武汉疫情视频免费用，战友不树敌只为灭共](/content/transcript/2020/02/20200216-8326399150836754935)
+[郭文贵2019年12月21日视频 20191221谈谈欺诈犯郭宝胜庭审细节和海外华人形象的危机]({{site.baseurl}}/docs/miles/transcript/2019/12/20191221-53483570)
 
-[文字版：2020年2月12日文贵谈一切都听党的走向火葬场](/content/transcript/2020/02/20200214-4470688033484197678)
+[郭文贵2019年11月27日 20191127再谈《香港人权与民主法案》,川普签署法案的前一分钟，中共仍在勾兑；CCP在疆狂杀滥捕甚于魔鬼]({{site.baseurl}}/docs/miles/transcript/2019/11/20191127-53483568)
 
-[文字版： 2020年2月10日请战友们保存让你上班的证据，大家行动起来！](/content/transcript/2020/02/20200212-3562611532085874008)
+[郭文贵2017年9月9日视频 20170909_4补偿今天直播技术的失败 分享游艇内部]({{site.baseurl}}/docs/miles/transcript/2017/09/20170909-53483567)
 
-[文字版： 2020年2月8日文贵第二次直播谈美国专家确定武汉病毒来自中共实验室制造](/content/transcript/2020/02/20200210-4272958490110900794)
+[郭文贵2017年9月9日视频 20170909_3船上直播 他们把死人都给搬出来了！]({{site.baseurl}}/docs/miles/transcript/2017/09/20170909-53483564)
 
-[文字版：2020年2月8日文贵第一次直播谈为什么说武汉疫情是中国共产党制造并释放出来的](/content/transcript/2020/02/20200210-962029426939304062)
+[郭文贵2017年9月9日视频 20170909_2分享此时此刻 为今天的直播技术失误道歉]({{site.baseurl}}/docs/miles/transcript/2017/09/20170909-53483562)
 
-[文字版：2020年2月6日郭文贵先生接受班农先生战斗室访谈谈武汉疫情真相](/content/transcript/2020/02/20200208-1574169935593183081)
+[郭文贵2021年12月19日直播 20211219_2超发货币导致的通胀、通缩对世界经济与格局的影响；中共房地产持续暴雷破产；病毒疫苗虚假经济；强办奥运后果严重；欧美惩罚中共难逃；疫苗灾难大事将至]({{site.baseurl}}/docs/miles/transcript/2021/12/20211219-53483561)
 
-[文字版：2020年2月3日文贵谈共产党官方一直掩盖武汉真相并栽赃美国](/content/transcript/2020/02/20200207-1018085438750382057)
+[郭文贵2017年9月2日视频 20170902_2感谢楼下挺郭的朋友们]({{site.baseurl}}/docs/miles/transcript/2017/09/20170902-53483559)
 
-[文字版：2020年2月1日郭文贵先生第三次直播分享参加川普总统晚宴有感](/content/transcript/2020/02/20200204-4372842395981895522)
+[郭文贵2017年9月1日视频 20170901_2让盗国贼看看把我们当猪狗的代价是什么！]({{site.baseurl}}/docs/miles/transcript/2017/09/20170901-53483558)
 
 
-## 頁面 18/42 [**<**]({{site.baseurl}}/miles/transcript/page17) [1]({{site.baseurl}}/miles/transcript/index) ... [13]({{site.baseurl}}/miles/transcript/page13) [14]({{site.baseurl}}/miles/transcript/page14) [15]({{site.baseurl}}/miles/transcript/page15) [16]({{site.baseurl}}/miles/transcript/page16) [17]({{site.baseurl}}/miles/transcript/page17) **18** [19]({{site.baseurl}}/miles/transcript/page19) [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page19)
+## 頁面 18/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page17) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [13]({{site.baseurl}}/docs/miles/transcript/page13) [14]({{site.baseurl}}/docs/miles/transcript/page14) [15]({{site.baseurl}}/docs/miles/transcript/page15) [16]({{site.baseurl}}/docs/miles/transcript/page16) [17]({{site.baseurl}}/docs/miles/transcript/page17) **18** [19]({{site.baseurl}}/docs/miles/transcript/page19) [20]({{site.baseurl}}/docs/miles/transcript/page20) [21]({{site.baseurl}}/docs/miles/transcript/page21) [22]({{site.baseurl}}/docs/miles/transcript/page22) [23]({{site.baseurl}}/docs/miles/transcript/page23) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page19)

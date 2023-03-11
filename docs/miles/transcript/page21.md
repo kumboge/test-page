@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 21/42 [**<**]({{site.baseurl}}/miles/transcript/page20) [1]({{site.baseurl}}/miles/transcript/index) ... [16]({{site.baseurl}}/miles/transcript/page16) [17]({{site.baseurl}}/miles/transcript/page17) [18]({{site.baseurl}}/miles/transcript/page18) [19]({{site.baseurl}}/miles/transcript/page19) [20]({{site.baseurl}}/miles/transcript/page20) **21** [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page22)
+## 頁面 21/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page20) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [16]({{site.baseurl}}/docs/miles/transcript/page16) [17]({{site.baseurl}}/docs/miles/transcript/page17) [18]({{site.baseurl}}/docs/miles/transcript/page18) [19]({{site.baseurl}}/docs/miles/transcript/page19) [20]({{site.baseurl}}/docs/miles/transcript/page20) **21** [22]({{site.baseurl}}/docs/miles/transcript/page22) [23]({{site.baseurl}}/docs/miles/transcript/page23) [24]({{site.baseurl}}/docs/miles/transcript/page24) [25]({{site.baseurl}}/docs/miles/transcript/page25) [26]({{site.baseurl}}/docs/miles/transcript/page26) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page22)
 
-[文字版：2019年12月10日文贵报平安-共产党正炮制猛药去毒死香港人，王健死亡真相引发国内巨大震荡](/content/transcript/2019/12/20191212-5839330453623085189)
+[郭文贵2019年11月15日视频 20191115建议香港前线勇武义士战术性转进 在香港沦陷区进入潜伏状态 蛰伏保留实力 文贵去华盛顿办大事；香港法案一定会过]({{site.baseurl}}/docs/miles/transcript/2019/11/20191115-53483456)
 
-[文字版：2019年12月9日郭文贵先生第二次直播王健尸体的高清照片](/content/transcript/2019/12/20191212-297605354411190045)
+[郭文贵2019年11月14日第一次直播 20191114_1]({{site.baseurl}}/docs/miles/transcript/2019/11/20191114-53483446)
 
-[文字版：2019年12月9日上午郭文贵报平安直播](/content/transcript/2019/12/20191211-5104769377059048027)
+[郭文贵2019年11月14日第二次直播 20191114_2香港一定赢！三分钟香港抗议实况]({{site.baseurl}}/docs/miles/transcript/2019/11/20191114-53483440)
 
-[文字版：2019年12月8日文贵报平安](/content/transcript/2019/12/20191210-8975996201411180459)
+[郭文贵2019年11月12日视频 20191112关于香港最新局势紧急直播]({{site.baseurl}}/docs/miles/transcript/2019/11/20191112-53483436)
 
-[文字版：2019年12月7日郭先生对话钢铁侠](/content/transcript/2019/12/20191209-6749356903573144336)
+[郭文贵2021年12月10日直播 20211210_1全球各国抵制冬奥会；数字货币市场未来变化趋势；郭先生新歌Billboard数字歌曲销售排行榜一名；Hcoin To The Moon iTunes打榜记录；对准中共高层海外春节大行动]({{site.baseurl}}/docs/miles/transcript/2021/12/20211210-53483433)
 
-[文字版: 2019年12月4日郭文贵先生谈郑若骅被绑架回京的经过以及给盘古、政泉和裕达同事们发出的安全保护办法](/content/transcript/2019/12/20191205-3740864739432231815)
+[郭文贵2019年11月24日 20191124马装助威香港公投选举议员]({{site.baseurl}}/docs/miles/transcript/2019/11/20191124-53483431)
 
-[文字版：2019年12月3日郭先生报平安](/content/transcript/2019/12/20191204-1258843651620864623)
+[郭文贵2019年11月11日 20191111与班农先生紧急直播关于香港]({{site.baseurl}}/docs/miles/transcript/2019/11/20191111-53483430)
 
-[文字版：2019年12月2日郭文贵先生报平安直播：国内做好准备囤食物囤美金，保护好自己！](/content/transcript/2019/12/20191203-2918612896973787175)
+[郭文贵2019年11月21日 20191121警告海外华人不要帮腔中共作恶 2）喊话王健妻儿，翻译周恬恬出面合作 3）暗示接下来要爆杨洁篪得大料]({{site.baseurl}}/docs/miles/transcript/2019/11/20191121-53483428)
 
-[文字版：2019年12月1日郭先生报平安直播](/content/transcript/2019/12/20191203-2633135332131965317)
+[郭文贵2021年12月17日直播 20211217_1国内经济危机与冬奥会；方正证券接管郑州裕达；彭副主席上位意图何在；各数字货币下滑与喜币]({{site.baseurl}}/docs/miles/transcript/2021/12/20211217-53483421)
 
-[文字版：2019年11月30日文贵直播](/content/transcript/2019/12/20191201-7479279258492241579)
+[郭文贵2019年11月3日第二次直播 20191103_2文贵要进山给大佬讲CCP的区块链]({{site.baseurl}}/docs/miles/transcript/2019/11/20191103-53483418)
 
-[文字版：2019年11月29日文贵谈龚小夏过往点滴](/content/transcript/2019/12/20191201-3479974122524096649)
+[郭文贵2019年11月7日 20191107中国现状和大清灭亡前一样；十几家基金公司相聚曼哈顿，一致决定从香港全面撤资]({{site.baseurl}}/docs/miles/transcript/2019/11/20191107-53483409)
 
-[文字版：2019年11月27日晚上文贵再谈《香港人权与民主法案》并祝感恩节快乐](/content/transcript/2019/11/20191129-6884019306620752974)
+[郭文贵2019年11月2日第一次直播 20191102_1在中央公园与战友分享美景]({{site.baseurl}}/docs/miles/transcript/2019/11/20191102-53483407)
 
-[文字版：2019年11月27日郭文贵先生直播: 区选战只是开始！关注理工大学后续发展！](/content/transcript/2019/11/20191129-9084303791170558370)
+[郭文贵2019年11月2日第二次直播 20191102_2文贵讲成功，胜利和信仰：中国现在像灭亡前的大清朝 谈共产党即将倒台的三大因素]({{site.baseurl}}/docs/miles/transcript/2019/11/20191102-53483401)
 
-[文字版：2019年11月26日郭文贵先生与中国威胁论创始人比尔格兹先生直播](/content/transcript/2019/11/20191128-7131783827849750716)
+[郭文贵2021年12月28日盖特 20211228_3吃饭饭喽……荷叶蒸老鸡]({{site.baseurl}}/docs/miles/transcript/2021/12/20211228-53483399)
 
-[文字版：郭文贵先生1120一周年再次联手定点爆破，王健之死浮出水面（精华版）](/content/transcript/2019/11/20191126-8526960149542259140)
+[郭文贵2021年12月28日盖特 20211228_2尊敬的戰友們好⋯⋯共产党的洗脑和即将到来的经济大崩潰⋯⋯將害死太多无辜的同胞⋯⋯这是让我们非常非常的心痛很无力的地方，我们将竭尽全力拯救更多的同胞⋯⋯一切都已经开始。]({{site.baseurl}}/docs/miles/transcript/2021/12/20211228-53483397)
 
-[文字版：2019年11月24日郭文贵先生马装助威香港公投选举议员](/content/transcript/2019/11/20191125-2755101729158304751)
+[郭文贵2021年11月1日直播 20211101_1“HCOIN TO THE MOON” 喜马拉雅币上市庆典 （上）]({{site.baseurl}}/docs/miles/transcript/2021/11/20211101-53483393)
 
-[文字版：2019年11月23日文贵报平安直播](/content/transcript/2019/11/20191125-6475275943691135995)
+[郭文贵2019年11月9日视频 20191109共产党早已掉入塔西佗陷阱；香港保护法案和人权一定会过！]({{site.baseurl}}/docs/miles/transcript/2019/11/20191109-53483391)
 
-[文字版：2019年11月21日感谢万佛万神，警告海外华人不要帮中共作恶并喊话黄芳](/content/transcript/2019/11/20191122-9185268058186409613)
+[郭文贵2021年12月27日盖特 20211227_2吃馍馍喽…]({{site.baseurl}}/docs/miles/transcript/2021/12/20211227-53483389)
 
-[文字版：2019年11月19日庆祝香港人权与民主法案全票通过](/content/transcript/2019/11/20191121-5294984680700709371)
+[郭文贵2021年12月27日盖特 20211227_1尊敬的战友们好！共产党内部的政治斗争和经济的即将崩溃，已经成了美国和欧洲利用的工具． 他们越来越相信消灭共产党的最好方式……正在发生中，没有人能改变共产党正在加速走向灭亡……]({{site.baseurl}}/docs/miles/transcript/2021/12/20211227-53483387)
 
-[文字版：11月19号文贵报平安，有关11.20直播安排和香港理工大的背后故事](/content/transcript/2019/11/20191120-7407976853651843177)
+[郭文贵2019年10月30日特别节目上集 20191030文贵和Sara、路德、江财神在喜马拉雅大使馆谈区块链]({{site.baseurl}}/docs/miles/transcript/2019/10/20191030-53483386)
 
-[文字版：2019年11月18日文贵谈香港理工大学事件背后的故事](/content/transcript/2019/11/20191119-700270483313252940)
+[郭文贵2019年11月6日第一次直播 20191106_1“文贵和路德在喜马拉雅大使馆直播”下部]({{site.baseurl}}/docs/miles/transcript/2019/11/20191106-53483384)
 
-[文字版：2019年11月17日文贵先生对理工大学的人道危机个人看法](/content/transcript/2019/11/20191118-3253846857255260107)
+[郭文贵2021年12月25日盖特 20211225_6在今天这个特别的日子里． 当年的齐澳塞斯库就是在12月25号被枪毙的！原来共产主义的苏联也是在12月25号解体的……这是一个伟大的日子。七哥的厨艺大显身手……馍馍蒸熟啦……]({{site.baseurl}}/docs/miles/transcript/2021/12/20211225-53483383)
 
-[文字版：2019年11月16日解放军走出军营的那一刻，是历史的重大转折](/content/transcript/2019/11/20191117-3916342912052380154)
+[郭文贵2021年12月25日盖特直播 20211225_5蒸馍馍]({{site.baseurl}}/docs/miles/transcript/2021/12/20211225-53483380)
 
-[文字版:2019年11月15日郭文贵先生建议香港前线勇武义士蛰伏保留实力](/content/transcript/2019/11/20191117-5300701663572959846)
+[郭文贵2021年12月25日盖特 20211225_4尊敬的战友们好，你们健身了吗？传播CC P病毒．疫苗解药的真相了吗？一切都已经开始！]({{site.baseurl}}/docs/miles/transcript/2021/12/20211225-53483378)
 
-[文字版：2019年11月14日郭文贵先生路上直播](/content/transcript/2019/11/20191116-589334000754628973)
+[郭文贵2021年12月25日盖特 20211225_3文贵衷心再愿全天下人……和所有的兄弟姐妹，战友们！及家人．圣诞节快乐，文贵为你们蒸馍馍吃咯????]({{site.baseurl}}/docs/miles/transcript/2021/12/20211225-53483377)
 
 
-## 頁面 21/42 [**<**]({{site.baseurl}}/miles/transcript/page20) [1]({{site.baseurl}}/miles/transcript/index) ... [16]({{site.baseurl}}/miles/transcript/page16) [17]({{site.baseurl}}/miles/transcript/page17) [18]({{site.baseurl}}/miles/transcript/page18) [19]({{site.baseurl}}/miles/transcript/page19) [20]({{site.baseurl}}/miles/transcript/page20) **21** [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page22)
+## 頁面 21/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page20) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [16]({{site.baseurl}}/docs/miles/transcript/page16) [17]({{site.baseurl}}/docs/miles/transcript/page17) [18]({{site.baseurl}}/docs/miles/transcript/page18) [19]({{site.baseurl}}/docs/miles/transcript/page19) [20]({{site.baseurl}}/docs/miles/transcript/page20) **21** [22]({{site.baseurl}}/docs/miles/transcript/page22) [23]({{site.baseurl}}/docs/miles/transcript/page23) [24]({{site.baseurl}}/docs/miles/transcript/page24) [25]({{site.baseurl}}/docs/miles/transcript/page25) [26]({{site.baseurl}}/docs/miles/transcript/page26) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page22)

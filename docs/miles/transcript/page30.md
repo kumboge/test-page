@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 30/42 [**<**]({{site.baseurl}}/miles/transcript/page29) [1]({{site.baseurl}}/miles/transcript/index) ... [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) **30** [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page31)
+## 頁面 30/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page29) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [25]({{site.baseurl}}/docs/miles/transcript/page25) [26]({{site.baseurl}}/docs/miles/transcript/page26) [27]({{site.baseurl}}/docs/miles/transcript/page27) [28]({{site.baseurl}}/docs/miles/transcript/page28) [29]({{site.baseurl}}/docs/miles/transcript/page29) **30** [31]({{site.baseurl}}/docs/miles/transcript/page31) [32]({{site.baseurl}}/docs/miles/transcript/page32) [33]({{site.baseurl}}/docs/miles/transcript/page33) [34]({{site.baseurl}}/docs/miles/transcript/page34) [35]({{site.baseurl}}/docs/miles/transcript/page35) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page31)
 
-[文字版：2019年1月18日郭文贵先生直播（上，下）](/content/transcript/2019/01/20190122-8638350325848352117)
+[郭文贵2018年10月9日instagram直播 20181009CCP如果攻击台湾美国会不会出兵为什么说港币和人民币会垮掉．保护台湾香港极为重要！]({{site.baseurl}}/docs/miles/transcript/2018/10/20181009-53482837)
 
-[文字版2019年1月17 日直播（上，下）](/content/transcript/2019/01/20190122-1312642857829852488)
+[郭文贵2018年1月11日直播 20180111_2]({{site.baseurl}}/docs/miles/transcript/2018/01/20180111-53482825)
 
-[文字版：2019年1月16日郭先生报平安视频（上，下）](/content/transcript/2019/01/20190118-5239795096969232686)
+[郭文贵2018年1月11日直播 20180111_1]({{site.baseurl}}/docs/miles/transcript/2018/01/20180111-53482823)
 
-[文字版：2019年1月12日郭文贵先生接受《楚门看世界》采访](/content/transcript/2019/01/20190113-3654521321996198385)
+[郭文贵2019年7月5日视频 20190705美国最高层“中国人站起来反抗，美国人一定跟上”]({{site.baseurl}}/docs/miles/transcript/2019/07/20190705-53482822)
 
-[文字版：2019年1月11日“政法伪”高管评崔永元爆料](/content/transcript/2019/01/20190113-1838714476556605024)
+[郭文贵2017年12月30日直播 20171230_1]({{site.baseurl}}/docs/miles/transcript/2017/12/20171230-53482820)
 
-[文字版：2019年1月10日，談袁健斌的案子，徵求春節爆猛料內幕](/content/transcript/2019/01/20190111-7236434520356507605)
+[郭文贵2020年11月28日直播 20201128_1习下定决心攻打台湾，香港经济正处在最后崩盘的挣扎中，美国大选越滑稽我们越有机会！]({{site.baseurl}}/docs/miles/transcript/2020/11/20201128-53482819)
 
-[文字版：1月8日文贵报平安视频](/content/transcript/2019/01/20190111-1742695953607571413)
+[郭文贵2017年12月25日直播 20171225_1我们拥有世界上最棒的战斗装及战斗工具]({{site.baseurl}}/docs/miles/transcript/2017/12/20171225-53482818)
 
-[文字版：2019年1月7日文贵报平安直播谈马云和被双规的陈刚以及烂人郭宝胜的案子](/content/transcript/2019/01/20190111-7038821530851525661)
+[郭文贵2019年7月15日视频 20190715盘古大观在7月14号被北京高院公告……将以实际价格的10％被拍卖……实际的背后的黑手就是江泽民．和江志成．孟建柱和孙力军……王岐山！这就是过去两周他们要栽赃文贵]({{site.baseurl}}/docs/miles/transcript/2019/07/20190715-53482817)
 
-[文字版：2019年1月6号文贵报平安直播：关于战友们关心的法制基金的几个问题的回复！以及文贵对香港，澳门台湾法制沦陷……是被孟建柱．王岐山．孙力军等控制的结果几个观点！](/content/transcript/2019/01/20190108-2730263120772075960)
+[郭文贵2018年2月4日直播 20180204_2连线美东 庆祝爆料一周年]({{site.baseurl}}/docs/miles/transcript/2018/02/20180204-53482814)
 
-[文字版：1月5日接受庄烈宏先生美东之声访问， 中共敢打台湾 ？什么叫战友？2019文贵爆料的具体战略](/content/transcript/2019/01/20190107-8663591932172573911)
+[郭文贵2017年11月16日直播 20171116_1自称“领袖”级人物要把川普介绍给郭文贵]({{site.baseurl}}/docs/miles/transcript/2017/11/20171116-53482813)
 
-[文字版：2019年1月1日文贵接受木兰访谈访问，什么时候放91号文件，刘承杰他爹到底是谁，共产党会怎样灭亡，2019我们做什么](/content/transcript/2019/01/20190102-5930616806834548247)
+[郭文贵2021年7月31日盖特 20210731_2真心觉得自己真的很棒！]({{site.baseurl}}/docs/miles/transcript/2021/07/20210731-53482812)
 
-[文字版：2018年12月29日接受路德先生的访谈，谈马建案与2019年爆料计划和中国私人企业家的命运](/content/transcript/2018/12/20181231-1701485310206179392)
+[郭文贵2021年10月6日盖特 20211006_1尊敬的战友们好……中共的政治，经济，军事，粮食，房地产，金融……全部在崩溃的边缘。所有的现在整个中共的一切形式，就是大跃进的高峰时期一模一样。上蒙下骗．都在等待着敌对方早于]({{site.baseurl}}/docs/miles/transcript/2021/10/20211006-53482810)
 
-[文字版：2018年12月27日郭文贵直播。原马健副部长所谓的被判无期徒刑是中共“以黑治国”“以警治国”最好的证明！郭文贵将不惜一切代价为马健先生及绝大多数被残害的共产党员争取公平！真相！还他们自由！](/content/transcript/2018/12/20181228-5085719562457402069)
+[郭文贵2019年7月3日华盛顿车上直播 20190703Miles Kwok broadcast: Why Weishi, Xiong Xianmin, Zhang Wei, Guo Baosheng and...]({{site.baseurl}}/docs/miles/transcript/2019/07/20190703-53482809)
 
-[文字版：2018年12月22日郭文贵先生郭媒体直播聊聊刘特佐的下场，政商双轨制下的香港沦落，东西方恋爱观，爆料革命的回望和展望](/content/transcript/2018/12/20181224-4525324540610359598)
+[郭文贵2017年11月13日直播 20171113_1]({{site.baseurl}}/docs/miles/transcript/2017/11/20171113-53482807)
 
-[翻译：两名与中国国安有关联的中国黑客被控告违法入侵和盗取全球范围的知识产权和商业机密](/content/transcript/2018/12/20181220-8361136447914723605)
+[郭文贵2021年10月5日直播 20211005_1中共国真实的地方债是15万亿美元；基金就是钱的中介，金融票据就是纸，是奴役中国人的工具，中共埋下金融的雷，全人类都要为此付出代价；中共的邪恶让华人的命运前所未有的危险；虚拟币区]({{site.baseurl}}/docs/miles/transcript/2021/10/20211005-53482805)
 
-[文字版：2018年12月19号和12月20号郭先生报平](/content/transcript/2018/12/20181220-3642429743012520927)
+[郭文贵2020年11月27日盖特 20201127_22020年11月27號尊敬的戰友們好，你們健身了嗎？你們傳播CCP病毒，香港危機真相了嗎？一切都已經開始！]({{site.baseurl}}/docs/miles/transcript/2020/11/20201127-53482804)
 
-[文字版2：018年12月17日 文贵报平安关于昨天被删除视频和路德Sara 女士，2018年12月18日 关于各种案件都有重大好消息](/content/transcript/2018/12/20181218-205233234738962001)
+[郭文贵2017年10月23日直播 20171023_1与澳纽挺郭后援会视频通话]({{site.baseurl}}/docs/miles/transcript/2017/10/20171023-53482802)
 
-[文字版：2018年12月16日 郭文贵先生和战友之声全体战友互动交流](/content/transcript/2018/12/20181218-4408266402406274127)
+[郭文贵2020年11月27日直播 20201127_1大选从滑到稽，川普总统百分之一万当选，战友们要团结、要行动！]({{site.baseurl}}/docs/miles/transcript/2020/11/20201127-53482800)
 
-[文字版：2018年12月14日感谢战友们的关心，聊天谈谈肖建华死期到了吗？及CCP海外抓铺](/content/transcript/2018/12/20181218-3889821236277365249)
+[郭文贵2020年11月26日直播 20201126_1感恩节直播：我们应该怎样过感恩节？我们为什么是干灭中共的唯一力量？为什么说川普总统绝对会赢！认钱为爹的时代将一去不返！]({{site.baseurl}}/docs/miles/transcript/2020/11/20201126-53482798)
 
-[文字版：2018年12月12日报平安视频讲讲第一个5000万与香港张志强的关系](/content/transcript/2018/12/20181218-8948086997100898897)
+[郭文贵2018年1月29日直播 20180129_1郭媒体视频郭文贵先生春节晚会节目预告]({{site.baseurl}}/docs/miles/transcript/2018/01/20180129-53482796)
 
-[文字版： 20181210郭文贵报平安直播： 纠正一下昨天直播时的几个口误](/content/transcript/2018/12/20181211-7088742512990169570)
+[郭文贵2017年9月5日直播 20170905_1新领导孙力军副部长有了大决定]({{site.baseurl}}/docs/miles/transcript/2017/09/20170905-53482795)
 
-[文字版：2018112/09量震床上功夫和 G20中美峰会的真相，孟晚舟女士在加拿大被抓与华 为公司的背后真相，張首晟先生是自殺还是被殺。](/content/transcript/2018/12/20181211-3146997192813491543)
+[郭文贵2019年6月20日视频 20190620王毅讲的潘多拉盒子是什么意思]({{site.baseurl}}/docs/miles/transcript/2019/06/20190620-53482793)
 
-[文字版：2018/12/08 郭媒体上直播联线……试试在海上的线路是否稳定！](/content/transcript/2018/12/20181209-8884360174846064842)
+[郭文贵2018年1月28日直播 20180128_1郭媒体最新测试视频钓贼完整版]({{site.baseurl}}/docs/miles/transcript/2018/01/20180128-53482792)
 
-[文字版：2018年12月2号杨澜找钥匙和 G20 会议的背后真相，开棺验王健的尸，谈谈王岐 山，孟建柱，吴征](/content/transcript/2018/12/20181205-2670968089452974831)
+[郭文贵2017年9月3日直播 20170903_1直播怀疑刘呈杰姐姐刚死。三段视频，被骇四次]({{site.baseurl}}/docs/miles/transcript/2017/09/20170903-53482789)
 
-[文字版：2018年11月29日郭文贵先生直播，渤海金控，郭战装和法制基金](/content/transcript/2018/12/20181201-3387021380873494190)
+[郭文贵2019年6月18日视频 20190618关于6月21日的再次示威行动]({{site.baseurl}}/docs/miles/transcript/2019/06/20190618-53482788)
 
 
-## 頁面 30/42 [**<**]({{site.baseurl}}/miles/transcript/page29) [1]({{site.baseurl}}/miles/transcript/index) ... [25]({{site.baseurl}}/miles/transcript/page25) [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) **30** [31]({{site.baseurl}}/miles/transcript/page31) [32]({{site.baseurl}}/miles/transcript/page32) [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page31)
+## 頁面 30/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page29) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [25]({{site.baseurl}}/docs/miles/transcript/page25) [26]({{site.baseurl}}/docs/miles/transcript/page26) [27]({{site.baseurl}}/docs/miles/transcript/page27) [28]({{site.baseurl}}/docs/miles/transcript/page28) [29]({{site.baseurl}}/docs/miles/transcript/page29) **30** [31]({{site.baseurl}}/docs/miles/transcript/page31) [32]({{site.baseurl}}/docs/miles/transcript/page32) [33]({{site.baseurl}}/docs/miles/transcript/page33) [34]({{site.baseurl}}/docs/miles/transcript/page34) [35]({{site.baseurl}}/docs/miles/transcript/page35) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page31)

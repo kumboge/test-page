@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 32/42 [**<**]({{site.baseurl}}/miles/transcript/page31) [1]({{site.baseurl}}/miles/transcript/index) ... [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) **32** [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page33)
+## 頁面 32/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page31) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [27]({{site.baseurl}}/docs/miles/transcript/page27) [28]({{site.baseurl}}/docs/miles/transcript/page28) [29]({{site.baseurl}}/docs/miles/transcript/page29) [30]({{site.baseurl}}/docs/miles/transcript/page30) [31]({{site.baseurl}}/docs/miles/transcript/page31) **32** [33]({{site.baseurl}}/docs/miles/transcript/page33) [34]({{site.baseurl}}/docs/miles/transcript/page34) [35]({{site.baseurl}}/docs/miles/transcript/page35) [36]({{site.baseurl}}/docs/miles/transcript/page36) [37]({{site.baseurl}}/docs/miles/transcript/page37) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page33)
 
-[文字版：24号王歧山与马云窜访忽悠以色列🇮🇱的现场直播！马云为什么愁眉紧锁！王岐山为自己家族准备的第三条路！](/content/transcript/2018/10/20181025-1627101594427437852)
+[郭文贵2020年11月20日直播 20201120_4王建之死 两周年]({{site.baseurl}}/docs/miles/transcript/2020/11/20201120-53482743)
 
-[文字版：2018年10月20号21 号郭文贵报平安澳门中联办主任郑晓松被杀是因为孟宏伟！接着排队跳楼的会更多 ，大家拭目以待！！](/content/transcript/2018/10/20181021-3410714193458373203)
+[郭文贵2020年12月7日盖特 20201207_2尊敬的戰友們好。再次的感謝所有的戰友。為朱利安尼先生的祈禱，他現在恢复非常好。文貴在此表達衷心的感謝，一切都已經開始！]({{site.baseurl}}/docs/miles/transcript/2020/12/20201207-53482740)
 
-[文字版：郭先生直播 10月17号2018 年路德访谈文贵先生： 法国大革命与共产党的打土豪分田地的根本不同！也必将引起流血革命！西方国家已经开始实施对中国共产党的清除方案！无人可以改变！](/content/transcript/2018/10/20181018-4563210863477806974)
+[郭文贵2019年6月13日第一次直播 20190613_1郭文贵直播喜马拉雅大使馆呼吁关注香港的明天，私家车可以帮助香港人民费用文贵出]({{site.baseurl}}/docs/miles/transcript/2019/06/20190613-53482738)
 
-[文字版：郭文贵先生10月16日直播政法委以黑治国比黑还黑！孟宏伟怎么回国的？怎么被抓的？王建是怎么死的？王岐山赴以色列人民币“偷”技术 赴沙特 人民币换石油](/content/transcript/2018/10/20181017-1150776472458713125)
+[郭文贵2020年12月7日盖特 20201207_1尊敬的戰友們好，明天1 2月8號上午9 ：0 0至1 0 ：0 0間文貴直播做羊肉丸子，蒸大饅頭，一切都已經開始！]({{site.baseurl}}/docs/miles/transcript/2020/12/20201207-53482737)
 
-[文字版：20181012 郭文贵直播1700家中资公司 150家中资银行 等待正义惩罚 向大家公布美国财政部海外资产控制办公室合规制栽措施！！](/content/transcript/2018/10/20181013-4266410200280515458)
+[郭文贵2018年10月12日视频 20181012直播1700家中资公司 150家中资银行 等待正义惩罚 中国高官洗钱．藏钱！人民币．港币．A股．港股将崩溃！ 向大家公布美国财政部海外资产控制办公室合规制栽措施！！]({{site.baseurl}}/docs/miles/transcript/2018/10/20181012-53482735)
 
-[文字版：2018年10月10日，文贵先生过媒体直播——江，朱，王家族正在砸船式洗钱，公布11月记者招待会地点](/content/transcript/2018/10/20181012-1934130956992732839)
+[郭文贵2019年6月26日视频 20190626谈香港游行的中共黑手，东南西北四方围剿中共正在收网]({{site.baseurl}}/docs/miles/transcript/2019/06/20190626-53482733)
 
-[文字版：文贵先生istagram直播：关于台湾被中共攻打，美国是否出兵？1万亿美元阻击做空港币！10/9/2018](/content/transcript/2018/10/20181012-2308330179087964490)
+[郭文贵2020年11月20日盖特 20201120_3亲爱的战友…收到啦，收到啦。]({{site.baseurl}}/docs/miles/transcript/2020/11/20201120-53482731)
 
-[2018 年 10 月 10 日,文贵先生过媒体直播文字版 ——江,朱,王家族正在砸船式洗钱,公布 11 月记者招待会地点](/content/transcript/2018/10/20181010-3706069488897098623)
+[郭文贵2020年11月20日盖特 20201120_2尊敬的战友们好．几天来，我一直都在思考……这个难以忘记重大的爆料革命的历史的日子里……1120我到底应不应该直播，由于各种原因，我要兑现我的承诺啊，今天还不能谈这个事情，]({{site.baseurl}}/docs/miles/transcript/2020/11/20201120-53482730)
 
-[文字版：20181004 郭先生报平安直播 希望成功快点到来](/content/transcript/2018/10/20181005-2805451400972075742)
+[郭文贵2020年11月20日盖特 20201120_11120我到底应不应该直播，由于各种原因，我要兑现我的承诺啊，今天还不能谈这个事情，王建的被杀害的事情远远没有结束]({{site.baseurl}}/docs/miles/transcript/2020/11/20201120-53482729)
 
-[美国副总统迈克·彭斯 2018 年 10 月 4 日在哈德逊研 究所就美国政府对华政策发表的讲话](/content/transcript/2018/10/20181004-6010597625419921233)
+[郭文贵2020年12月6日盖特 20201206_2尊敬的戰友們好。文貴要做給針線活給戰友門看看...來迎接我們的中國人的苦日子到來...準備，躲避柯林斯能發生的戰爭...最好的最有價值的準確的信息...量力而行。]({{site.baseurl}}/docs/miles/transcript/2020/12/20201206-53482728)
 
-[文字版：郭文贵十月四日报平安短视频 未来一，二周每天都会有新闻](/content/transcript/2018/10/20181004-4197432532070823443)
+[郭文贵2018年10月4日第二次直播 20181004_2未来一两周每天都会有新闻]({{site.baseurl}}/docs/miles/transcript/2018/10/20181004-53482723)
 
-[文字版：9月28日文贵在会议结束后返回途中的飞机上和战友们汇报一下会议的初步概况一切都是刚刚开始！](/content/transcript/2018/09/20180929-7242138828289666043)
+[郭文贵2020年11月19日直播 20201119_1]({{site.baseurl}}/docs/miles/transcript/2020/11/20201119-53482720)
 
-[文字版：郭文贵9月22日香港台湾上海股市汇市可能发生天翻地覆的变化！](/content/transcript/2018/09/20180922-1607406229433269336)
+[郭文贵2020年12月6日直播 20201206_1为圣人之子-朱利安尼先生祈祷????????他一定平安归来，继续灭共！]({{site.baseurl}}/docs/miles/transcript/2020/12/20201206-53482719)
 
-[翻译：李小牧作为新宿案内人（引路人）的李小牧   对毫无根据的谣言和诽谤中伤的全部回应](/content/transcript/2018/09/20180922-4453715019951435654)
+[郭文贵2019年6月25日视频 20190625从香港的成功抗议行动！和近几天共产党的统一宣传口径！让我们看到了过去两年爆料革命所面临的挑战和！但是我们赢了过去的两年……以法灭共．以美灭共……郭七条．是我们最核心的战略！]({{site.baseurl}}/docs/miles/transcript/2019/06/20190625-53482714)
 
-[文字版：9.16第一段第二段我向美国朋友解柝郭七来！为什么不反习！及我有绝对信心中国政权一定会更迭！为什么没有共产党统治的海外华人世界为什么让西方如此看不起与不信任！](/content/transcript/2018/09/20180922-4402169540593751293)
+[郭文贵2020年11月23日盖特 20201123_1剛剛睡了6個小時 既能吃也能睡]({{site.baseurl}}/docs/miles/transcript/2020/11/20201123-53482710)
 
-[文字版：郭文贵9月20日:马云开始被“狩猎”时间王岐山穿睡衣大谈中美贸易战,FBI约谈博讯西诺](/content/transcript/2018/09/20180921-2736922515347046582)
+[郭文贵2020年11月17日盖特 2020111772小時會不會发生啊？]({{site.baseurl}}/docs/miles/transcript/2020/11/20201117-53482708)
 
-[文字版：9172018 文贵先生直播王健事件重大进展法国已经正式立案重新调查！](/content/transcript/2018/09/20180917-8550776674007589502)
+[郭文贵2020年11月22日直播 20201122_3夜晚部分]({{site.baseurl}}/docs/miles/transcript/2020/11/20201122-53482707)
 
-[文字版：路德访谈中南海保镖亨利小哥（下）：再次深入曝光中南海常委们的性故事，捞钱的故事，升官的规则](/content/transcript/2018/09/20180916-1687313530283465166)
+[郭文贵2020年12月5日盖特 20201205_1尊敬的戰友們好，請所有的戰友們...務必要高度重視防範ÇÇP病毒...千萬不要再有任何僥幸心理，在未來的一定時間內各種災難將一個一個的到來，我們務必參照團結謹慎，]({{site.baseurl}}/docs/miles/transcript/2020/12/20201205-53482705)
 
-[文字版：9月10号马云辞职的真正原因](/content/transcript/2018/09/20180913-8040960110830809305)
+[郭文贵2019年6月23日视频 20190623聊聊细丝小哥和庄列宏先生这＂两只黑手＂路德先生直播中发生的紧急事件。念从心起 力量无比 念念不忘 必有回响]({{site.baseurl}}/docs/miles/transcript/2019/06/20190623-53482704)
 
-[文字版：2018年9月11日文贵在船上与大家听音乐并承诺给中国老兵捐两亿美元](/content/transcript/2018/09/20180913-5367861768541759446)
+[郭文贵2020年11月18日盖特 20201118尊敬的戰友，你們健身了嗎？你們傳播CCP病毒……香港危機真相了嗎？一切都已經開始！]({{site.baseurl}}/docs/miles/transcript/2020/11/20201118-53482703)
 
-[文字版：9月10号马云辞职的真正的目的与动机瞒天过海](/content/transcript/2018/09/20180912-2723188184703053742)
+[郭文贵2020年12月4日直播 20201204_1沉重直播后回答战友们的一些问题。]({{site.baseurl}}/docs/miles/transcript/2020/12/20201204-53482702)
 
-[文字版：2018年9月7日文贵申请政庇一周年与战友们分享香港司法的危害与黑暗的事实！](/content/transcript/2018/09/20180908-4427977020918468528)
+[郭文贵2020年11月15日直播 20201115_4连线唐平，威廉王]({{site.baseurl}}/docs/miles/transcript/2020/11/20201115-53482700)
 
-[文字版：9.5 黄河边性无能造成严重后果林肯中心被取消发布会（一，二）](/content/transcript/2018/09/20180906-3174109642123274435)
+[郭文贵2019年5月25日视频 20190525世界秩序新开始就在日本G20会议 G20 summit will mark the beginning of a new US-China game!]({{site.baseurl}}/docs/miles/transcript/2019/05/20190525-53482697)
 
-[文字版：9月3日为了员工家人文贵可以部分妥协但不能放弃爆料革命追求喜马拉雅](/content/transcript/2018/09/20180904-9130143766772913828)
+[郭文贵2020年11月22日盖特 20201122_2尊敬的战友们好，你们健身了吗？你们传统播C C B病毒——香港危机真相了吗？一切都已经开始！]({{site.baseurl}}/docs/miles/transcript/2020/11/20201122-53482694)
 
-[文字版：2018年9月2 日文贵是否 应以停止王健被杀新闻发布会 来换取 员工和哥哥的自由！](/content/transcript/2018/09/20180904-16996182542595224)
+[郭文贵2020年12月3日直播 20201203_1中国人的灾难真正的开始了]({{site.baseurl}}/docs/miles/transcript/2020/12/20201203-53482693)
 
 
-## 頁面 32/42 [**<**]({{site.baseurl}}/miles/transcript/page31) [1]({{site.baseurl}}/miles/transcript/index) ... [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) **32** [33]({{site.baseurl}}/miles/transcript/page33) [34]({{site.baseurl}}/miles/transcript/page34) [35]({{site.baseurl}}/miles/transcript/page35) [36]({{site.baseurl}}/miles/transcript/page36) [37]({{site.baseurl}}/miles/transcript/page37) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page33)
+## 頁面 32/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page31) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [27]({{site.baseurl}}/docs/miles/transcript/page27) [28]({{site.baseurl}}/docs/miles/transcript/page28) [29]({{site.baseurl}}/docs/miles/transcript/page29) [30]({{site.baseurl}}/docs/miles/transcript/page30) [31]({{site.baseurl}}/docs/miles/transcript/page31) **32** [33]({{site.baseurl}}/docs/miles/transcript/page33) [34]({{site.baseurl}}/docs/miles/transcript/page34) [35]({{site.baseurl}}/docs/miles/transcript/page35) [36]({{site.baseurl}}/docs/miles/transcript/page36) [37]({{site.baseurl}}/docs/miles/transcript/page37) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page33)

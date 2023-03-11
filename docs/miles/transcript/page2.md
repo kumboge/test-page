@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 2/42 [**<**]({{site.baseurl}}/miles/transcript/index) [1]({{site.baseurl}}/miles/transcript/index) **2** [3]({{site.baseurl}}/miles/transcript/page3) [4]({{site.baseurl}}/miles/transcript/page4) [5]({{site.baseurl}}/miles/transcript/page5) [6]({{site.baseurl}}/miles/transcript/page6) [7]({{site.baseurl}}/miles/transcript/page7) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page3)
+## 頁面 2/109 [**<**]({{site.baseurl}}/docs/miles/transcript/index) [1]({{site.baseurl}}/docs/miles/transcript/index) **2** [3]({{site.baseurl}}/docs/miles/transcript/page3) [4]({{site.baseurl}}/docs/miles/transcript/page4) [5]({{site.baseurl}}/docs/miles/transcript/page5) [6]({{site.baseurl}}/docs/miles/transcript/page6) [7]({{site.baseurl}}/docs/miles/transcript/page7) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page3)
 
-[2022年3月15日 《文贵大直播》全文字版](/content/transcript/2022/03/20220315-2176468)
+[2019年9月1日文贵与班农先生直播习近平与王岐山的攻台计划！全文字版]({{site.baseurl}}/docs/miles/transcript/2019/09/20190901-53839486)
 
-[郭文贵先生2022年3月14日盖特视频（9分28秒）全文字版](/content/transcript/2022/03/20220314-2166160)
+[2019年9月7日郭先生直播，关注香港被抓 被杀的年轻人全文字版]({{site.baseurl}}/docs/miles/transcript/2019/09/20190907-53838874)
 
-[2022年3月11日 《文贵大直播》全文字版](/content/transcript/2022/03/20220311-2152872)
+[2019年9月4日文贵大直播全文字版：平安直播“林四条”会让香港人民更加团结!香港自贸区即将取消!中共“大湾区”胎死腹中!]({{site.baseurl}}/docs/miles/transcript/2019/09/20190904-53838528)
 
-[郭文贵先生2022年3月8日盖特视频（9分25秒）全文字版](/content/transcript/2022/03/20220308-2129631)
+[2023年02月19日文貴大直播全文字版： 从欧美联合灭共看习近平的下场]({{site.baseurl}}/docs/miles/transcript/2023/02/20230219-53837333)
 
-[郭文贵先生2022年3月7日盖特视频（8分52秒）全文字版](/content/transcript/2022/03/20220307-2123366)
+[2023年02月19日文貴大直播全文字版： 从欧美联合灭共看习近平的下场]({{site.baseurl}}/docs/miles/transcript/2023/02/20230219-53836452)
 
-[2022年3月6日《文贵大直播》全文字版](/content/transcript/2022/03/20220306-2118742)
+[2019年9月8日 美国国会山开山灭共助港，李小加港交所期货交易内幕，中共如何用通货膨胀奴役中国人民全文字版]({{site.baseurl}}/docs/miles/transcript/2019/09/20190908-53835472)
 
-[郭文贵先生2022年3月4日盖特视频（9分31秒）全文字版](/content/transcript/2022/03/20220304-2108081)
+[2019年9月9日直播为什么香港的富豪被威胁他们隐藏海外资产共产党可以没收全文字版]({{site.baseurl}}/docs/miles/transcript/2019/09/20190909-53835153)
 
-[郭文贵先生2022年3月3日盖特视频（9分35秒）全文字版](/content/transcript/2022/03/20220303-2102682)
+[2023年02月15日文贵大直播--AI和ChatGPT对美国和台湾的威胁可能比核武器还严重 全文字版]({{site.baseurl}}/docs/miles/transcript/2023/02/20230215-53830162)
 
-[郭文贵先生2022年2月28日盖特视频（8分06秒）全文字版](/content/transcript/2022/02/20220228-2084242)
+[2019年9月3日文贵大直播全文字版：第一次在华盛顿直播，谈9月3号CCP将真正对香港进行戒严计划，目前所有焦点都关注香港！]({{site.baseurl}}/docs/miles/transcript/2019/09/20190903-53819161)
 
-[樱花FM&#124;郭文贵先生2022年2月27日盖特视频（3分26秒）全文字版](/content/transcript/2022/02/20220227-2103547)
+[2019年9月3日文贵大直播全文字版：华盛顿直播：香港将是东西方大战导火线．什么是中共所谓的新型大国关系！]({{site.baseurl}}/docs/miles/transcript/2019/09/20190903-53819121)
 
-[2022年2月27日《文贵大直播》全文字版](/content/transcript/2022/02/20220227-2082500)
+[2019年9月5日文贵大直播全文字版：报平安 全球从自动灭共到联合灭共的时代]({{site.baseurl}}/docs/miles/transcript/2019/09/20190905-53819085)
 
-[郭文贵先生2022年2月27日盖特视频（3分26秒）全文字版](/content/transcript/2022/02/20220227-2078090)
+[2019年9月5日文贵大直播全文字版：回顾自林郑月娥置顶遣返法案，郭先生直播预警，香港69开始游行抗议，CCP派匪警镇压，中国外交部的谎言，美国方面的反应]({{site.baseurl}}/docs/miles/transcript/2019/09/20190905-53819054)
 
-[2022年2月26日《文贵大直播&#8211;乌克兰救援紧急直播》全文字版](/content/transcript/2022/02/20220226-2085736)
+[2023年02月12日文贵大直播全文字版：中共要出大事了......从习死皇对美国和西方的气球大战看新中国联邦在世界的未来！]({{site.baseurl}}/docs/miles/transcript/2023/02/20230212-53815931)
 
-[2022年2月26日《文贵大直播-GEDU专场》全文字版](/content/transcript/2022/02/20220226-2076501)
+[2019年7月29日文贵大直播全文字版：共产党已经进入倒计时]({{site.baseurl}}/docs/miles/transcript/2019/07/20190729-53805587)
 
-[2022年2月25日 《文贵大直播》全文字版](/content/transcript/2022/02/20220225-2071210)
+[2019年7月29日文贵大直播全文字版：共产党已经进入倒计时]({{site.baseurl}}/docs/miles/transcript/2019/07/20190729-53805567)
 
-[郭文贵先生2022年2月24日盖特视频（10分00秒）全文字版](/content/transcript/2022/02/20220224-2061757)
+[2023年2月6日郭先生盖特精粹]({{site.baseurl}}/docs/miles/transcript/2023/02/20230206-53804604)
 
-[2022年02月24日 郭文贵先生紧急直播 全文字版](/content/transcript/2022/02/20220224-2062121)
+[2023年2月7日郭先生盖特精粹]({{site.baseurl}}/docs/miles/transcript/2023/02/20230207-53804576)
 
-[2022年2月23日 《文贵大直播》全文字版](/content/transcript/2022/02/20220223-2060335)
+[2023年1月20日 音雄之夜第三季《我是音雄》总决赛 全文字版]({{site.baseurl}}/docs/miles/transcript/2023/01/20230120-53804474)
 
-[郭文贵先生2022年2月21日盖特视频（8分03秒）全文字版](/content/transcript/2022/02/20220221-2045260)
+[2023年01月18日 文贵大直播全文字版： 习近平身体的迅速变坏是否会加速攻打台湾？]({{site.baseurl}}/docs/miles/transcript/2023/01/20230118-53804401)
 
-[2022年2月20日 《文贵大直播》全文字版](/content/transcript/2022/02/20220220-2045186)
+[2023年01月15日《文贵大直播》为什么美欧开始干涉中国内政？全文字版]({{site.baseurl}}/docs/miles/transcript/2023/01/20230115-53804347)
 
-[2022年2月20日 《文贵大直播》全文字版](/content/transcript/2022/02/20220220-2040347)
+[2023年2月6日郭先生盖特精粹]({{site.baseurl}}/docs/miles/transcript/2023/02/20230206-53801874)
 
-[郭文贵先生2022年2月19日盖特视频（9分34秒）全文字版](/content/transcript/2022/02/20220219-2034123)
+[2023年2月5日郭先生盖特精粹]({{site.baseurl}}/docs/miles/transcript/2023/02/20230205-53799224)
 
-[2022年2月18日 《文贵大直播》全文字版](/content/transcript/2022/02/20220218-2033310)
+[2019年08月28日文贵大直播全文字版：解放军军车 装甲车已经开进香港香港已经进入紧急状态]({{site.baseurl}}/docs/miles/transcript/2019/08/20190828-53797352)
 
-[2022年2月16日 《文贵大直播》全文字版](/content/transcript/2022/02/20220216-2021624)
+[2019年8月28日文贵大直播全文字版：解读香港《戒严法》就是可以随时征用你 随时把你的家人抓起来 随时没收你的所有财产]({{site.baseurl}}/docs/miles/transcript/2019/08/20190828-53797308)
 
-[樱花FM&#124;郭文贵先生2022年2月14日盖特视频（9分27秒）全文字版](/content/transcript/2022/02/20220214-2036738)
+[2023年02月04日 文贵大直播全文字版]({{site.baseurl}}/docs/miles/transcript/2023/02/20230204-53797244)
 
 
-## 頁面 2/42 [**<**]({{site.baseurl}}/miles/transcript/index) [1]({{site.baseurl}}/miles/transcript/index) **2** [3]({{site.baseurl}}/miles/transcript/page3) [4]({{site.baseurl}}/miles/transcript/page4) [5]({{site.baseurl}}/miles/transcript/page5) [6]({{site.baseurl}}/miles/transcript/page6) [7]({{site.baseurl}}/miles/transcript/page7) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page3)
+## 頁面 2/109 [**<**]({{site.baseurl}}/docs/miles/transcript/index) [1]({{site.baseurl}}/docs/miles/transcript/index) **2** [3]({{site.baseurl}}/docs/miles/transcript/page3) [4]({{site.baseurl}}/docs/miles/transcript/page4) [5]({{site.baseurl}}/docs/miles/transcript/page5) [6]({{site.baseurl}}/docs/miles/transcript/page6) [7]({{site.baseurl}}/docs/miles/transcript/page7) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page3)

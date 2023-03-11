@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 4/42 [**<**]({{site.baseurl}}/miles/transcript/page3) [1]({{site.baseurl}}/miles/transcript/index) [2]({{site.baseurl}}/miles/transcript/page2) [3]({{site.baseurl}}/miles/transcript/page3) **4** [5]({{site.baseurl}}/miles/transcript/page5) [6]({{site.baseurl}}/miles/transcript/page6) [7]({{site.baseurl}}/miles/transcript/page7) [8]({{site.baseurl}}/miles/transcript/page8) [9]({{site.baseurl}}/miles/transcript/page9) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page5)
+## 頁面 4/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page3) [1]({{site.baseurl}}/docs/miles/transcript/index) [2]({{site.baseurl}}/docs/miles/transcript/page2) [3]({{site.baseurl}}/docs/miles/transcript/page3) **4** [5]({{site.baseurl}}/docs/miles/transcript/page5) [6]({{site.baseurl}}/docs/miles/transcript/page6) [7]({{site.baseurl}}/docs/miles/transcript/page7) [8]({{site.baseurl}}/docs/miles/transcript/page8) [9]({{site.baseurl}}/docs/miles/transcript/page9) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page5)
 
-[2022年1月7日郭文贵先生直播全文字版](/content/transcript/2022/01/20220107-1837036)
+[2019年8月9日《郭文贵大直播》全文字版：船上报平安直播]({{site.baseurl}}/docs/miles/transcript/2019/08/20190809-53739787)
 
-[2022年1月5日郭文贵先生直播全文字版](/content/transcript/2022/01/20220105-1830280)
+[2023年1月13日郭先生盖特精粹]({{site.baseurl}}/docs/miles/transcript/2023/01/20230113-53739035)
 
-[郭文贵先生2022年1月3日盖特直播视频（17分14秒）全文字版](/content/transcript/2022/01/20220103-1821154)
+[2023年1月12日郭先生盖特精粹]({{site.baseurl}}/docs/miles/transcript/2023/01/20230112-53739027)
 
-[2022年1月1日 文贵大直播 元旦特别节目“正道至善，除恶建邦”全文字版（四）](/content/transcript/2022/01/20220101-1816880)
+[2019年7月31日《文贵大直播》全文字版：乱聊上海西郊宾馆，开启CCP死亡第二战场]({{site.baseurl}}/docs/miles/transcript/2019/07/20190731-53733598)
 
-[2022年1月1日文贵大直播元旦特别节目“正道至善，除恶建邦”全文字版（三）](/content/transcript/2022/01/20220101-1817244)
+[2019年8月7日《文贵大直播》全文字版：王岐山和德国前副总理菲利普什么关系]({{site.baseurl}}/docs/miles/transcript/2019/08/20190807-53733539)
 
-[2022年1月1日文贵大直播元旦特别节目“正道至善，除恶建邦”全文字版（一）](/content/transcript/2022/01/20220101-1816030)
+[2019年8月7日《文贵大直播》全文字版：王岐山和德国前副总理菲利普什么关系]({{site.baseurl}}/docs/miles/transcript/2019/08/20190807-53733537)
 
-[2021年12月29日郭文贵先生直播全文字版](/content/transcript/2021/12/20211229-1805851)
+[2023年1月11日文贵大直播全文字版：美国国会会对中国共产党以及美国共产党采取怎么样的实质行动]({{site.baseurl}}/docs/miles/transcript/2023/01/20230111-53733167)
 
-[郭文贵先生2021年12月28日盖特视频（9分00秒）全文字版](/content/transcript/2021/12/20211228-1800169)
+[2023年01月10 日 相约3C 欢迎唐平老师回家 全文字版]({{site.baseurl}}/docs/miles/transcript/2023/01/20230110-53731805)
 
-[郭文贵先生2021年12月27日盖特视频（9分37秒）全文字版](/content/transcript/2021/12/20211227-1797114)
+[2019年8月10日《文贵大直播》全文字版：今天是个好日子，开启灭共第三战场]({{site.baseurl}}/docs/miles/transcript/2019/08/20190810-53729835)
 
-[2021年12月25日文贵大直播圣诞特别节目“爆二代——希望与力量”全文字版（二）](/content/transcript/2021/12/20211225-1794348)
+[2019年8月5日文贵大直播全文字版：香港大劫在即······]({{site.baseurl}}/docs/miles/transcript/2019/08/20190805-53729738)
 
-[2021年12月25日文贵大直播圣诞特别节目“爆二代——希望与力量”全文字版（三）](/content/transcript/2021/12/20211225-1794181)
+[2023年1月10日郭先生盖特精粹]({{site.baseurl}}/docs/miles/transcript/2023/01/20230110-53728323)
 
-[2021年12月25日文贵大直播圣诞特别节目“爆二代——希望与力量”全文字版（一）](/content/transcript/2021/12/20211225-1793669)
+[2023年1月9日郭先生盖特精粹]({{site.baseurl}}/docs/miles/transcript/2023/01/20230109-53722881)
 
-[2021年12月24日 郭文贵先生直播 全文字版](/content/transcript/2021/12/20211224-1790583)
+[2023年01月08日《文贵大直播》世界经济危机会给爆料革命带来什么？全文字版]({{site.baseurl}}/docs/miles/transcript/2023/01/20230108-53719434)
 
-[郭文贵先生2021年12月23日盖特视频（9分13秒）全文字版](/content/transcript/2021/12/20211223-1785835)
+[2023年01月08日《文贵大直播》世界经济危机会给爆料革命带来什么？全文字版]({{site.baseurl}}/docs/miles/transcript/2023/01/20230108-53719431)
 
-[2021年12月22日郭文贵先生直播全文字版](/content/transcript/2021/12/20211222-1784652)
+[2023年01月08日《文贵大直播》世界经济危机会给爆料革命带来什么？全文字版]({{site.baseurl}}/docs/miles/transcript/2023/01/20230108-53719428)
 
-[郭文贵先生2021年12月20日盖特视频（9分49秒）全文字版](/content/transcript/2021/12/20211220-1776122)
+[2023年1月7日郭先生盖特精粹]({{site.baseurl}}/docs/miles/transcript/2023/01/20230107-53716922)
 
-[2021年12月19日郭文贵先生直播全文字版（下）](/content/transcript/2021/12/20211219-1775367)
+[2019年7月27日文贵大直播全文字版：郭文贵先生与战友分享船（床）上时分]({{site.baseurl}}/docs/miles/transcript/2019/07/20190727-53715693)
 
-[郭文贵先生2021年12月18日盖特视频（9分57秒）全文字版](/content/transcript/2021/12/20211218-1770535)
+[2019年7月27日文贵大直播全文字版：郭文贵先生与战友分享船（床）上时分]({{site.baseurl}}/docs/miles/transcript/2019/07/20190727-53715653)
 
-[2021年12月17日郭文贵先生直播全文字版](/content/transcript/2021/12/20211217-1768692)
+[2019年7月27日文贵大直播全文字版：郭文贵先生与战友分享船（床）上时分]({{site.baseurl}}/docs/miles/transcript/2019/07/20190727-53715528)
 
-[2021年12月15日郭文贵先生直播全文字版](/content/transcript/2021/12/20211215-1762636)
+[2019年7月27日文贵大直播全文字版：郭文贵先生与战友分享船（床）上时分]({{site.baseurl}}/docs/miles/transcript/2019/07/20190727-53715452)
 
-[2021年12月12日郭文贵先生直播全文字版](/content/transcript/2021/12/20211212-1749956)
+[2019年7月27日文贵大直播全文字版：郭文贵先生与战友分享船（床）上时分]({{site.baseurl}}/docs/miles/transcript/2019/07/20190727-53715422)
 
-[2021年12月10日郭文贵先生直播全文字版（一）](/content/transcript/2021/12/20211210-1742704)
+[2019年7月27日文贵大直播全文字版：郭文贵先生与战友分享船（床）上时分]({{site.baseurl}}/docs/miles/transcript/2019/07/20190727-53715404)
 
-[2021年12月10日郭文贵先生直播全文字版（二）](/content/transcript/2021/12/20211210-1745624)
+[2019年7月27日文贵大直播全文字版：郭文贵先生与战友分享船（床）上时分]({{site.baseurl}}/docs/miles/transcript/2019/07/20190727-53715389)
 
-[郭文贵先生2021年12月09日盖特直播视频（11分13秒）全文字版](/content/transcript/2021/12/20211209-1737915)
+[2019年7月27日文贵大直播全文字版：郭文贵先生与战友分享船（床）上时分]({{site.baseurl}}/docs/miles/transcript/2019/07/20190727-53715367)
 
-[2021年12月8日郭文贵先生直播全文字版](/content/transcript/2021/12/20211208-1736773)
+[2019年7月27日文贵大直播全文字版：郭文贵先生与战友分享船（床）上时分]({{site.baseurl}}/docs/miles/transcript/2019/07/20190727-53715350)
 
 
-## 頁面 4/42 [**<**]({{site.baseurl}}/miles/transcript/page3) [1]({{site.baseurl}}/miles/transcript/index) [2]({{site.baseurl}}/miles/transcript/page2) [3]({{site.baseurl}}/miles/transcript/page3) **4** [5]({{site.baseurl}}/miles/transcript/page5) [6]({{site.baseurl}}/miles/transcript/page6) [7]({{site.baseurl}}/miles/transcript/page7) [8]({{site.baseurl}}/miles/transcript/page8) [9]({{site.baseurl}}/miles/transcript/page9) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page5)
+## 頁面 4/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page3) [1]({{site.baseurl}}/docs/miles/transcript/index) [2]({{site.baseurl}}/docs/miles/transcript/page2) [3]({{site.baseurl}}/docs/miles/transcript/page3) **4** [5]({{site.baseurl}}/docs/miles/transcript/page5) [6]({{site.baseurl}}/docs/miles/transcript/page6) [7]({{site.baseurl}}/docs/miles/transcript/page7) [8]({{site.baseurl}}/docs/miles/transcript/page8) [9]({{site.baseurl}}/docs/miles/transcript/page9) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page5)

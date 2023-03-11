@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 25/42 [**<**]({{site.baseurl}}/miles/transcript/page24) [1]({{site.baseurl}}/miles/transcript/index) ... [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) **25** [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page26)
+## 頁面 25/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page24) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [20]({{site.baseurl}}/docs/miles/transcript/page20) [21]({{site.baseurl}}/docs/miles/transcript/page21) [22]({{site.baseurl}}/docs/miles/transcript/page22) [23]({{site.baseurl}}/docs/miles/transcript/page23) [24]({{site.baseurl}}/docs/miles/transcript/page24) **25** [26]({{site.baseurl}}/docs/miles/transcript/page26) [27]({{site.baseurl}}/docs/miles/transcript/page27) [28]({{site.baseurl}}/docs/miles/transcript/page28) [29]({{site.baseurl}}/docs/miles/transcript/page29) [30]({{site.baseurl}}/docs/miles/transcript/page30) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page26)
 
-[文字版：2019年8月11日文貴船上直播高度關注香港](/content/transcript/2019/08/20190813-1303455060330520952)
+[郭文贵2019年9月17日视频 20190917马云儒学也得肛门癌，还有大佬会出事，体制内战友要安全的支持爆料革命，香港人要时刻提防CCP灭绝人性的行动]({{site.baseurl}}/docs/miles/transcript/2019/09/20190917-53483127)
 
-[文字版：2019年8月10日 今天是个好日子，开启灭共第三战场](/content/transcript/2019/08/20190811-3305401800182542531)
+[郭文贵2021年10月16日盖特 20211016_2尊敬的战友们好，你们健身了吗？过去的两天又发生了很多很多的大事情，有关话题，我在这里简单说一下，明天大直播中再详细向战友们报告！]({{site.baseurl}}/docs/miles/transcript/2021/10/20211016-53483125)
 
-[文字版：8月9日 郭文贵先生船上报平安直播](/content/transcript/2019/08/20190811-3314587443288819358)
+[郭文贵2021年10月15日盖特 20211015_2尊敬的战友们好……非常的抱歉，很多战友给我发的信息没办法一一回复，我只能在这里，简单给大家统一回复一下，谢谢。]({{site.baseurl}}/docs/miles/transcript/2021/10/20211015-53483124)
 
-[文字版：8月8日 中共对世界布下的天罗地网 并不能阻止中共灭亡的步伐](/content/transcript/2019/08/20190809-1309289777403280615)
+[郭文贵2021年11月18日盖特 20211118_1尊敬的战友们好，……你们健身了吗？传播C C P病毒……疫苗解药的真相了吗？新中国联邦正以．前所未有的速度．和巨大的力量，在推动停止人类正在面对的疫苗灾难！]({{site.baseurl}}/docs/miles/transcript/2021/11/20211118-53483123)
 
-[文字版：郭文贵先生2019年8月7日直播 王岐山和德国前副总理菲利普什么关系](/content/transcript/2019/08/20190808-3378844936967794316)
+[郭文贵2021年11月17日盖特 20211117_35个月的多多与2岁的笨笨……]({{site.baseurl}}/docs/miles/transcript/2021/11/20211117-53483121)
 
-[文字稿：2019年 8 月 6日 谈美国将中共定位汇率操纵国的意义](/content/transcript/2019/08/20190807-3983824498310525116)
+[郭文贵2019年9月15日 20190915王岐山乱港七策坐镇指挥黑警察施暴港人，香港已成为恐惧之港，全球正义力量迅速集结，现在已是黑白对决（美国的白对CCP的黑）！我们目前以传播香港危机真相为核心！中共被灭]({{site.baseurl}}/docs/miles/transcript/2019/09/20190915-53483120)
 
-[文字版：2019年8月5日 香港大劫在即······希望香港的四个不要脸群体，能站在正义的一边帮助上街的孩子们](/content/transcript/2019/08/20190807-8437960932132112238)
+[郭文贵2021年10月15日盖特 20211015_1尊敬的战友们好，你们健身了吗？传播疫苗解药，C C P病毒的真相了吗？一切都已经开始！]({{site.baseurl}}/docs/miles/transcript/2021/10/20211015-53483119)
 
-[文字版：2019年8月3日关注香港即将发生的大事](/content/transcript/2019/08/20190805-62375152236056349)
+[郭文贵2021年11月17日盖特 20211117_2刚刚理完发的SNOW 欢迎七哥回家……]({{site.baseurl}}/docs/miles/transcript/2021/11/20211117-53483118)
 
-[文字版：郭先生2019年8月1日緊急直播](/content/transcript/2019/08/20190805-195928358226764282)
+[郭文贵2021年11月16日盖特直播 20211116_2无论是对神和人都要兑现你的承诺]({{site.baseurl}}/docs/miles/transcript/2021/11/20211116-53483114)
 
-[文字版：2019年7月31日爆猛料遭黑客疯狂攻击](/content/transcript/2019/08/20190804-3048854052865103791)
+[郭文贵2021年10月27日盖特 20211027_2感谢玉米地大姐送的漂亮的鲜花]({{site.baseurl}}/docs/miles/transcript/2021/10/20211027-53483113)
 
-[文字版：2019年7月31日 乱聊上海西郊宾馆 开启CCP死亡第二战场](/content/transcript/2019/08/20190802-6690690952476016345)
+[郭文贵2021年10月14日盖特 20211014_1大好消息来了……]({{site.baseurl}}/docs/miles/transcript/2021/10/20211014-53483111)
 
-[文字版：7月29日 共产党已经进入倒计时](/content/transcript/2019/07/20190730-277183401038624152)
+[郭文贵2021年11月16日盖特 20211116_1尊敬的战友们好，你们健身了吗？你们传播C C P病毒．香港危机．疫苗解药的真相了吗？]({{site.baseurl}}/docs/miles/transcript/2021/11/20211116-53483110)
 
-[文字版：7月26日 江志成這個小鱉孫 和孫立軍最近在乾啥？](/content/transcript/2019/07/20190730-643602008810576333)
+[郭文贵2021年10月26日盖特 20211026_5太好吃了????]({{site.baseurl}}/docs/miles/transcript/2021/10/20211026-53483109)
 
-[文字版：2019年7月25日 请战友们记住7月21号7月23号7月24号7月25号 一切都是刚刚开始](/content/transcript/2019/07/20190728-6395183003803536442)
+[郭文贵2021年10月12日盖特 20211012_3尊敬的战友们好．世界政治经济面临的巨大挑战给新中国联邦带来了前所未有的机会，我们要冷静，客观全面进行揭发．帮助世界拆除共产党在全世界埋下的各种定时炸弹……]({{site.baseurl}}/docs/miles/transcript/2021/10/20211012-53483107)
 
-[文字版：2019年7月24號衷心的祝願和祝福所有的在國內在水災中的同胞們能儘快的恢復到正常的生活······](/content/transcript/2019/07/20190726-326879781741066444)
+[郭文贵2021年11月15日盖特 20211115_4应战友们的要求……发一个SNOW 的小视频????]({{site.baseurl}}/docs/miles/transcript/2021/11/20211115-53483106)
 
-[文字版：2019年7月23日李鵬為什麼一見人就問 89年當時你在哪？為了啥？](/content/transcript/2019/07/20190726-7427179275360633583)
+[郭文贵2021年11月5日盖特直播 20211105_3浪漫不需要安排，真诚恒久远。]({{site.baseurl}}/docs/miles/transcript/2021/11/20211105-53483105)
 
-[文字版：2019年7月22日 談談華爾街日報的報導](/content/transcript/2019/07/20190724-4998396878425414363)
+[郭文贵2021年10月26日盖特 20211026_4椒麻鸡来啦……]({{site.baseurl}}/docs/miles/transcript/2021/10/20211026-53483104)
 
-[文字版：2019年7月23日健身后直播](/content/transcript/2019/07/20190723-3137442274090003733)
+[郭文贵2021年10月12日盖特 20211012_2吃饭饭喽……]({{site.baseurl}}/docs/miles/transcript/2021/10/20211012-53483102)
 
-[文字版：2019年7月21日 爆料革命进入全球灭共的新时代](/content/transcript/2019/07/20190722-5623982298172574655)
+[郭文贵2019年9月16日视频 20190916]({{site.baseurl}}/docs/miles/transcript/2019/09/20190916-53483100)
 
-[文字版：郭先生7月15日直播：盤古大觀在7月14日被北京高院公告······將以實際價格的10%被拍賣······實際的背後的黑手就是江澤民和江志成，孟建柱和孫力軍······王岐山！這就是過去兩週他們要栽贓····](/content/transcript/2019/07/20190716-7014702308102493724)
+[郭文贵2021年10月26日盖特 20211026_3尊敬的战后们好……为什么我们的穷人总是一直穷？为什么习近平在北京．江派的人竟然不知道？川普总统的股票为什么暴跌？]({{site.baseurl}}/docs/miles/transcript/2021/10/20211026-53483099)
 
-[文字版2019年7月14日班农与文贵直播：共产党为什么可以强奸美国70年？（郭先生篇）](/content/transcript/2019/07/20190716-7612931641491284190)
+[郭文贵2021年11月15日盖特 20211115_3尊敬的战友们好，我们开始吃馍馍．吃饭饭喽……]({{site.baseurl}}/docs/miles/transcript/2021/11/20211115-53483098)
 
-[文字版：2019年7月12日蔡英文訪問紐約，和香港接下來的行動。大阪G20的結果已經影響了美國內部的政治！一切都是剛剛開始！](/content/transcript/2019/07/20190712-9051839422089379972)
+[郭文贵2021年10月12日盖特 20211012_1尊敬的战友们好……共产党的经济超限战……正危害全球的所有的金融市场和国家的经济安全！]({{site.baseurl}}/docs/miles/transcript/2021/10/20211012-53483097)
 
-[文字版：2019年7月10日，尊敬的战友们好，不要计较任何的名，利，不要评价香港的抗议运动的阶段性的得失······我们只有一个目标：灭共！其他都不重要！](/content/transcript/2019/07/20190711-2214533308636884375)
+[郭文贵2021年10月24日盖特 20211024_2绝密绝密绝密．习近平在共产党的六中全会前的．五国秘密外访，说明了什么？有什么样的内外政治目的？]({{site.baseurl}}/docs/miles/transcript/2021/10/20211024-53483096)
 
-[文字版：2019年7月9日：香港逃犯法为什么死亡了？香港还会有抗议吗？会实现双普选吗？](/content/transcript/2019/07/20190710-3352711753808364354)
+[郭文贵2019年9月14日 20190914尊敬的战友们好！你们健身了吗？你们传播香港危机真相了吗？从共产党昨天在香港疯狂！说明了，共产党是个彻彻底底的大流氓集团．一切都是刚刚开始！]({{site.baseurl}}/docs/miles/transcript/2019/09/20190914-53483095)
 
-[文字版：2019年7月8日：文贵车上谈王健之死](/content/transcript/2019/07/20190710-5360676795961744736)
+[郭文贵2021年10月20日直播 20211020_1喜币是最真实干净的革命性货币，喜支付的商业历史性意义；马云在被进行刑事调查时没有及时如实公告，马云在西班牙操纵股价，蔡中信的房子是马云的，他洗掉了马云75%的钱；江志城的投资都]({{site.baseurl}}/docs/miles/transcript/2021/10/20211020-53483094)
 
 
-## 頁面 25/42 [**<**]({{site.baseurl}}/miles/transcript/page24) [1]({{site.baseurl}}/miles/transcript/index) ... [20]({{site.baseurl}}/miles/transcript/page20) [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) **25** [26]({{site.baseurl}}/miles/transcript/page26) [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page26)
+## 頁面 25/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page24) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [20]({{site.baseurl}}/docs/miles/transcript/page20) [21]({{site.baseurl}}/docs/miles/transcript/page21) [22]({{site.baseurl}}/docs/miles/transcript/page22) [23]({{site.baseurl}}/docs/miles/transcript/page23) [24]({{site.baseurl}}/docs/miles/transcript/page24) **25** [26]({{site.baseurl}}/docs/miles/transcript/page26) [27]({{site.baseurl}}/docs/miles/transcript/page27) [28]({{site.baseurl}}/docs/miles/transcript/page28) [29]({{site.baseurl}}/docs/miles/transcript/page29) [30]({{site.baseurl}}/docs/miles/transcript/page30) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page26)

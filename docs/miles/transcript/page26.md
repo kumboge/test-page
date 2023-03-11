@@ -1,57 +1,57 @@
 ---
 title: 郭文貴先生的視頻文字
 ---
-## 頁面 26/42 [**<**]({{site.baseurl}}/miles/transcript/page25) [1]({{site.baseurl}}/miles/transcript/index) ... [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) **26** [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page27)
+## 頁面 26/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page25) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [21]({{site.baseurl}}/docs/miles/transcript/page21) [22]({{site.baseurl}}/docs/miles/transcript/page22) [23]({{site.baseurl}}/docs/miles/transcript/page23) [24]({{site.baseurl}}/docs/miles/transcript/page24) [25]({{site.baseurl}}/docs/miles/transcript/page25) **26** [27]({{site.baseurl}}/docs/miles/transcript/page27) [28]({{site.baseurl}}/docs/miles/transcript/page28) [29]({{site.baseurl}}/docs/miles/transcript/page29) [30]({{site.baseurl}}/docs/miles/transcript/page30) [31]({{site.baseurl}}/docs/miles/transcript/page31) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page27)
 
-[文字版：2019年7月8日文贵在船上讲述在长岛买豪宅借战友和我是不是双料间谍](/content/transcript/2019/07/20190710-4802216487220776718)
+[郭文贵2021年11月15日盖特 20211115_2尊敬的战友们好，全世界都在准备着……共产党擀面杖子的虚假经济．即将崩塌，而准备各自的经济大逃亡……]({{site.baseurl}}/docs/miles/transcript/2021/11/20211115-53483092)
 
-[文字版：2019年7月7日王岐山又出手王健“活该死”及香港抗议将引发的CCP灭亡第一战的意义](/content/transcript/2019/07/20190709-1755868837124119656)
+[郭文贵2021年10月23日盖特 20211023_1尊敬的战友们好．太多战友发来各种信息，文贵确实无法一一回复，有些问题等明天24号上午9:00的与战友们的大直播中，回答亲爱的兄弟姐妹们……一切都已经开始！]({{site.baseurl}}/docs/miles/transcript/2021/10/20211023-53483091)
 
-[文字版：郭先生2019年7月7日聊聊我们的郭媒体，感谢战友们的辛勤付出](/content/transcript/2019/07/20190708-1629076298190675341)
+[郭文贵2021年10月17日直播 20211017_1青蒿素的神奇功效；爆料孙力军，傅政华和江志诚在新加坡被抓的细节；中共的经济政治危机导致对台开战，将引发美国，日本对中共进行极限战争；经过疫苗灾难，灭共之后，人类会走向更好的]({{site.baseurl}}/docs/miles/transcript/2021/10/20211017-53483090)
 
-[文字版：2019年7月6日与彭文正先生连线----灭共保台](/content/transcript/2019/07/20190707-3878113483367388120)
+[郭文贵2021年11月15日盖特 20211115_1尊敬的战友们好，你们健身了吗？传播C C P病毒和疫苗解药的真相了吗？一切都已经开始！]({{site.baseurl}}/docs/miles/transcript/2021/11/20211115-53483088)
 
-[文字版：2019年7月5日文贵船上直播](/content/transcript/2019/07/20190706-5106022506023396161)
+[郭文贵2019年9月13日 20190913向战友们祝福中秋节快乐！与战友们分享第一个没有母亲的中秋节的感受！中秋团圆夜，灭共倒计时!]({{site.baseurl}}/docs/miles/transcript/2019/09/20190913-53483085)
 
-[文字版：2019年7月3日文贵在华盛顿的车上直播](/content/transcript/2019/07/20190705-1736534558045793332)
+[郭文贵2021年10月21日盖特 20211021_1尊敬的战友们好……虚拟货币时代的到来……和世界经济的危机……将诞生新的金融体系和金融帝国。共产党的内部的斗争腥风血雨，随时出大事儿。]({{site.baseurl}}/docs/miles/transcript/2021/10/20211021-53483084)
 
-[文字版2019年7月1日文貴在DC直播，講香港七.一大遊行](/content/transcript/2019/07/20190702-4761346884149440512)
+[郭文贵2021年11月13日盖特 20211113_1尊敬的戰友們好⋯⋯你們健身了嗎⋯⋯傳播CC P病毒⋯⋯疫苗解藥的真相了嗎！一切都已經開始⋯⋯別忘了今天看真人真事節目呀⋯⋯]({{site.baseurl}}/docs/miles/transcript/2021/11/20211113-53483082)
 
-[文字版：2019 年6月30日郭先生班農先生直播 談G20 香港 臺灣 北朝鮮](/content/transcript/2019/07/20190702-6850390939330933218)
+[郭文贵2021年10月27日直播 20211027_1盖特的价值和盈利模式是什么；喜币新上市时间的历史意义；共产党的房产税与金融的关系；中共国经济，金融的大崩溃]({{site.baseurl}}/docs/miles/transcript/2021/10/20211027-53483080)
 
-[文字版2019-06-29郭文貴先生直播【G20有….協議  爆料革命大勝】](/content/transcript/2019/06/20190630-3604984578617941887)
+[郭文贵2019年8月17日 20190817（原声） 班农与文贵先生谈：香港危机 美国即将必须采取的行动]({{site.baseurl}}/docs/miles/transcript/2019/08/20190817-53483079)
 
-[文字版：6月26日郭文贵先生直播：谈香港游行的中共黑手，东南西北四方围剿中共正在收网](/content/transcript/2019/06/20190627-3104653818463071254)
+[郭文贵2021年11月11日盖特 20211111_1尊敬的战友们好！共产党的光棍节骗局，彻底破产，共产党的房地产骗局将给世界的经济带来巨大的灾难……莘县阳谷县达县咱走着看！]({{site.baseurl}}/docs/miles/transcript/2021/11/20211111-53483077)
 
-[文字版：6月25日文貴報平安6月25日从香港的成功抗议行动，和近几天共产党的统一宣传口径，让我们看到了过去两年爆料革命所面临的挑战！](/content/transcript/2019/06/20190625-920777833882255491)
+[郭文贵2019年9月11日 20190911博尔顿离开白宫内幕！全世界各方面灭共人士灭共力量大聚集！]({{site.baseurl}}/docs/miles/transcript/2019/09/20190911-53483073)
 
-[翻译美国对伊朗实施制裁的行政命令](/content/transcript/2019/06/20190625-2187152093709329841)
+[郭文贵2021年11月10日盖特 20211110_2尊敬的战友们好……你们健身了吗？战友们有钱了是不是就不应该健身了呢？]({{site.baseurl}}/docs/miles/transcript/2021/11/20211110-53483072)
 
-[文字版：2019年6月23日念从心起力量无比念念不忘必有回响](/content/transcript/2019/06/20190623-2853766971834487830)
+[郭文贵2021年11月9日盖特 20211109_1尊敬的战友们好，你们健身了吗？你们在北京的六中全会发现什么了吗？你们传播C C P的病毒和疫苗的解药的真相了吗？一切都已经开始！]({{site.baseurl}}/docs/miles/transcript/2021/11/20211109-53483070)
 
-[文字版：2019年6月22日文贵直播中共如何和塔利班共同反恐](/content/transcript/2019/06/20190623-4535731736984314689)
+[郭文贵2021年11月8日盖特 20211108_3七哥扎真真了……]({{site.baseurl}}/docs/miles/transcript/2021/11/20211108-53483068)
 
-[文字版：郭文贵先生2019年6月20日谈王毅讲的潘多拉盒子是什么意思](/content/transcript/2019/06/20190621-2858079650750078361)
+[郭文贵2021年11月8日盖特 20211108_2尊敬的战友们好，你们健身了吗？你们传播CCP病毒！香港危机和疫苗解药的真相了吗？一切都已经开始！]({{site.baseurl}}/docs/miles/transcript/2021/11/20211108-53483062)
 
-[文字版：6月18日文贵纽约时间晚上8点直播關於香港21日再次上街](/content/transcript/2019/06/20190620-2817897737957212509)
+[郭文贵2019年9月9日第一次直播 20190909_1路德访谈文贵、班农先生：川普会什么时候决定脱钩？马云离开阿里以后的结局？美国到底是否值得中国人民依靠？]({{site.baseurl}}/docs/miles/transcript/2019/09/20190909-53483061)
 
-[文字稿：香港時間2019年6月17日上午直播](/content/transcript/2019/06/20190618-7972608617443196420)
+[郭文贵2021年10月3日盖特 20211003_2衷心地感谢，今天所有的战友们，参与的六个小时的大直播，感谢所有的台前幕后的工作的兄弟姐妹们，七哥还是感觉，意犹未尽，????????????现在还想马上直播，咋弄咧咋弄咧？]({{site.baseurl}}/docs/miles/transcript/2021/10/20211003-53483059)
 
-[文字版：2019年6月14日郭文貴先生直播：林鄭月娥必须提出辭職，取消「逃犯條例」](/content/transcript/2019/06/20190615-9025117161508016054)
+[郭文贵2021年10月3日直播 20211003_1中共外交部是情报机关；爆料程国平，大使倪坚；王毅，杨洁篪，王沪宁一定被抓；外交部和政法委的腐败黑暗关系；傅政华与文贵的通话录音变声的真相；习王江曾厮杀的核心；病毒解药一定都]({{site.baseurl}}/docs/miles/transcript/2021/10/20211003-53483058)
 
-[文字版：2019年6月13日傍晚与细丝和庄烈宏直播](/content/transcript/2019/06/20190615-8556712015252001819)
+[郭文贵2019年9月9日第二次直播 20190909_2尊敬的战友们好！你们健身了吗？你们传播香港危机的真相了吗？为什么香港的富豪．被威胁他们隐蔽海外资产共产党可以没收！昨天香港的金融市场再次地被共产党用电脑控制，这意味着什么？]({{site.baseurl}}/docs/miles/transcript/2019/09/20190909-53483052)
 
-[文字版：郭先生緊急喊話香港616必須上街！](/content/transcript/2019/06/20190615-3492189013164617550)
+[郭文贵2019年8月16日视频 20190816尊敬的战友们好．你们传播香港危机的真相了吗？香港反送中运动．已经变成了国际集体反共的运动，战友们和香港同胞们一定要抓住机会，赢得这场前所未有的灭共战争，一切]({{site.baseurl}}/docs/miles/transcript/2019/08/20190816-53483049)
 
-[文字版：2019年6月13日谈香港反遣返游行](/content/transcript/2019/06/20190613-2395571549035614161)
+[郭文贵2019年9月8日 20190908美国国会山开山“灭共助港”，李小加港交所期货交易当机玩儿大了！中共如何用通货膨胀奴役中国人民！]({{site.baseurl}}/docs/miles/transcript/2019/09/20190908-53483047)
 
-[文字版：2019年6月12日文贵与细丝直播 如何布局最后部分谈8964监狱风云分享精彩人生经历](/content/transcript/2019/06/20190613-2844499569524374811)
+[郭文贵2021年11月10日直播 20211110_1中共六中全会内部报告：中国癌症发病人数第一，与病毒相关性死亡1370万人；香港外籍人士撤离历史新高，大量外汇移出，香港在6个月内成为金融空港；对病毒真相的掩盖造成医疗行业医务人员流]({{site.baseurl}}/docs/miles/transcript/2021/11/20211110-53483045)
 
-[文字版：2019年6月10日，文貴報平安再談，上天送給我的幾個巨大的禮物](/content/transcript/2019/06/20190611-3204594728389036788)
+[郭文贵2019年8月15日视频 20190815Greetings honored friends! Have you done any workout? Have you spreaded the truth of...]({{site.baseurl}}/docs/miles/transcript/2019/08/20190815-53483042)
 
-[文字版：2019年6月8日文貴直播](/content/transcript/2019/06/20190608-7050696263727200895)
+[郭文贵2021年11月5日盖特 20211105_2尊敬的战友们好，今天星期五的大直播前．提前锻炼，因为今天没有时间锻炼了……任何情况下都不要给自己的承诺．和目标．找任何借口放弃！一切都已经开始！]({{site.baseurl}}/docs/miles/transcript/2021/11/20211105-53483038)
 
-[文字版：2019年6月7日 香港的事真搞大了](/content/transcript/2019/06/20190608-7273432154872200395)
+[郭文贵2021年11月4日盖特 20211104_1尊敬的战友们好！你们健身了吗？传播CCP病毒，香港灾难和疫苗解药的真相了吗？一切都已经开始！]({{site.baseurl}}/docs/miles/transcript/2021/11/20211104-53483037)
 
 
-## 頁面 26/42 [**<**]({{site.baseurl}}/miles/transcript/page25) [1]({{site.baseurl}}/miles/transcript/index) ... [21]({{site.baseurl}}/miles/transcript/page21) [22]({{site.baseurl}}/miles/transcript/page22) [23]({{site.baseurl}}/miles/transcript/page23) [24]({{site.baseurl}}/miles/transcript/page24) [25]({{site.baseurl}}/miles/transcript/page25) **26** [27]({{site.baseurl}}/miles/transcript/page27) [28]({{site.baseurl}}/miles/transcript/page28) [29]({{site.baseurl}}/miles/transcript/page29) [30]({{site.baseurl}}/miles/transcript/page30) [31]({{site.baseurl}}/miles/transcript/page31) ... [42]({{site.baseurl}}/miles/transcript/page42) [**>**]({{site.baseurl}}/miles/transcript/page27)
+## 頁面 26/109 [**<**]({{site.baseurl}}/docs/miles/transcript/page25) [1]({{site.baseurl}}/docs/miles/transcript/index) ... [21]({{site.baseurl}}/docs/miles/transcript/page21) [22]({{site.baseurl}}/docs/miles/transcript/page22) [23]({{site.baseurl}}/docs/miles/transcript/page23) [24]({{site.baseurl}}/docs/miles/transcript/page24) [25]({{site.baseurl}}/docs/miles/transcript/page25) **26** [27]({{site.baseurl}}/docs/miles/transcript/page27) [28]({{site.baseurl}}/docs/miles/transcript/page28) [29]({{site.baseurl}}/docs/miles/transcript/page29) [30]({{site.baseurl}}/docs/miles/transcript/page30) [31]({{site.baseurl}}/docs/miles/transcript/page31) ... [109]({{site.baseurl}}/docs/miles/transcript/page109) [**>**]({{site.baseurl}}/docs/miles/transcript/page27)
